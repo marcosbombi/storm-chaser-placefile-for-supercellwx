@@ -2,8 +2,8 @@ name: Update YouTube Placefile
 
 on:
   schedule:
-    - cron: "*/10 * * * *"  # runs every 10 minutes
-  workflow_dispatch:       # allows manual run
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -25,15 +25,22 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run script with debug
-        run: |
-          echo "Running Python script..."
-          python generate_placefile.py
+      - name: Run script
+        run: python generate_placefile.py
 
-      - name: Commit and push updated placefile
+      - name: Verify file exists
+        run: |
+          echo "Current directory:"
+          pwd
+          echo "Listing files:"
+          ls -l
+          test -f youtube_chasers.txt && echo "✅ File exists" || (echo "❌ File missing" && exit 1)
+
+      - name: Commit and push
         run: |
           git config user.name "marcosbombi"
           git config user.email "marcosbombi@users.noreply.github.com"
           git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}
           git add youtube_chasers.txt
-          git diff --quiet || (git commit -m "Auto-update placefile" && git push)
+          git commit -am "Auto-update placefile" || echo "Nothing to commit"
+          git push
