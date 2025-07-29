@@ -1,12 +1,12 @@
-name: Update YouTube Placefile
+name: Auto-generate YouTube Chasers Placefile
 
 on:
-  schedule:
-    - cron: "*/10 * * * *"
   workflow_dispatch:
+  schedule:
+    - cron: '*/15 * * * *'  # every 15 minutes
 
 jobs:
-  update-placefile:
+  build:
     runs-on: ubuntu-latest
 
     env:
@@ -18,35 +18,25 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
 
       - name: Run script to generate placefile
         run: python generate_placefile.py
 
-      - name: Check if file exists
-        run: |
-          echo "🧪 Checking for youtube_chasers.txt..."
-          ls -l
-          if [ ! -f youtube_chasers.txt ]; then
-            echo "❌ youtube_chasers.txt not found!"
-            exit 1
-          fi
-          echo "✅ File exists!"
-
       - name: Configure Git
         run: |
-          git config --global user.name "marcosbombi"
-          git config --global user.email "marcosbombi@users.noreply.github.com"
+          git config user.name "marcosbombi"
+          git config user.email "marcosbombi@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/marcosbombi/storm-chaser-placefile-for-supercellwx.git
 
-      - name: Commit and push if file changed
+      - name: Commit and Push changes
         run: |
-          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}
           git add youtube_chasers.txt
-          git status
-          git diff --cached --exit-code && echo "🟡 No changes to commit" || git commit -m "Auto-update placefile"
-          git push
+          git diff --quiet && echo "No changes to commit" || (git commit -m "Auto-update placefile" && git push origin main)
