@@ -1,4 +1,4 @@
-# Generated: 2025-07-29T15:36:29.900298Z
+# Generated: 2025-07-29T15:54:44.508724Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
@@ -7,8 +7,8 @@ Object: Stream0
 Type: ICON
 Icon: 1,0,0
 Threshold: 999
-Lat: 35.4419
-Lon: -97.2383
+Lat: 35.7711
+Lon: -97.4701
 Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=ove9_JJscCo)"
 End:
 
@@ -16,8 +16,8 @@ Object: Stream1
 Type: ICON
 Icon: 1,0,0
 Threshold: 999
-Lat: 35.2660
-Lon: -97.1714
+Lat: 35.7807
+Lon: -97.8905
 Text: 0,1,1,"🔴 Live 24/7 National Weather Radar &amp; Alerts, Weather Intensity Score &amp; YallBot! 🔴 [Live](https://www.youtube.com/watch?v=0tDeAg_mGa0)"
 End:
 
@@ -25,187 +25,169 @@ Object: Stream2
 Type: ICON
 Icon: 1,0,0
 Threshold: 999
-Lat: 35.5615
-Lon: -97.6555
-Text: 0,1,1,"🔴 LIVE Texas Radar &amp; Temperatures, Severe &amp; Tornado Warnings, Background Music! Texas Weather Center 🔴 [Live](https://www.youtube.com/watch?v=1bVlgeNyDf0)"
+Lat: 35.7354
+Lon: -97.8855
+Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
 
 Object: Stream3
 Type: ICON
 Icon: 1,0,0
 Threshold: 999
-Lat: 35.1582
-Lon: -97.7741
-Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
+Lat: 35.4805
+Lon: -97.7552
+Text: 0,1,1,"LIVE Storm Track 8 Radar | Indianapolis | Indiana | Weather 🔴 [Live](https://www.youtube.com/watch?v=KEyk9LsXA14)"
 End:
 
 Object: Stream4
 Type: ICON
 Icon: 1,0,0
 Threshold: 999
-Lat: 35.9618
-Lon: -97.7895
-Text: 0,1,1,"LIVE Storm Track 8 Radar | Indianapolis | Indiana | Weather 🔴 [Live](https://www.youtube.com/watch?v=KEyk9LsXA14)"
+Lat: 35.8895
+Lon: -97.8106
+Text: 0,1,1,"News On 6 Live Newscasts and 24/7 Streaming 🔴 [Live](https://www.youtube.com/watch?v=mRZ_4rqJaO4)"
 End:
 
 Object: Stream5
 Type: ICON
 Icon: 1,0,0
 Threshold: 999
-Lat: 35.0200
-Lon: -97.8436
-Text: 0,1,1,"News On 6 Live Newscasts and 24/7 Streaming 🔴 [Live](https://www.youtube.com/watch?v=mRZ_4rqJaO4)"
+Lat: 35.8755
+Lon: -97.6404
+Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
 End:
 
 Object: Stream6
 Type: ICON
 Icon: 1,0,0
 Threshold: 999
-Lat: 35.3798
-Lon: -97.7546
-Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
+Lat: 35.4373
+Lon: -97.2924
+Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
 End:
 
 Object: Stream7
 Type: ICON
 Icon: 1,0,0
 Threshold: 999
-Lat: 35.0250
-Lon: -97.0729
-Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
+Lat: 35.4705
+Lon: -97.0829
+Text: 0,1,1,"⚠️ DANGEROUS STORMS SLAM RIGHT NOW! 🔴 [Live](https://www.youtube.com/watch?v=Q3Ax29hBYl4)"
 End:
 
 Object: Stream8
 Type: ICON
 Icon: 1,0,0
 Threshold: 999
-Lat: 35.5487
-Lon: -97.5737
-Text: 0,1,1,"⚠️ DANGEROUS STORMS SLAM RIGHT NOW! 🔴 [Live](https://www.youtube.com/watch?v=Q3Ax29hBYl4)"
+Lat: 35.0037
+Lon: -97.9328
+Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
 End:
 
 Object: Stream9
 Type: ICON
 Icon: 1,0,0
 Threshold: 999
-Lat: 35.1479
-Lon: -97.0572
-Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
+Lat: 35.9004
+Lon: -97.8450
+Text: 0,1,1,"🔴 Heavy Rain and Thunder Sounds 24/7 - Deep Sleep | Thunderstorm for Sleeping - Pure Relaxing Vibes 🔴 [Live](https://www.youtube.com/watch?v=cI0zN1nG3PQ)"
 End:
 
 Object: Stream10
 Type: ICON
 Icon: 1,0,0
 Threshold: 999
-Lat: 35.2117
-Lon: -97.0792
-Text: 0,1,1,"Aftershocks in Kamchatka continue | Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
+Lat: 35.0796
+Lon: -97.7607
+Text: 0,1,1,"LIVE: Watch Very Oklahoma by KOCO NOW! Oklahoma City news, weather and more. 🔴 [Live](https://www.youtube.com/watch?v=LwA21s2em1M)"
 End:
 
 Object: Stream11
 Type: ICON
 Icon: 1,0,0
 Threshold: 999
-Lat: 35.4494
-Lon: -97.5329
-Text: 0,1,1,"LIVE: Watch Very Oklahoma by KOCO NOW! Oklahoma City news, weather and more. 🔴 [Live](https://www.youtube.com/watch?v=LwA21s2em1M)"
+Lat: 35.7867
+Lon: -97.5152
+Text: 0,1,1,"WKU White Squirrel Weather Live View 🔴 [Live](https://www.youtube.com/watch?v=cgJoLfORVDI)"
 End:
 
 Object: Stream12
 Type: ICON
 Icon: 1,0,0
 Threshold: 999
-Lat: 35.6948
-Lon: -97.8274
-Text: 0,1,1,"WKU White Squirrel Weather Live View 🔴 [Live](https://www.youtube.com/watch?v=cgJoLfORVDI)"
+Lat: 35.5000
+Lon: -97.2684
+Text: 0,1,1,"Nebraska Weather TV 🔴 [Live](https://www.youtube.com/watch?v=qU-XprNLJHY)"
 End:
 
 Object: Stream13
 Type: ICON
 Icon: 1,0,0
 Threshold: 999
-Lat: 35.2784
-Lon: -97.4204
-Text: 0,1,1,"EXTREME Rain &amp; Thunder in Hidden House inside the Forest-Rain Sounds for Sleep 🔴 [Live](https://www.youtube.com/watch?v=qbtTgKNlD_k)"
+Lat: 35.6761
+Lon: -97.7142
+Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
 End:
 
 Object: Stream14
 Type: ICON
 Icon: 1,0,0
 Threshold: 999
-Lat: 35.1645
-Lon: -97.6243
-Text: 0,1,1,"Nebraska Weather TV 🔴 [Live](https://www.youtube.com/watch?v=qU-XprNLJHY)"
+Lat: 35.7786
+Lon: -97.0428
+Text: 0,1,1,"WDTN - Beavercreek Camera 🔴 [Live](https://www.youtube.com/watch?v=D9flnb2pQDc)"
 End:
 
 Object: Stream15
 Type: ICON
 Icon: 1,0,0
 Threshold: 999
-Lat: 35.4812
-Lon: -97.1993
-Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
+Lat: 35.4330
+Lon: -97.0660
+Text: 0,1,1,"🔴 LIVE Mississippi River Wildlife Camera, Brainerd, MN 🔴 [Live](https://www.youtube.com/watch?v=eNkZeO12t1Y)"
 End:
 
 Object: Stream16
 Type: ICON
 Icon: 1,0,0
 Threshold: 999
-Lat: 35.3620
-Lon: -97.3192
-Text: 0,1,1,"WDTN - Beavercreek Camera 🔴 [Live](https://www.youtube.com/watch?v=D9flnb2pQDc)"
+Lat: 35.4310
+Lon: -97.9420
+Text: 0,1,1,"Big Ole Live 🔴 [Live](https://www.youtube.com/watch?v=Yw8CZCEOdXE)"
 End:
 
 Object: Stream17
 Type: ICON
 Icon: 1,0,0
 Threshold: 999
-Lat: 35.3247
-Lon: -97.1159
-Text: 0,1,1,"🔴 LIVE Mississippi River Wildlife Camera, Brainerd, MN 🔴 [Live](https://www.youtube.com/watch?v=eNkZeO12t1Y)"
+Lat: 35.7303
+Lon: -97.7972
+Text: 0,1,1,"Alexander County Courthouse Park 🔴 [Live](https://www.youtube.com/watch?v=RuiHEi2ImpI)"
 End:
 
 Object: Stream18
 Type: ICON
 Icon: 1,0,0
 Threshold: 999
-Lat: 35.9614
-Lon: -97.2413
-Text: 0,1,1,"Big Ole Live 🔴 [Live](https://www.youtube.com/watch?v=Yw8CZCEOdXE)"
+Lat: 35.4655
+Lon: -97.0379
+Text: 0,1,1,"Severe Weather Coverage! - Less Than a 2% Tornado Risk Today! 🔴 [Live](https://www.youtube.com/watch?v=O99kX1kN33U)"
 End:
 
 Object: Stream19
 Type: ICON
 Icon: 1,0,0
 Threshold: 999
-Lat: 35.9606
-Lon: -97.8382
-Text: 0,1,1,"Alexander County Courthouse Park 🔴 [Live](https://www.youtube.com/watch?v=RuiHEi2ImpI)"
+Lat: 35.3811
+Lon: -97.7493
+Text: 0,1,1,"Shelter in an Old House from the Approaching Terrifying Storm | High Winds &amp; Lightning | 11 Hours 🔴 [Live](https://www.youtube.com/watch?v=vEnsswH0ZM8)"
 End:
 
 Object: Stream20
 Type: ICON
 Icon: 1,0,0
 Threshold: 999
-Lat: 35.7920
-Lon: -97.4432
-Text: 0,1,1,"Severe Weather Coverage! - Less Than a 2% Tornado Risk Today! 🔴 [Live](https://www.youtube.com/watch?v=O99kX1kN33U)"
-End:
-
-Object: Stream21
-Type: ICON
-Icon: 1,0,0
-Threshold: 999
-Lat: 35.8527
-Lon: -97.3716
-Text: 0,1,1,"Shelter in an Old House from the Approaching Terrifying Storm | High Winds &amp; Lightning | 11 Hours 🔴 [Live](https://www.youtube.com/watch?v=vEnsswH0ZM8)"
-End:
-
-Object: Stream22
-Type: ICON
-Icon: 1,0,0
-Threshold: 999
-Lat: 35.5376
-Lon: -97.9948
+Lat: 35.5633
+Lon: -97.4459
 Text: 0,1,1,"South Dakota School of Mines and Technology&#39;s (SDSM&amp;T) Dino Cam 🔴 [Live](https://www.youtube.com/watch?v=6lYoPExcOwg)"
 End:
