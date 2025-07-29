@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  update-placefile:
     runs-on: ubuntu-latest
 
     env:
@@ -14,8 +14,8 @@ jobs:
       GH_PAT: ${{ secrets.GH_PAT }}
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -25,22 +25,28 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run script
+      - name: Run script to generate placefile
         run: python generate_placefile.py
 
-      - name: Verify file exists
+      - name: Check if file exists
         run: |
-          echo "Current directory:"
-          pwd
-          echo "Listing files:"
+          echo "🧪 Checking for youtube_chasers.txt..."
           ls -l
-          test -f youtube_chasers.txt && echo "✅ File exists" || (echo "❌ File missing" && exit 1)
+          if [ ! -f youtube_chasers.txt ]; then
+            echo "❌ youtube_chasers.txt not found!"
+            exit 1
+          fi
+          echo "✅ File exists!"
 
-      - name: Commit and push
+      - name: Configure Git
         run: |
-          git config user.name "marcosbombi"
-          git config user.email "marcosbombi@users.noreply.github.com"
+          git config --global user.name "marcosbombi"
+          git config --global user.email "marcosbombi@users.noreply.github.com"
+
+      - name: Commit and push if file changed
+        run: |
           git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}
           git add youtube_chasers.txt
-          git commit -am "Auto-update placefile" || echo "Nothing to commit"
+          git status
+          git diff --cached --exit-code && echo "🟡 No changes to commit" || git commit -m "Auto-update placefile"
           git push
