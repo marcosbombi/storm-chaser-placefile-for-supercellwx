@@ -1,6 +1,7 @@
 import requests
 import random
 import os
+from datetime import datetime
 
 API_KEY = os.getenv('YOUTUBE_API_KEY')  # Read API key from environment variable
 SEARCH_QUERY = "storm chasing tornado severe weather"
@@ -26,6 +27,7 @@ def search_youtube_live_streams(api_key, query, max_results=25):
 
 def generate_placefile(streams):
     lines = []
+    lines.append(f"# Generated: {datetime.utcnow().isoformat()}Z")
     lines.append("Title: YouTube Storm Chaser Live Streams")
     lines.append("Refresh: 300")
     lines.append("Color: 255 0 0\n")
