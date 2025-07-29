@@ -1,22 +1,21 @@
-name: Update YouTube Storm Chaser Placefile
+name: update-placefile
 
 on:
   schedule:
-    - cron: '*/15 * * * *'    # every 15 minutes
-  workflow_dispatch:          # manual trigger allowed
+    - cron: '*/10 * * * *'   # adjust to your preferred schedule
+  workflow_dispatch:
 
 jobs:
-  update-placefile:
+  update:
     runs-on: ubuntu-latest
-    env:
-      GH_PAT: ${{ secrets.GH_PAT }}
-      YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo without credentials
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false  # IMPORTANT: disables default GITHUB_TOKEN for git
 
-      - name: Set up Python 3.x
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
@@ -24,21 +23,22 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run placefile generator script
+      - name: Generate placefile
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python generate_placefile.py
 
-      - name: List files in root
-        run: ls -la
-
       - name: Commit and push changes
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+          BRANCH: ${{ github.ref_name }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add youtube_chasers.txt
           if ! git diff --cached --quiet; then
             git commit -m "Auto-update placefile"
-            git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git
-            BRANCH=${GITHUB_REF#refs/heads/}
+            git remote set-url origin https://x-access-token:${GH_PAT}@github.com/marcosbombi/storm-chaser-placefile-for-supercellwx.git
             git push origin "$BRANCH"
           else
             echo "No changes to commit"
