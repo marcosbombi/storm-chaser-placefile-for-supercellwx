@@ -51,13 +51,9 @@ def generate_placefile(streams):
         lat = BASE_LAT + (random.random() - 0.5) * 1.0  # ±0.5 degrees
         lon = BASE_LON + (random.random() - 0.5) * 1.0
 
-        lines.append(f"Object: Stream{i}")
-        lines.append("Type: ICON")
-        lines.append("Icon: 1,0,0")
-        lines.append("Threshold: 999")
-        lines.append(f"Lat: {lat:.4f}")
-        lines.append(f"Lon: {lon:.4f}")
-        lines.append(f'Text: 0,1,1,"{title} 🔴 [Live]({url})"')
+        lines.append(f"Object: {lat:.4f} {lon:.4f} 20")
+        lines.append(f"  Icon: 1")
+        lines.append(f'  Text: 0,1,1,"{title} 🔴 [Live]({url})"')
         lines.append("End:\n")
 
     return "\n".join(lines)
