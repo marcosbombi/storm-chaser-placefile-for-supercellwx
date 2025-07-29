@@ -3,21 +3,22 @@ name: Update YouTube Chaser Placefile
 on:
   schedule:
     - cron: '*/30 * * * *'  # runs every 30 minutes
-  workflow_dispatch:        # manual trigger option
+  workflow_dispatch:        # allows manual trigger
 
 jobs:
   update-placefile:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.x'
 
-    - name: Install requests
+    - name: Install dependencies
       run: pip install requests
 
     - name: Run placefile generation script
@@ -25,9 +26,18 @@ jobs:
         YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
       run: python generate_placefile.py
 
+    - name: List files after script runs
+      run: ls -la
+
+    - name: Show placefile content
+      run: cat youtube_chasers.txt
+
     - name: Commit and push updated placefile
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git add youtube_chasers.txt
-        git diff --quiet || (git commit -m "Auto-update placefile" && git push)
+        git status
+        git diff --cached
+        git commit -m "Auto-update placefile" || echo "No changes to commit"
+        git push
