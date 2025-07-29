@@ -1,24 +1,22 @@
-name: update-placefile
+name: Update YouTube Storm Chaser Placefile
 
 on:
   schedule:
-    - cron: '0 * * * *'  # every hour
-  workflow_dispatch:
+    - cron: '*/15 * * * *'    # every 15 minutes
+  workflow_dispatch:          # manual trigger allowed
 
 jobs:
-  update:
+  update-placefile:
     runs-on: ubuntu-latest
-
     env:
       GH_PAT: ${{ secrets.GH_PAT }}
+      YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          fetch-depth: 0  # full history for commits
 
-      - name: Set up Python
+      - name: Set up Python 3.x
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
@@ -26,8 +24,11 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run placefile generator
+      - name: Run placefile generator script
         run: python generate_placefile.py
+
+      - name: List files in root
+        run: ls -la
 
       - name: Commit and push changes
         run: |
@@ -36,9 +37,9 @@ jobs:
           git add youtube_chasers.txt
           if ! git diff --cached --quiet; then
             git commit -m "Auto-update placefile"
-            # Use the PAT token for pushing
-            git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${GITHUB_REPOSITORY}.git
-            git push origin HEAD
+            git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git
+            BRANCH=${GITHUB_REF#refs/heads/}
+            git push origin "$BRANCH"
           else
             echo "No changes to commit"
           fi
