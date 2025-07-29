@@ -1,19 +1,24 @@
-name: Update YouTube Storm Chaser Placefile
+name: update-placefile
 
 on:
   schedule:
-    - cron: '*/15 * * * *'    # every 15 minutes (adjust as needed)
-  workflow_dispatch:          # allow manual trigger
+    - cron: '0 * * * *'  # every hour
+  workflow_dispatch:
 
 jobs:
-  update-placefile:
+  update:
     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    env:
+      GH_PAT: ${{ secrets.GH_PAT }}
 
-      - name: Set up Python 3.x
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # full history for commits
+
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
@@ -21,33 +26,19 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run placefile generator script
-        env:
-          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      - name: Run placefile generator
         run: python generate_placefile.py
 
-      - name: List files in root
-        run: ls -la
-
       - name: Commit and push changes
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-          GITHUB_REF: ${{ github.ref }}
-          GITHUB_REPOSITORY: ${{ github.repository }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
           git add youtube_chasers.txt
-          
           if ! git diff --cached --quiet; then
             git commit -m "Auto-update placefile"
+            # Use the PAT token for pushing
+            git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${GITHUB_REPOSITORY}.git
+            git push origin HEAD
           else
             echo "No changes to commit"
           fi
-
-          BRANCH=${GITHUB_REF#refs/heads/}
-          echo "Pushing to branch: $BRANCH"
-
-          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${GITHUB_REPOSITORY}.git
-          git push origin "$BRANCH"
