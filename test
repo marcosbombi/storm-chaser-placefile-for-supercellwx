@@ -1,0 +1,12 @@
+Title: Test Placefile
+Refresh: 300
+Color: 255 0 0
+
+Object: TestPoint
+Type: ICON
+Icon: 1,0,0
+Threshold: 999
+Lat: 35.4676
+Lon: -97.5164
+Text: 0,1,1,"Test Point"
+End:
