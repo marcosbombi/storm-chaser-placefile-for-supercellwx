@@ -1,114 +1,129 @@
-# Generated: 2025-07-30T23:58:19.639680Z
+# Generated: 2025-07-31T02:27:29.045014Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.8957 -97.1126 20
-  Icon: 1
-  Text: 0,1,1,"🔴LIVE STORM CHASERS | SOUTHWEST MONSOON 2025 - DAY 1 🔴 [Live](https://www.youtube.com/watch?v=hMSnj1vhpkI)"
-End:
-
-Object: 35.6466 -97.0911 20
+Object: 35.1514 -97.5592 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER / TSUNAMI WARNING COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=ZxY_ZHsFRTw)"
 End:
 
-Object: 35.4872 -97.2492 20
+Object: 35.2206 -97.6015 20
   Icon: 1
   Text: 0,1,1,"🔴LIVE | Storm Chasers Live | Monster Tornado Reported South Dakota 28th July 2025 | Ryan Hall Y All 🔴 [Live](https://www.youtube.com/watch?v=z_H-3-P3VPE)"
 End:
 
-Object: 35.7286 -97.8058 20
+Object: 35.9618 -97.9047 20
   Icon: 1
   Text: 0,1,1,"🔴 Live 24/7 National Weather Radar &amp; Alerts, Weather Intensity Score &amp; YallBot! 🔴 [Live](https://www.youtube.com/watch?v=0tDeAg_mGa0)"
 End:
 
-Object: 35.3402 -97.9620 20
+Object: 35.6596 -97.0013 20
   Icon: 1
-  Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
+  Text: 0,1,1,"🔴 LIVE Texas Radar &amp; Temperatures, Severe &amp; Tornado Warnings, Background Music! Texas Weather Center 🔴 [Live](https://www.youtube.com/watch?v=1bVlgeNyDf0)"
 End:
 
-Object: 35.6762 -97.1171 20
+Object: 35.4323 -97.3849 20
   Icon: 1
   Text: 0,1,1,"LIVE Storm Track 8 Radar | Indianapolis | Indiana | Weather 🔴 [Live](https://www.youtube.com/watch?v=KEyk9LsXA14)"
 End:
 
-Object: 35.1423 -97.5303 20
+Object: 35.6378 -97.1045 20
+  Icon: 1
+  Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
+End:
+
+Object: 35.7635 -97.5966 20
   Icon: 1
   Text: 0,1,1,"🌪️ LIVE: 24/7 Midwest Storm Radar | Real-Time Warnings, Tornado &amp; Severe Weather Coverage 🔴 [Live](https://www.youtube.com/watch?v=uP5xFUqU-Y0)"
 End:
 
-Object: 35.9886 -97.3553 20
+Object: 35.4460 -97.5534 20
+  Icon: 1
+  Text: 0,1,1,"🔴 Live - Storm Chaser Plays &quot;Trail of The Twister&quot; 90&#39;s Adventure Game 🔴 [Live](https://www.youtube.com/watch?v=B0g4mvmE_f8)"
+End:
+
+Object: 35.4099 -97.6240 20
   Icon: 1
   Text: 0,1,1,"News On 6 Live Newscasts and 24/7 Streaming 🔴 [Live](https://www.youtube.com/watch?v=mRZ_4rqJaO4)"
 End:
 
-Object: 35.3479 -97.8983 20
-  Icon: 1
-  Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
-End:
-
-Object: 35.9140 -97.7633 20
-  Icon: 1
-  Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
-End:
-
-Object: 35.3126 -97.1751 20
+Object: 35.7380 -97.9369 20
   Icon: 1
   Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
 End:
 
-Object: 35.2592 -97.1079 20
+Object: 35.9147 -97.3773 20
   Icon: 1
-  Text: 0,1,1,"LIVE: Watch Very Oklahoma by KOCO NOW! Oklahoma City news, weather and more. 🔴 [Live](https://www.youtube.com/watch?v=LwA21s2em1M)"
+  Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
 End:
 
-Object: 35.5269 -97.2541 20
+Object: 35.6531 -97.4893 20
+  Icon: 1
+  Text: 0,1,1,"🔴LIVE Breaking News Plus Disney, Roddenberry &amp; the 1964–65 World&#39;s Fair 🔴 [Live](https://www.youtube.com/watch?v=IhAa88e6fyg)"
+End:
+
+Object: 35.0724 -97.2066 20
+  Icon: 1
+  Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
+End:
+
+Object: 35.6581 -97.6083 20
   Icon: 1
   Text: 0,1,1,"Major Tsunami Warnings after M8.8 in Kamchatka | Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
 End:
 
-Object: 35.5817 -97.1229 20
+Object: 35.7410 -97.3823 20
   Icon: 1
   Text: 0,1,1,"Nebraska Weather TV 🔴 [Live](https://www.youtube.com/watch?v=qU-XprNLJHY)"
 End:
 
-Object: 35.2488 -97.7409 20
+Object: 35.0896 -97.3748 20
   Icon: 1
-  Text: 0,1,1,"WKU White Squirrel Weather Live View 🔴 [Live](https://www.youtube.com/watch?v=cgJoLfORVDI)"
+  Text: 0,1,1,"LIVE: Watch Very Oklahoma by KOCO NOW! Oklahoma City news, weather and more. 🔴 [Live](https://www.youtube.com/watch?v=LwA21s2em1M)"
 End:
 
-Object: 35.1255 -97.8871 20
+Object: 35.8215 -97.4584 20
   Icon: 1
   Text: 0,1,1,"EXTREME Rain &amp; Thunder in Hidden House inside the Forest-Rain Sounds for Sleep 🔴 [Live](https://www.youtube.com/watch?v=qbtTgKNlD_k)"
 End:
 
-Object: 35.1950 -97.1338 20
+Object: 35.8022 -97.9680 20
+  Icon: 1
+  Text: 0,1,1,"WKU White Squirrel Weather Live View 🔴 [Live](https://www.youtube.com/watch?v=cgJoLfORVDI)"
+End:
+
+Object: 35.6463 -97.2401 20
   Icon: 1
   Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
 End:
 
-Object: 35.5358 -97.2701 20
+Object: 35.8605 -97.6810 20
   Icon: 1
   Text: 0,1,1,"WDTN - Beavercreek Camera 🔴 [Live](https://www.youtube.com/watch?v=D9flnb2pQDc)"
 End:
 
-Object: 35.4856 -97.9143 20
+Object: 35.5351 -97.5440 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Mississippi River Wildlife Camera, Brainerd, MN 🔴 [Live](https://www.youtube.com/watch?v=eNkZeO12t1Y)"
 End:
 
-Object: 35.0318 -97.5535 20
+Object: 35.7085 -97.9486 20
   Icon: 1
   Text: 0,1,1,"Big Ole Live 🔴 [Live](https://www.youtube.com/watch?v=Yw8CZCEOdXE)"
 End:
 
-Object: 35.7862 -97.5984 20
+Object: 35.9475 -97.1949 20
   Icon: 1
   Text: 0,1,1,"Alexander County Courthouse Park 🔴 [Live](https://www.youtube.com/watch?v=RuiHEi2ImpI)"
 End:
 
-Object: 35.5511 -97.6407 20
+Object: 35.1550 -97.9937 20
   Icon: 1
-  Text: 0,1,1,"South Dakota School of Mines and Technology&#39;s (SDSM&amp;T) Dino Cam 🔴 [Live](https://www.youtube.com/watch?v=6lYoPExcOwg)"
+  Text: 0,1,1,"Severe Weather Coverage! - Less Than a 2% Tornado Risk Today! 🔴 [Live](https://www.youtube.com/watch?v=o0bQaI_q2LE)"
+End:
+
+Object: 35.5740 -97.4452 20
+  Icon: 1
+  Text: 0,1,1,"Sitting on the Porch on the Prairie Waiting for the Storm to Come | Thunder and Wind | 11 Hours... 🔴 [Live](https://www.youtube.com/watch?v=WFOm8rfZjD4)"
 End:
