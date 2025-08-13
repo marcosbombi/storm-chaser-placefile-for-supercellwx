@@ -1,129 +1,124 @@
-# Generated: 2025-08-13T20:30:40.893684Z
+# Generated: 2025-08-13T20:49:11.042333Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.3373 -97.9946 20
+Object: 35.4872 -97.4149 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=IBnd05Nvwvk)"
 End:
 
-Object: 35.8092 -97.3287 20
+Object: 35.9255 -97.0381 20
   Icon: 1
   Text: 0,1,1,"🔴 Live 24/7 National Weather Radar &amp; Alerts, Weather Intensity Score &amp; YallBot! 🔴 [Live](https://www.youtube.com/watch?v=0tDeAg_mGa0)"
 End:
 
-Object: 35.1160 -97.7706 20
+Object: 35.6486 -97.5822 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Texas Radar &amp; Temperatures, Severe &amp; Tornado Warnings, Background Music! Texas Weather Center 🔴 [Live](https://www.youtube.com/watch?v=1bVlgeNyDf0)"
 End:
 
-Object: 35.6450 -97.1054 20
+Object: 35.0639 -97.7381 20
   Icon: 1
   Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
 
-Object: 35.5587 -97.7938 20
+Object: 35.6465 -97.9883 20
   Icon: 1
   Text: 0,1,1,"Rain &amp; Thunderstorm in a Mountain Cabin ⛈️ Relaxing Sounds for Sleeping 😴 🔴 [Live](https://www.youtube.com/watch?v=9-BnjkLxgT0)"
 End:
 
-Object: 35.4003 -97.7967 20
-  Icon: 1
-  Text: 0,1,1,"Massive Tornado Outbreak! | TWISTED LIVE 🔴 [Live](https://www.youtube.com/watch?v=E5i_OmgF92E)"
-End:
-
-Object: 35.4211 -97.8416 20
-  Icon: 1
-  Text: 0,1,1,"Tropical Storm Erin Tracking!  - Possible Tornado? 🔴 [Live](https://www.youtube.com/watch?v=1ZXo5aRsCGs)"
-End:
-
-Object: 35.2310 -97.6329 20
-  Icon: 1
-  Text: 0,1,1,"Shelter in the Mountain Cabin from the Approaching Torrential ⛈️ Rain &amp; Thunder⚡for a Deep Sleep😴 🔴 [Live](https://www.youtube.com/watch?v=RfiISu7Ohog)"
-End:
-
-Object: 35.9627 -97.6707 20
-  Icon: 1
-  Text: 0,1,1,"LIVE Storm Track 8 Radar | Indianapolis | Indiana | Weather 🔴 [Live](https://www.youtube.com/watch?v=peBh4KoPKA8)"
-End:
-
-Object: 35.9827 -97.3373 20
+Object: 35.4286 -97.6043 20
   Icon: 1
   Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
 End:
 
-Object: 35.1077 -97.1096 20
+Object: 35.3871 -97.7619 20
+  Icon: 1
+  Text: 0,1,1,"Shelter in the Mountain Cabin from the Approaching Torrential ⛈️ Rain &amp; Thunder⚡for a Deep Sleep😴 🔴 [Live](https://www.youtube.com/watch?v=RfiISu7Ohog)"
+End:
+
+Object: 35.0851 -97.2734 20
+  Icon: 1
+  Text: 0,1,1,"LIVE Storm Track 8 Radar | Indianapolis | Indiana | Weather 🔴 [Live](https://www.youtube.com/watch?v=peBh4KoPKA8)"
+End:
+
+Object: 35.4121 -97.4947 20
   Icon: 1
   Text: 0,1,1,"News On 6 Live Newscasts and 24/7 Streaming 🔴 [Live](https://www.youtube.com/watch?v=mRZ_4rqJaO4)"
 End:
 
-Object: 35.2801 -97.7583 20
-  Icon: 1
-  Text: 0,1,1,"Western Turkey Aftershocks | Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
-End:
-
-Object: 35.9213 -97.9464 20
+Object: 35.6197 -97.4713 20
   Icon: 1
   Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
 End:
 
-Object: 35.7268 -97.6404 20
+Object: 35.7613 -97.7739 20
   Icon: 1
   Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
 End:
 
-Object: 35.0722 -97.7330 20
+Object: 35.2476 -97.5146 20
   Icon: 1
   Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
 End:
 
-Object: 35.8326 -97.2350 20
+Object: 35.4641 -97.8899 20
   Icon: 1
   Text: 0,1,1,"🔴 Heavy Rain and Thunder Sounds 24/7 - Deep Sleep | Thunderstorm for Sleeping - Pure Relaxing Vibes 🔴 [Live](https://www.youtube.com/watch?v=cI0zN1nG3PQ)"
 End:
 
-Object: 35.4858 -97.8608 20
+Object: 35.3069 -97.9862 20
   Icon: 1
   Text: 0,1,1,"EXTREME Rain &amp; Thunder in Hidden House inside the Forest-Rain Sounds for Sleep 🔴 [Live](https://www.youtube.com/watch?v=qbtTgKNlD_k)"
 End:
 
-Object: 35.2828 -97.7247 20
+Object: 35.4735 -97.7718 20
+  Icon: 1
+  Text: 0,1,1,"LIVE: Watch Very Omaha by KETV NOW! Omaha news, weather and more. 🔴 [Live](https://www.youtube.com/watch?v=hXAr1Nd3PFQ)"
+End:
+
+Object: 35.5690 -97.7477 20
   Icon: 1
   Text: 0,1,1,"WKU White Squirrel Weather Live View 🔴 [Live](https://www.youtube.com/watch?v=cgJoLfORVDI)"
 End:
 
-Object: 35.7646 -97.1565 20
+Object: 35.8023 -97.6311 20
   Icon: 1
   Text: 0,1,1,"LIVE: Watch Very Oklahoma by KOCO NOW! Oklahoma City news, weather and more. 🔴 [Live](https://www.youtube.com/watch?v=LwA21s2em1M)"
 End:
 
-Object: 35.3697 -97.8613 20
+Object: 35.7669 -97.1621 20
   Icon: 1
   Text: 0,1,1,"🔴URGENTE🔴ESTA ES LA NOTICIA QUE TODO VENEZUELA QUIERE ESCUCHAR Y VER AL DESPERTAR EL9 DE AGOSTO 🔴 [Live](https://www.youtube.com/watch?v=BvMvzYYICs0)"
 End:
 
-Object: 35.8750 -97.8267 20
+Object: 35.5547 -97.2716 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Mississippi River Wildlife Camera, Brainerd, MN 🔴 [Live](https://www.youtube.com/watch?v=eNkZeO12t1Y)"
 End:
 
-Object: 35.6978 -97.4080 20
+Object: 35.1148 -97.6801 20
   Icon: 1
   Text: 0,1,1,"WDTN - Beavercreek Camera 🔴 [Live](https://www.youtube.com/watch?v=D9flnb2pQDc)"
 End:
 
-Object: 35.0670 -97.0497 20
+Object: 35.6957 -97.7278 20
   Icon: 1
   Text: 0,1,1,"Big Ole Live 🔴 [Live](https://www.youtube.com/watch?v=Yw8CZCEOdXE)"
 End:
 
-Object: 35.8191 -97.1703 20
+Object: 35.1225 -97.4616 20
   Icon: 1
   Text: 0,1,1,"Alexander County Courthouse Park 🔴 [Live](https://www.youtube.com/watch?v=RuiHEi2ImpI)"
 End:
 
-Object: 35.9986 -97.3261 20
+Object: 35.2585 -97.7783 20
   Icon: 1
-  Text: 0,1,1,"South Dakota School of Mines and Technology&#39;s (SDSM&amp;T) Dino Cam 🔴 [Live](https://www.youtube.com/watch?v=6lYoPExcOwg)"
+  Text: 0,1,1,"Massive Tornado Outbreak! | TWISTED LIVE 🔴 [Live](https://www.youtube.com/watch?v=E5i_OmgF92E)"
+End:
+
+Object: 35.6359 -97.4265 20
+  Icon: 1
+  Text: 0,1,1,"Tropical Storm Erin Tracking!  - Possible Tornado? 🔴 [Live](https://www.youtube.com/watch?v=1ZXo5aRsCGs)"
 End:
