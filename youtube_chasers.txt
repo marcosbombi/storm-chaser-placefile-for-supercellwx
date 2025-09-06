@@ -1,129 +1,129 @@
-# Generated: 2025-09-06T20:31:47.785924Z
+# Generated: 2025-09-06T20:46:56.257719Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.1152 -97.8644 20
+Object: 35.9162 -97.7265 20
   Icon: 1
-  Text: 0,1,1,"🔴NOW: Tornado Warning In Massachusetts With LIVE Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=FP9NYR8QDEY)"
+  Text: 0,1,1,"🔴NOW: Tornado Threat Coverage With LIVE Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=FP9NYR8QDEY)"
 End:
 
-Object: 35.9415 -97.5523 20
+Object: 35.5767 -97.4516 20
   Icon: 1
-  Text: 0,1,1,"🔴 BREAKING TORNADO ON THE GROUND In Massachusetts - Tornadoes Possible - With Live Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=kHguZhgOgj0)"
+  Text: 0,1,1,"🔴 BREAKING Tornado Warning In Massachusetts - Tornadoes Possible - With Live Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=kHguZhgOgj0)"
 End:
 
-Object: 35.6590 -97.9601 20
+Object: 35.2577 -97.1131 20
   Icon: 1
-  Text: 0,1,1,"LIVE Storm Chasing - New England Tornado Risk 🔴 [Live](https://www.youtube.com/watch?v=9Gi-a_lqvQg)"
+  Text: 0,1,1,"TORNADO THREAT IN NEW ENGLAND - LIVE STORM CHASE 🔴 [Live](https://www.youtube.com/watch?v=ZCy6vRP_Nyc)"
 End:
 
-Object: 35.4609 -97.5970 20
+Object: 35.4779 -97.5866 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: TORNADO WARNING / HURRICANE KIKO COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=sRvoL36ELFs)"
 End:
 
-Object: 35.8832 -97.5819 20
-  Icon: 1
-  Text: 0,1,1,"🔴LIVE - TORNADO Coverage With Storm Chasers On The Ground - Live Weather Channel... 🔴 [Live](https://www.youtube.com/watch?v=82-9jtNLJcA)"
-End:
-
-Object: 35.4651 -97.6897 20
+Object: 35.6618 -97.1897 20
   Icon: 1
   Text: 0,1,1,"🔴 Live 24/7 National Weather Radar &amp; Alerts, Weather Intensity Score &amp; YallBot! 🔴 [Live](https://www.youtube.com/watch?v=0tDeAg_mGa0)"
 End:
 
-Object: 35.9392 -97.0227 20
+Object: 35.2724 -97.9103 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Texas Radar &amp; Temperatures, Severe &amp; Tornado Warnings, Background Music! Texas Weather Center 🔴 [Live](https://www.youtube.com/watch?v=1bVlgeNyDf0)"
 End:
 
-Object: 35.8111 -97.0252 20
-  Icon: 1
-  Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
-End:
-
-Object: 35.9288 -97.1827 20
+Object: 35.0778 -97.2065 20
   Icon: 1
   Text: 0,1,1,"Severe Weather check! live in your area! 🔴 [Live](https://www.youtube.com/watch?v=6JEuIqjig4c)"
 End:
 
-Object: 35.8965 -97.1953 20
+Object: 35.0585 -97.3929 20
   Icon: 1
   Text: 0,1,1,"Live Strong Severe Storms Bronx, NY 9/6/2025 🔴 [Live](https://www.youtube.com/watch?v=_FNlpKne3R0)"
 End:
 
-Object: 35.1579 -97.4340 20
+Object: 35.2706 -97.8356 20
   Icon: 1
   Text: 0,1,1,"🔴 Live Storm Chasing - Wind/Hail Threat - Virginia 🔴 [Live](https://www.youtube.com/watch?v=ajb7bdOnN_0)"
 End:
 
-Object: 35.5614 -97.4325 20
+Object: 35.3456 -97.6956 20
   Icon: 1
   Text: 0,1,1,"Grand Blanc, MI - Weather Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=9sIXmdi8dz8)"
 End:
 
-Object: 35.9532 -97.7492 20
-  Icon: 1
-  Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
-End:
-
-Object: 35.1738 -97.7281 20
+Object: 35.1721 -97.4202 20
   Icon: 1
   Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
 End:
 
-Object: 35.3606 -97.5047 20
+Object: 35.9344 -97.3146 20
   Icon: 1
   Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
 End:
 
-Object: 35.0657 -97.8428 20
+Object: 35.6105 -97.8787 20
   Icon: 1
   Text: 0,1,1,"Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
 End:
 
-Object: 35.5653 -97.9942 20
+Object: 35.7218 -97.4131 20
   Icon: 1
   Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
 End:
 
-Object: 35.6822 -97.6700 20
-  Icon: 1
-  Text: 0,1,1,"⚡ Powerful Thunderstorm Rain Sounds for Sleeping | Relaxing Rain, Thunder &amp; Lightning at Night 🔴 [Live](https://www.youtube.com/watch?v=MRFyw7VRG68)"
-End:
-
-Object: 35.3824 -97.6806 20
+Object: 35.9556 -97.7470 20
   Icon: 1
   Text: 0,1,1,"Shelter in the Mountain Cabin from the Approaching Torrential ⛈️ Rain &amp; Thunder⚡for a Deep Sleep😴 🔴 [Live](https://www.youtube.com/watch?v=RfiISu7Ohog)"
 End:
 
-Object: 35.1311 -97.1647 20
+Object: 35.9108 -97.1408 20
   Icon: 1
   Text: 0,1,1,"WKU White Squirrel Weather Live View 🔴 [Live](https://www.youtube.com/watch?v=cgJoLfORVDI)"
 End:
 
-Object: 35.0345 -97.4008 20
+Object: 35.0485 -97.2171 20
+  Icon: 1
+  Text: 0,1,1,"LIVE: Watch Very Omaha by KETV NOW! Omaha news, weather and more. 🔴 [Live](https://www.youtube.com/watch?v=hXAr1Nd3PFQ)"
+End:
+
+Object: 35.9493 -97.2335 20
+  Icon: 1
+  Text: 0,1,1,"⚡ Powerful Thunderstorm Rain Sounds for Sleeping | Relaxing Rain, Thunder &amp; Lightning at Night 🔴 [Live](https://www.youtube.com/watch?v=MRFyw7VRG68)"
+End:
+
+Object: 35.5581 -97.1770 20
   Icon: 1
   Text: 0,1,1,"🔴 Heavy Rain and Thunder Sounds 24/7 - Deep Sleep | Thunderstorm for Sleeping - Pure Relaxing Vibes 🔴 [Live](https://www.youtube.com/watch?v=cI0zN1nG3PQ)"
 End:
 
-Object: 35.9905 -97.2073 20
+Object: 35.9646 -97.2586 20
   Icon: 1
   Text: 0,1,1,"Brooks Falls - Katmai National Park, Alaska 2025 powered by EXPLORE.org 🔴 [Live](https://www.youtube.com/watch?v=73-EekdVVU8)"
 End:
 
-Object: 35.5733 -97.7051 20
+Object: 35.5947 -97.6772 20
   Icon: 1
   Text: 0,1,1,"EXTREME Rain &amp; Thunder in Hidden House inside the Forest-Rain Sounds for Sleep 🔴 [Live](https://www.youtube.com/watch?v=qbtTgKNlD_k)"
 End:
 
-Object: 35.1241 -97.6599 20
+Object: 35.1804 -97.4743 20
   Icon: 1
   Text: 0,1,1,"LIVE: Watch Very Oklahoma by KOCO NOW! Oklahoma City news, weather and more. 🔴 [Live](https://www.youtube.com/watch?v=LwA21s2em1M)"
 End:
 
-Object: 35.5221 -97.8106 20
+Object: 35.3980 -97.7806 20
+  Icon: 1
+  Text: 0,1,1,"LIVE: Watch Very Iowa by KCCI NOW! Iowa news, weather and more. 🔴 [Live](https://www.youtube.com/watch?v=e2kp3ins1hU)"
+End:
+
+Object: 35.5866 -97.7816 20
   Icon: 1
   Text: 0,1,1,"WDTN - Beavercreek Camera 🔴 [Live](https://www.youtube.com/watch?v=D9flnb2pQDc)"
+End:
+
+Object: 35.2465 -97.2281 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE Mississippi River Wildlife Camera, Brainerd, MN 🔴 [Live](https://www.youtube.com/watch?v=eNkZeO12t1Y)"
 End:
