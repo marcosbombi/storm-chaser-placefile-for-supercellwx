@@ -1,119 +1,129 @@
-# Generated: 2025-09-09T19:49:32.605161Z
+# Generated: 2025-09-09T20:09:29.696626Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.7625 -97.7288 20
+Object: 35.4605 -97.2824 20
   Icon: 1
-  Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER / HURRICANE KIKO COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=sRvoL36ELFs)"
+  Text: 0,1,1,"Severe threat on the OK/KS Border-LIVE STORM CHASING  #tornado #stormchasing 🔴 [Live](https://www.youtube.com/watch?v=E8g-7RdS48c)"
 End:
 
-Object: 35.0476 -97.2300 20
+Object: 35.7236 -97.7733 20
   Icon: 1
   Text: 0,1,1,"🔴PLAINS SUPERCELLS - LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=bB2Oij4iuNs)"
 End:
 
-Object: 35.1292 -97.9473 20
+Object: 35.7898 -97.7596 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER / HURRICANE KIKO COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=sRvoL36ELFs)"
+End:
+
+Object: 35.2904 -97.9862 20
   Icon: 1
   Text: 0,1,1,"🔴 Live 24/7 National Weather Radar &amp; Alerts, Weather Intensity Score &amp; YallBot! 🔴 [Live](https://www.youtube.com/watch?v=0tDeAg_mGa0)"
 End:
 
-Object: 35.0700 -97.5117 20
+Object: 35.0585 -97.7830 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Texas Radar &amp; Temperatures, Severe &amp; Tornado Warnings, Background Music! Texas Weather Center 🔴 [Live](https://www.youtube.com/watch?v=1bVlgeNyDf0)"
 End:
 
-Object: 35.9636 -97.9651 20
+Object: 35.9219 -97.1982 20
   Icon: 1
   Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
 
-Object: 35.9716 -97.5789 20
+Object: 35.4353 -97.3193 20
   Icon: 1
   Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
 End:
 
-Object: 35.0113 -97.5437 20
+Object: 35.8779 -97.8279 20
   Icon: 1
   Text: 0,1,1,"🌲 Mountain Storm Ambience | Relaxing Thunder &amp; Wind Sounds for Focus &amp; Calm 🌧️ 🔴 [Live](https://www.youtube.com/watch?v=FUQHdUrr8as)"
 End:
 
-Object: 35.3557 -97.4203 20
+Object: 35.2203 -97.4939 20
   Icon: 1
   Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
 End:
 
-Object: 35.2072 -97.3605 20
+Object: 35.8802 -97.2229 20
   Icon: 1
   Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
 End:
 
-Object: 35.8489 -97.1118 20
-  Icon: 1
-  Text: 0,1,1,"Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
-End:
-
-Object: 35.3649 -97.6054 20
-  Icon: 1
-  Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
-End:
-
-Object: 35.3574 -97.1591 20
+Object: 35.4070 -97.7383 20
   Icon: 1
   Text: 0,1,1,"⚡ Powerful Thunderstorm Rain Sounds for Sleeping | Relaxing Rain, Thunder &amp; Lightning at Night 🔴 [Live](https://www.youtube.com/watch?v=MRFyw7VRG68)"
 End:
 
-Object: 35.1250 -97.4709 20
+Object: 35.3759 -97.5546 20
+  Icon: 1
+  Text: 0,1,1,"Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
+End:
+
+Object: 35.5583 -97.3804 20
+  Icon: 1
+  Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
+End:
+
+Object: 35.7344 -97.3502 20
   Icon: 1
   Text: 0,1,1,"Shelter in the Mountain Cabin from the Approaching Torrential ⛈️ Rain &amp; Thunder⚡for a Deep Sleep😴 🔴 [Live](https://www.youtube.com/watch?v=RfiISu7Ohog)"
 End:
 
-Object: 35.9392 -97.8598 20
+Object: 35.3246 -97.8007 20
+  Icon: 1
+  Text: 0,1,1,"🔴 Heavy Rain and Thunder Sounds 24/7 - Deep Sleep | Thunderstorm for Sleeping - Pure Relaxing Vibes 🔴 [Live](https://www.youtube.com/watch?v=cI0zN1nG3PQ)"
+End:
+
+Object: 35.4345 -97.8291 20
   Icon: 1
   Text: 0,1,1,"WKU White Squirrel Weather Live View 🔴 [Live](https://www.youtube.com/watch?v=cgJoLfORVDI)"
 End:
 
-Object: 35.3755 -97.7063 20
+Object: 35.1179 -97.5578 20
   Icon: 1
   Text: 0,1,1,"Brooks Falls - Katmai National Park, Alaska 2025 powered by EXPLORE.org 🔴 [Live](https://www.youtube.com/watch?v=73-EekdVVU8)"
 End:
 
-Object: 35.4889 -97.9197 20
+Object: 35.3095 -97.8592 20
   Icon: 1
   Text: 0,1,1,"EXTREME Rain &amp; Thunder in Hidden House inside the Forest-Rain Sounds for Sleep 🔴 [Live](https://www.youtube.com/watch?v=qbtTgKNlD_k)"
 End:
 
-Object: 35.6113 -97.6679 20
+Object: 35.6060 -97.5357 20
   Icon: 1
   Text: 0,1,1,"LIVE: Watch Very Oklahoma by KOCO NOW! Oklahoma City news, weather and more. 🔴 [Live](https://www.youtube.com/watch?v=LwA21s2em1M)"
 End:
 
-Object: 35.0772 -97.9651 20
+Object: 35.0291 -97.1758 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE Mississippi River Wildlife Camera, Brainerd, MN 🔴 [Live](https://www.youtube.com/watch?v=eNkZeO12t1Y)"
+End:
+
+Object: 35.2789 -97.6098 20
   Icon: 1
   Text: 0,1,1,"WDTN - Beavercreek Camera 🔴 [Live](https://www.youtube.com/watch?v=D9flnb2pQDc)"
 End:
 
-Object: 35.5870 -97.1482 20
-  Icon: 1
-  Text: 0,1,1,"LIVE: Watch Very Iowa by KCCI NOW! Iowa news, weather and more. 🔴 [Live](https://www.youtube.com/watch?v=e2kp3ins1hU)"
-End:
-
-Object: 35.8901 -97.1896 20
+Object: 35.0739 -97.6882 20
   Icon: 1
   Text: 0,1,1,"Watch stories from communities around the U.S. 🔴 [Live](https://www.youtube.com/watch?v=JKDTSB2ueiM)"
 End:
 
-Object: 35.7412 -97.3725 20
+Object: 35.0730 -97.1271 20
+  Icon: 1
+  Text: 0,1,1,"LIVE: Watch Very Iowa by KCCI NOW! Iowa news, weather and more. 🔴 [Live](https://www.youtube.com/watch?v=e2kp3ins1hU)"
+End:
+
+Object: 35.7041 -97.2122 20
   Icon: 1
   Text: 0,1,1,"Alexander County Courthouse Park 🔴 [Live](https://www.youtube.com/watch?v=RuiHEi2ImpI)"
 End:
 
-Object: 35.9223 -97.1927 20
+Object: 35.2055 -97.8108 20
   Icon: 1
   Text: 0,1,1,"🌪️ LIVE: VortexNow AI Weather Monitoring - Experimental Storm Tracking  9/9/2025 🔴 [Live](https://www.youtube.com/watch?v=gogrJfuoFAs)"
-End:
-
-Object: 35.6218 -97.4417 20
-  Icon: 1
-  Text: 0,1,1,"Severe Weather Coverage! - Less Than A 2% Tornado Risk Today! 🔴 [Live](https://www.youtube.com/watch?v=YcupTN52rZA)"
 End:
