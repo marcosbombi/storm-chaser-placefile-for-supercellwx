@@ -1,94 +1,114 @@
-# Generated: 2025-09-14T17:29:21.138499Z
+# Generated: 2025-09-14T17:40:40.006657Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.0971 -97.0757 20
+Object: 35.9338 -97.8593 20
   Icon: 1
   Text: 0,1,1,"Tornado Chasing in North Dakota -LIVE AS IT HAPPENS #tornado #stormchasing #northdakota 🔴 [Live](https://www.youtube.com/watch?v=BYnku3_ZorU)"
 End:
 
-Object: 35.1832 -97.3269 20
-  Icon: 1
-  Text: 0,1,1,"🔴NORTH DAKOTA TORNADO THREAT - LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=2K5mPF7EDKc)"
-End:
-
-Object: 35.8029 -97.7173 20
+Object: 35.1691 -97.1352 20
   Icon: 1
   Text: 0,1,1,"🔴Severe Weather in The Northern Plains - Live Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=ELjzToNd_GM)"
 End:
 
-Object: 35.2074 -97.0701 20
+Object: 35.3750 -97.0548 20
   Icon: 1
   Text: 0,1,1,"🔴 Live 24/7 National Weather Radar &amp; Alerts, Weather Intensity Score &amp; YallBot! 🔴 [Live](https://www.youtube.com/watch?v=0tDeAg_mGa0)"
 End:
 
-Object: 35.4248 -97.7302 20
+Object: 35.1237 -97.8049 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Texas Radar &amp; Temperatures, Severe &amp; Tornado Warnings, Background Music! Texas Weather Center 🔴 [Live](https://www.youtube.com/watch?v=1bVlgeNyDf0)"
 End:
 
-Object: 35.4397 -97.0742 20
+Object: 35.6336 -97.2919 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=IRxDrCg7SJw)"
 End:
 
-Object: 35.3922 -97.2860 20
+Object: 35.0414 -97.2266 20
   Icon: 1
-  Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
+  Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
 
-Object: 35.1522 -97.5927 20
+Object: 35.0778 -97.7239 20
+  Icon: 1
+  Text: 0,1,1,"The Wildest Storms Ever! | In the Eye of the Storm | Discovery 🔴 [Live](https://www.youtube.com/watch?v=YUNYDpVBh3M)"
+End:
+
+Object: 35.0085 -97.8566 20
+  Icon: 1
+  Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
+End:
+
+Object: 35.0056 -97.3171 20
   Icon: 1
   Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
 End:
 
-Object: 35.8987 -97.1483 20
+Object: 35.8492 -97.7071 20
   Icon: 1
-  Text: 0,1,1,"🔴 Heavy Rain and Thunder Sounds 24/7 - Deep Sleep | Thunderstorm for Sleeping - Pure Relaxing Vibes 🔴 [Live](https://www.youtube.com/watch?v=cI0zN1nG3PQ)"
+  Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
 End:
 
-Object: 35.5036 -97.4261 20
+Object: 35.8990 -97.4884 20
+  Icon: 1
+  Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
+End:
+
+Object: 35.4890 -97.5864 20
+  Icon: 1
+  Text: 0,1,1,"Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
+End:
+
+Object: 35.2692 -97.3722 20
   Icon: 1
   Text: 0,1,1,"WKU White Squirrel Weather Live View 🔴 [Live](https://www.youtube.com/watch?v=cgJoLfORVDI)"
 End:
 
-Object: 35.7999 -97.7951 20
+Object: 35.5993 -97.3918 20
   Icon: 1
   Text: 0,1,1,"Brooks Falls - Katmai National Park, Alaska 2025 powered by EXPLORE.org 🔴 [Live](https://www.youtube.com/watch?v=73-EekdVVU8)"
 End:
 
-Object: 35.1093 -97.8563 20
+Object: 35.2607 -97.4106 20
   Icon: 1
   Text: 0,1,1,"EXTREME Rain &amp; Thunder in Hidden House inside the Forest-Rain Sounds for Sleep 🔴 [Live](https://www.youtube.com/watch?v=qbtTgKNlD_k)"
 End:
 
-Object: 35.0894 -97.5541 20
+Object: 35.6989 -97.5943 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE Mississippi River Wildlife Camera, Brainerd, MN 🔴 [Live](https://www.youtube.com/watch?v=eNkZeO12t1Y)"
+End:
+
+Object: 35.2400 -97.7186 20
   Icon: 1
   Text: 0,1,1,"WDTN - Beavercreek Camera 🔴 [Live](https://www.youtube.com/watch?v=D9flnb2pQDc)"
 End:
 
-Object: 35.7986 -97.6558 20
-  Icon: 1
-  Text: 0,1,1,"Possible Tornado! - 5%-9% Tornado Risk Today! 🔴 [Live](https://www.youtube.com/watch?v=8rc3Ba3etes)"
-End:
-
-Object: 35.2677 -97.3540 20
+Object: 35.9352 -97.2758 20
   Icon: 1
   Text: 0,1,1,"Alexander County Courthouse Park 🔴 [Live](https://www.youtube.com/watch?v=RuiHEi2ImpI)"
 End:
 
-Object: 35.2935 -97.6573 20
-  Icon: 1
-  Text: 0,1,1,"🌪️ LIVE: VortexNow AI Weather Monitoring - Experimental Storm Tracking  9/14/2025 🔴 [Live](https://www.youtube.com/watch?v=sbvpt0yVXe0)"
-End:
-
-Object: 35.5860 -97.0775 20
+Object: 35.8205 -97.6707 20
   Icon: 1
   Text: 0,1,1,"Big Ole Live 🔴 [Live](https://www.youtube.com/watch?v=Yw8CZCEOdXE)"
 End:
 
-Object: 35.6236 -97.5798 20
+Object: 35.9405 -97.7740 20
+  Icon: 1
+  Text: 0,1,1,"Possible Tornado! - 5%-9% Tornado Risk Today! 🔴 [Live](https://www.youtube.com/watch?v=8rc3Ba3etes)"
+End:
+
+Object: 35.9564 -97.0047 20
+  Icon: 1
+  Text: 0,1,1,"🌪️ LIVE: VortexNow AI Weather Monitoring - Experimental Storm Tracking  9/14/2025 🔴 [Live](https://www.youtube.com/watch?v=sbvpt0yVXe0)"
+End:
+
+Object: 35.3163 -97.0397 20
   Icon: 1
   Text: 0,1,1,"South Dakota School of Mines and Technology&#39;s (SDSM&amp;T) Dino Cam 🔴 [Live](https://www.youtube.com/watch?v=6lYoPExcOwg)"
 End:
