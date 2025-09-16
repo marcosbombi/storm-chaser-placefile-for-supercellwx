@@ -1,129 +1,129 @@
-# Generated: 2025-09-16T22:48:11.432509Z
+# Generated: 2025-09-16T22:59:22.968503Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.1562 -97.3242 20
+Object: 35.5472 -97.7761 20
+  Icon: 1
+  Text: 0,1,1,"Chasing Tornadoes In Nebraska - LIVE STORM CHASERS 🔴 [Live](https://www.youtube.com/watch?v=v-pWy5l_A3U)"
+End:
+
+Object: 35.1582 -97.0748 20
   Icon: 1
   Text: 0,1,1,"TORNADO ALLEY RETURNS (maybe) High Plains Severe Weather 🟥 Live Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=tmugfZZnBOY)"
 End:
 
-Object: 35.7988 -97.0577 20
+Object: 35.2664 -97.4700 20
   Icon: 1
   Text: 0,1,1,"Tornadoes and destructive hail in Nebraska -LIVE STORM CHASING #tornado #stormchasing 🔴 [Live](https://www.youtube.com/watch?v=1U1QgNHFiaA)"
 End:
 
-Object: 35.0899 -97.9008 20
-  Icon: 1
-  Text: 0,1,1,"LIVE Nebraska Tornado Threat - LIVE STORM CHASERS 🔴 [Live](https://www.youtube.com/watch?v=11_1HN6EtM0)"
-End:
-
-Object: 35.1811 -97.4235 20
+Object: 35.8699 -97.5271 20
   Icon: 1
   Text: 0,1,1,"TORNADO THREAT IN NEBRASKA &amp; COLORADO - LIVE STORM CHASE 🔴 [Live](https://www.youtube.com/watch?v=gw4dz8JD8Ls)"
 End:
 
-Object: 35.8136 -97.9966 20
+Object: 35.6605 -97.7844 20
   Icon: 1
-  Text: 0,1,1,"🔴NEBRASKA SUPERCELLS - LIVE STORM CHASERS 🔴 [Live](https://www.youtube.com/watch?v=hE53kJ-EoQY)"
+  Text: 0,1,1,"LIVE Nebraska Tornado Threat - LIVE STORM CHASERS 🔴 [Live](https://www.youtube.com/watch?v=11_1HN6EtM0)"
 End:
 
-Object: 35.5076 -97.2245 20
+Object: 35.7955 -97.2538 20
   Icon: 1
   Text: 0,1,1,"LIVE Storm Chaser - Tracking Tornadoes In Western Nebraska 🔴 [Live](https://www.youtube.com/watch?v=xZd7xPoUM7g)"
 End:
 
-Object: 35.2781 -97.4654 20
+Object: 35.6420 -97.5806 20
+  Icon: 1
+  Text: 0,1,1,"🔴NEBRASKA SUPERCELLS - LIVE STORM CHASERS 🔴 [Live](https://www.youtube.com/watch?v=hE53kJ-EoQY)"
+End:
+
+Object: 35.1829 -97.6100 20
   Icon: 1
   Text: 0,1,1,"Tornado Potential in Southwest Nebraska 🔴 [Live](https://www.youtube.com/watch?v=TjBNgfE_6LI)"
 End:
 
-Object: 35.4432 -97.9225 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=fj3HoDfpRrM)"
-End:
-
-Object: 35.4282 -97.0500 20
+Object: 35.0166 -97.4875 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE STORM CHASER - SUPER NEBRASKA SUPERCELLS 🔴 [Live](https://www.youtube.com/watch?v=AwRchdxkzKY)"
 End:
 
-Object: 35.6946 -97.0553 20
+Object: 35.8507 -97.2711 20
   Icon: 1
   Text: 0,1,1,"🔴 Live 24/7 National Weather Radar &amp; Alerts, Weather Intensity Score &amp; YallBot! 🔴 [Live](https://www.youtube.com/watch?v=0tDeAg_mGa0)"
 End:
 
-Object: 35.9628 -97.7178 20
+Object: 35.8693 -97.6850 20
   Icon: 1
   Text: 0,1,1,"Live Storm Chasing - Nebraska supercells 🔴 [Live](https://www.youtube.com/watch?v=88gm3lOUlhE)"
 End:
 
-Object: 35.2615 -97.2267 20
+Object: 35.1152 -97.9514 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Texas Radar &amp; Temperatures, Severe &amp; Tornado Warnings, Background Music! Texas Weather Center 🔴 [Live](https://www.youtube.com/watch?v=1bVlgeNyDf0)"
 End:
 
-Object: 35.6237 -97.2479 20
+Object: 35.5598 -97.3518 20
   Icon: 1
   Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
 
-Object: 35.4329 -97.1211 20
-  Icon: 1
-  Text: 0,1,1,"The Wildest Storms Ever! | In the Eye of the Storm | Discovery 🔴 [Live](https://www.youtube.com/watch?v=YUNYDpVBh3M)"
-End:
-
-Object: 35.0301 -97.7236 20
+Object: 35.0832 -97.8499 20
   Icon: 1
   Text: 0,1,1,"WISH Weather RAW: 24/7 Indiana Radar + Live Severe Weather &amp; Forecasts | Storm Track 8 Unfiltered 🔴 [Live](https://www.youtube.com/watch?v=-8qhDl4kjhU)"
 End:
 
-Object: 35.1639 -97.3611 20
+Object: 35.3076 -97.6187 20
   Icon: 1
   Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
 End:
 
-Object: 35.4576 -97.4338 20
+Object: 35.6218 -97.2080 20
   Icon: 1
   Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
 End:
 
-Object: 35.3135 -97.5801 20
+Object: 35.5229 -97.2167 20
   Icon: 1
   Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
 End:
 
-Object: 35.8793 -97.9160 20
+Object: 35.6107 -97.6064 20
   Icon: 1
   Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
 End:
 
-Object: 35.2442 -97.9948 20
+Object: 35.5859 -97.4034 20
   Icon: 1
   Text: 0,1,1,"🔴URGENTE🔴ESTA ES LA NOTICIA QUE TODO VENEZUELA QUIERE ESCUCHAR Y VER AL DESPERTAR EL 14 D SEPTIEMBRE 🔴 [Live](https://www.youtube.com/watch?v=PW2hJV0Q9ZA)"
 End:
 
-Object: 35.4680 -97.1190 20
-  Icon: 1
-  Text: 0,1,1,"Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
-End:
-
-Object: 35.9965 -97.9410 20
+Object: 35.5791 -97.4746 20
   Icon: 1
   Text: 0,1,1,"🔴 Heavy Rain and Thunder Sounds 24/7 - Deep Sleep | Thunderstorm for Sleeping - Pure Relaxing Vibes 🔴 [Live](https://www.youtube.com/watch?v=cI0zN1nG3PQ)"
 End:
 
-Object: 35.9112 -97.5482 20
-  Icon: 1
-  Text: 0,1,1,"WKU White Squirrel Weather Live View 🔴 [Live](https://www.youtube.com/watch?v=cgJoLfORVDI)"
-End:
-
-Object: 35.7337 -97.3215 20
+Object: 35.5954 -97.7065 20
   Icon: 1
   Text: 0,1,1,"EXTREME Rain &amp; Thunder in Hidden House inside the Forest-Rain Sounds for Sleep 🔴 [Live](https://www.youtube.com/watch?v=qbtTgKNlD_k)"
 End:
 
-Object: 35.1577 -97.4010 20
+Object: 35.7336 -97.4916 20
   Icon: 1
   Text: 0,1,1,"Brooks Falls - Katmai National Park, Alaska 2025 powered by EXPLORE.org 🔴 [Live](https://www.youtube.com/watch?v=73-EekdVVU8)"
+End:
+
+Object: 35.6428 -97.1936 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE Mississippi River Wildlife Camera, Brainerd, MN 🔴 [Live](https://www.youtube.com/watch?v=eNkZeO12t1Y)"
+End:
+
+Object: 35.9944 -97.3141 20
+  Icon: 1
+  Text: 0,1,1,"WDTN - Beavercreek Camera 🔴 [Live](https://www.youtube.com/watch?v=D9flnb2pQDc)"
+End:
+
+Object: 35.3619 -97.6434 20
+  Icon: 1
+  Text: 0,1,1,"🌪️ Storm Chasing LIVE in Helicity 🔴 [Live](https://www.youtube.com/watch?v=rI3P4MZC8wA)"
 End:
