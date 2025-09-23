@@ -1,129 +1,129 @@
-# Generated: 2025-09-23T19:16:54.543982Z
+# Generated: 2025-09-23T19:28:06.676766Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.7247 -97.4842 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=dNGVs27lG_4)"
-End:
-
-Object: 35.8267 -97.0914 20
+Object: 35.0822 -97.3732 20
   Icon: 1
   Text: 0,1,1,"LIVE STORM CHASER: STRONG TORNADO THREAT IN OK/AR 🔴 [Live](https://www.youtube.com/watch?v=Z09gOvONDzk)"
 End:
 
-Object: 35.6885 -97.0810 20
+Object: 35.2411 -97.6978 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=dNGVs27lG_4)"
+End:
+
+Object: 35.8368 -97.9112 20
   Icon: 1
   Text: 0,1,1,"Hunting for STRONG Tornadoes Oklahoma/Arkansas - LIVE Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=TjpjSjdsM3Q)"
 End:
 
-Object: 35.4515 -97.8707 20
+Object: 35.6538 -97.4543 20
   Icon: 1
   Text: 0,1,1,"🔴 Live 24/7 National Weather Radar &amp; Alerts, Weather Intensity Score &amp; YallBot! 🔴 [Live](https://www.youtube.com/watch?v=0tDeAg_mGa0)"
 End:
 
-Object: 35.5761 -97.0593 20
-  Icon: 1
-  Text: 0,1,1,"Live 🔴 Chasing Dangerous Tornadoes in Oklahoma &amp; Arkansas 🔴 [Live](https://www.youtube.com/watch?v=KByE0g4eG7Q)"
-End:
-
-Object: 35.2928 -97.1899 20
+Object: 35.8486 -97.0533 20
   Icon: 1
   Text: 0,1,1,"LIVE STORM CHASING 🌪️ SIGNIFICANT TORNADO THREAT IN OKLAHOMA | 9/23/25 🔴 [Live](https://www.youtube.com/watch?v=Psw1YbhBLTk)"
 End:
 
-Object: 35.8385 -97.8499 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE Texas Radar &amp; Temperatures, Severe &amp; Tornado Warnings, Background Music! Texas Weather Center 🔴 [Live](https://www.youtube.com/watch?v=1bVlgeNyDf0)"
-End:
-
-Object: 35.2319 -97.3706 20
+Object: 35.7196 -97.2655 20
   Icon: 1
   Text: 0,1,1,"🔴Strong Tornadoes Possible - Live Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=fG1W4-idmG4)"
 End:
 
-Object: 35.7465 -97.3805 20
+Object: 35.8016 -97.3155 20
+  Icon: 1
+  Text: 0,1,1,"Live 🔴 Chasing Dangerous Tornadoes in Oklahoma &amp; Arkansas 🔴 [Live](https://www.youtube.com/watch?v=KByE0g4eG7Q)"
+End:
+
+Object: 35.2790 -97.7870 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE Texas Radar &amp; Temperatures, Severe &amp; Tornado Warnings, Background Music! Texas Weather Center 🔴 [Live](https://www.youtube.com/watch?v=1bVlgeNyDf0)"
+End:
+
+Object: 35.2692 -97.3621 20
   Icon: 1
   Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
 
-Object: 35.9672 -97.7650 20
-  Icon: 1
-  Text: 0,1,1,"The Wildest Storms Ever! | In the Eye of the Storm | Discovery 🔴 [Live](https://www.youtube.com/watch?v=YUNYDpVBh3M)"
-End:
-
-Object: 35.4090 -97.2868 20
+Object: 35.0977 -97.7410 20
   Icon: 1
   Text: 0,1,1,"“Oklahoma Severe Weather LIVE | Tornado &amp; Thunderstorm Watch with Radar &amp; Traffic Cams” 🔴 [Live](https://www.youtube.com/watch?v=MeL-vobS2T4)"
 End:
 
-Object: 35.5024 -97.3029 20
+Object: 35.3169 -97.7486 20
   Icon: 1
   Text: 0,1,1,"SEVERE WEATHER IN NW ARKANSAS 🔴 [Live](https://www.youtube.com/watch?v=1xG51cS2Ldc)"
 End:
 
-Object: 35.6327 -97.4055 20
+Object: 35.7341 -97.2981 20
   Icon: 1
   Text: 0,1,1,"WISH Weather RAW: 24/7 Indiana Radar + Live Severe Weather &amp; Forecasts | Storm Track 8 Unfiltered 🔴 [Live](https://www.youtube.com/watch?v=6L2S5CKHht0)"
 End:
 
-Object: 35.1402 -97.8309 20
+Object: 35.7392 -97.2821 20
   Icon: 1
   Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
 End:
 
-Object: 35.3001 -97.3575 20
+Object: 35.4091 -97.2688 20
   Icon: 1
   Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
 End:
 
-Object: 35.6465 -97.5040 20
+Object: 35.9841 -97.5337 20
+  Icon: 1
+  Text: 0,1,1,"The Wildest Storms Ever! | In the Eye of the Storm | Discovery 🔴 [Live](https://www.youtube.com/watch?v=YUNYDpVBh3M)"
+End:
+
+Object: 35.9187 -97.9028 20
   Icon: 1
   Text: 0,1,1,"Another Massive Aftershock in Kamchatka | Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
 End:
 
-Object: 35.9807 -97.5053 20
-  Icon: 1
-  Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
-End:
-
-Object: 35.7866 -97.6939 20
+Object: 35.9796 -97.0403 20
   Icon: 1
   Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
 End:
 
-Object: 35.9304 -97.9501 20
+Object: 35.0351 -97.0852 20
+  Icon: 1
+  Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
+End:
+
+Object: 35.4343 -97.9885 20
   Icon: 1
   Text: 0,1,1,"WKU White Squirrel Weather Live View 🔴 [Live](https://www.youtube.com/watch?v=cgJoLfORVDI)"
 End:
 
-Object: 35.8795 -97.1981 20
+Object: 35.5569 -97.3201 20
+  Icon: 1
+  Text: 0,1,1,"🔴 Heavy Rain and Thunder Sounds 24/7 - Deep Sleep | Thunderstorm for Sleeping - Pure Relaxing Vibes 🔴 [Live](https://www.youtube.com/watch?v=cI0zN1nG3PQ)"
+End:
+
+Object: 35.1317 -97.7787 20
   Icon: 1
   Text: 0,1,1,"Brooks Falls - Katmai National Park, Alaska 2025 powered by EXPLORE.org 🔴 [Live](https://www.youtube.com/watch?v=73-EekdVVU8)"
 End:
 
-Object: 35.5147 -97.2965 20
+Object: 35.6850 -97.4752 20
   Icon: 1
   Text: 0,1,1,"EXTREME Rain &amp; Thunder in Hidden House inside the Forest-Rain Sounds for Sleep 🔴 [Live](https://www.youtube.com/watch?v=qbtTgKNlD_k)"
 End:
 
-Object: 35.5283 -97.4209 20
+Object: 35.9499 -97.9003 20
   Icon: 1
   Text: 0,1,1,"Tornadoes Likely? - 10%-14% Tornado Risk Today! 🔴 [Live](https://www.youtube.com/watch?v=F_5xQuw0T7k)"
 End:
 
-Object: 35.4249 -97.6989 20
+Object: 35.9864 -97.6322 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Mississippi River Wildlife Camera, Brainerd, MN 🔴 [Live](https://www.youtube.com/watch?v=eNkZeO12t1Y)"
 End:
 
-Object: 35.1027 -97.3617 20
+Object: 35.0492 -97.5444 20
   Icon: 1
   Text: 0,1,1,"WDTN - Beavercreek Camera 🔴 [Live](https://www.youtube.com/watch?v=D9flnb2pQDc)"
-End:
-
-Object: 35.6438 -97.9113 20
-  Icon: 1
-  Text: 0,1,1,"Port Huron, Michigan USA | StreamTime LIVE 🔴 [Live](https://www.youtube.com/watch?v=mVHTqCXsZB0)"
 End:
