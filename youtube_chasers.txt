@@ -1,94 +1,99 @@
-# Generated: 2025-10-03T03:49:56.827188Z
+# Generated: 2025-10-03T04:11:10.963832Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.5442 -97.8340 20
+Object: 35.1945 -97.5140 20
   Icon: 1
   Text: 0,1,1,"🔴 Live 24/7 National Weather Radar &amp; Alerts, Weather Intensity Score &amp; YallBot! 🔴 [Live](https://www.youtube.com/watch?v=0tDeAg_mGa0)"
 End:
 
-Object: 35.0912 -97.3823 20
+Object: 35.1722 -97.3595 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=RbuSBUoeR8Y)"
 End:
 
-Object: 35.5107 -97.6977 20
+Object: 35.3002 -97.3777 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Texas Radar &amp; Temperatures, Severe &amp; Tornado Warnings, Background Music! Texas Weather Center 🔴 [Live](https://www.youtube.com/watch?v=1bVlgeNyDf0)"
 End:
 
-Object: 35.8872 -97.6486 20
+Object: 35.2254 -97.1720 20
   Icon: 1
   Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
 
-Object: 35.5023 -97.3183 20
+Object: 35.8650 -97.8336 20
   Icon: 1
   Text: 0,1,1,"The Wildest Storms Ever! | In the Eye of the Storm | Discovery 🔴 [Live](https://www.youtube.com/watch?v=YUNYDpVBh3M)"
 End:
 
-Object: 35.1404 -97.9757 20
+Object: 35.7418 -97.0664 20
   Icon: 1
   Text: 0,1,1,"A Terrifying Storm is Approaching the Countryside | Taking Shelter in the Old School | 12H 🔴 [Live](https://www.youtube.com/watch?v=gKp7SqAUpuo)"
 End:
 
-Object: 35.2504 -97.0466 20
+Object: 35.7593 -97.5248 20
   Icon: 1
   Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
 End:
 
-Object: 35.7776 -97.9933 20
+Object: 35.1462 -97.6630 20
   Icon: 1
   Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
 End:
 
-Object: 35.1072 -97.1664 20
+Object: 35.7112 -97.5408 20
   Icon: 1
   Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
 End:
 
-Object: 35.7697 -97.6753 20
+Object: 35.1727 -97.6059 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE 1 HOUR — Earth’s Most Mysterious Weather Phenomena 🌩️ | Extreme Storms, Mirages &amp; Light Shows 🔴 [Live](https://www.youtube.com/watch?v=NqYr91eFKVU)"
 End:
 
-Object: 35.4104 -97.0101 20
+Object: 35.7352 -97.3658 20
   Icon: 1
   Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
 End:
 
-Object: 35.7425 -97.3865 20
+Object: 35.7103 -97.8828 20
   Icon: 1
   Text: 0,1,1,"Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
 End:
 
-Object: 35.7641 -97.0093 20
+Object: 35.6342 -97.9999 20
   Icon: 1
-  Text: 0,1,1,"Port Huron, Michigan USA | StreamTime LIVE 🔴 [Live](https://www.youtube.com/watch?v=mVHTqCXsZB0)"
+  Text: 0,1,1,"🔴 Heavy Rain and Thunder Sounds 24/7 - Deep Sleep | Thunderstorm for Sleeping - Pure Relaxing Vibes 🔴 [Live](https://www.youtube.com/watch?v=cI0zN1nG3PQ)"
 End:
 
-Object: 35.2006 -97.6023 20
+Object: 35.6453 -97.3882 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Mississippi River Wildlife Camera, Brainerd, MN 🔴 [Live](https://www.youtube.com/watch?v=eNkZeO12t1Y)"
 End:
 
-Object: 35.8904 -97.8366 20
+Object: 35.8749 -97.2966 20
+  Icon: 1
+  Text: 0,1,1,"Port Huron, Michigan USA | StreamTime LIVE 🔴 [Live](https://www.youtube.com/watch?v=mVHTqCXsZB0)"
+End:
+
+Object: 35.2401 -97.2230 20
   Icon: 1
   Text: 0,1,1,"WDTN - Beavercreek Camera 🔴 [Live](https://www.youtube.com/watch?v=D9flnb2pQDc)"
 End:
 
-Object: 35.6038 -97.7926 20
+Object: 35.3269 -97.3216 20
   Icon: 1
   Text: 0,1,1,"KSWX Online Radio Live Stream 🔴 [Live](https://www.youtube.com/watch?v=7Xm6C9Och-Y)"
 End:
 
-Object: 35.3498 -97.8915 20
+Object: 35.6746 -97.1478 20
   Icon: 1
   Text: 0,1,1,"Alexander County Courthouse Park 🔴 [Live](https://www.youtube.com/watch?v=RuiHEi2ImpI)"
 End:
 
-Object: 35.5760 -97.1192 20
+Object: 35.4085 -97.4757 20
   Icon: 1
   Text: 0,1,1,"South Dakota School of Mines and Technology&#39;s (SDSM&amp;T) Dino Cam 🔴 [Live](https://www.youtube.com/watch?v=6lYoPExcOwg)"
 End:
