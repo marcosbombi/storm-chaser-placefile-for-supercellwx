@@ -1,79 +1,94 @@
-# Generated: 2025-10-06T22:56:17.776409Z
+# Generated: 2025-10-06T23:20:15.385533Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.4787 -97.0509 20
-  Icon: 1
-  Text: 0,1,1,"🔴 Live 24/7 National Weather Radar &amp; Alerts, Weather Intensity Score &amp; YallBot! 🔴 [Live](https://www.youtube.com/watch?v=0tDeAg_mGa0)"
-End:
-
-Object: 35.8905 -97.9571 20
+Object: 35.5188 -97.8759 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=d6zIgRVmXn8)"
 End:
 
-Object: 35.3632 -97.1221 20
+Object: 35.9885 -97.0217 20
+  Icon: 1
+  Text: 0,1,1,"Michigan Severe Weather Coverage - October 6th, 2025 🔴 [Live](https://www.youtube.com/watch?v=_pkXySm4EKw)"
+End:
+
+Object: 35.2454 -97.6662 20
   Icon: 1
   Text: 0,1,1,"The Wildest Storms Ever! | In the Eye of the Storm | Discovery 🔴 [Live](https://www.youtube.com/watch?v=YUNYDpVBh3M)"
 End:
 
-Object: 35.8215 -97.6218 20
+Object: 35.8102 -97.5975 20
   Icon: 1
   Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
 
-Object: 35.1503 -97.7810 20
-  Icon: 1
-  Text: 0,1,1,"Manistee, MI - Aurora Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=uIzo0DlXTV4)"
-End:
-
-Object: 35.2259 -97.8929 20
-  Icon: 1
-  Text: 0,1,1,"U.S. Weather Radar , Warnings &amp; Storm Reports 10-6-2025 🔴 [Live](https://www.youtube.com/watch?v=6S6MBFXmLxg)"
-End:
-
-Object: 35.8872 -97.9744 20
+Object: 35.4060 -97.4703 20
   Icon: 1
   Text: 0,1,1,"LIVE UK Weather Webcam as Storm Amy approaches 🔴 [Live](https://www.youtube.com/watch?v=QiPWW-qiq80)"
 End:
 
-Object: 35.7903 -97.0037 20
+Object: 35.2237 -97.4968 20
+  Icon: 1
+  Text: 0,1,1,"U.S. Weather Radar , Warnings &amp; Storm Reports 10-6-2025 🔴 [Live](https://www.youtube.com/watch?v=6S6MBFXmLxg)"
+End:
+
+Object: 35.5516 -97.7828 20
   Icon: 1
   Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
 End:
 
-Object: 35.8086 -97.5454 20
+Object: 35.0824 -97.5774 20
   Icon: 1
   Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
 End:
 
-Object: 35.1109 -97.7447 20
+Object: 35.0718 -97.0472 20
   Icon: 1
   Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
 End:
 
-Object: 35.5144 -97.1880 20
-  Icon: 1
-  Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
-End:
-
-Object: 35.8771 -97.1974 20
+Object: 35.8209 -97.1710 20
   Icon: 1
   Text: 0,1,1,"Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
 End:
 
-Object: 35.6697 -97.5493 20
+Object: 35.2948 -97.4170 20
   Icon: 1
   Text: 0,1,1,"🔴 Heavy Rain and Thunder Sounds 24/7 - Deep Sleep | Thunderstorm for Sleeping - Pure Relaxing Vibes 🔴 [Live](https://www.youtube.com/watch?v=cI0zN1nG3PQ)"
 End:
 
-Object: 35.5616 -97.1261 20
+Object: 35.0410 -97.4384 20
+  Icon: 1
+  Text: 0,1,1,"Duluth Canal Cam 🔴 [Live](https://www.youtube.com/watch?v=HPS48TMmNag)"
+End:
+
+Object: 35.3226 -97.4704 20
   Icon: 1
   Text: 0,1,1,"Port Huron, Michigan USA | StreamTime LIVE 🔴 [Live](https://www.youtube.com/watch?v=mVHTqCXsZB0)"
 End:
 
-Object: 35.4230 -97.8459 20
+Object: 35.0842 -97.2940 20
+  Icon: 1
+  Text: 0,1,1,"WDTN - Beavercreek Camera 🔴 [Live](https://www.youtube.com/watch?v=D9flnb2pQDc)"
+End:
+
+Object: 35.7326 -97.1990 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE Mississippi River Wildlife Camera, Brainerd, MN 🔴 [Live](https://www.youtube.com/watch?v=eNkZeO12t1Y)"
+End:
+
+Object: 35.0766 -97.9377 20
   Icon: 1
   Text: 0,1,1,"KSWX Online Radio Live Stream 🔴 [Live](https://www.youtube.com/watch?v=7Xm6C9Och-Y)"
+End:
+
+Object: 35.0442 -97.6452 20
+  Icon: 1
+  Text: 0,1,1,"Alexander County Courthouse Park 🔴 [Live](https://www.youtube.com/watch?v=RuiHEi2ImpI)"
+End:
+
+Object: 35.6533 -97.0305 20
+  Icon: 1
+  Text: 0,1,1,"South Dakota School of Mines and Technology&#39;s (SDSM&amp;T) Dino Cam 🔴 [Live](https://www.youtube.com/watch?v=6lYoPExcOwg)"
 End:
