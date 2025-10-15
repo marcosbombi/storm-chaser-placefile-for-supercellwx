@@ -1,99 +1,99 @@
-# Generated: 2025-10-15T06:36:05.067539Z
+# Generated: 2025-10-15T06:53:16.711071Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.2245 -97.4353 20
+Object: 35.6836 -97.0473 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=Cx6tr46fvjo)"
 End:
 
-Object: 35.4921 -97.9992 20
+Object: 35.6049 -97.7911 20
   Icon: 1
   Text: 0,1,1,"🔴 Live 24/7 National Weather Radar &amp; Alerts, Weather Intensity Score &amp; YallBot! 🔴 [Live](https://www.youtube.com/watch?v=0tDeAg_mGa0)"
 End:
 
-Object: 35.7867 -97.0199 20
+Object: 35.7506 -97.9201 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Texas Radar &amp; Temperatures, Severe &amp; Tornado Warnings, Background Music! Texas Weather Center 🔴 [Live](https://www.youtube.com/watch?v=1DdZtwBW7i8)"
 End:
 
-Object: 35.2906 -97.4582 20
+Object: 35.0328 -97.2945 20
   Icon: 1
   Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
 
-Object: 35.6168 -97.0052 20
+Object: 35.7887 -97.2754 20
   Icon: 1
   Text: 0,1,1,"🔴 Live 24/7 Weather Cameras - Tornadoes, Severe Weather, Flooding, Sunrises, And More! (BETA) 🔴 [Live](https://www.youtube.com/watch?v=XabDE0G53hk)"
 End:
 
-Object: 35.8836 -97.1309 20
+Object: 35.1334 -97.3438 20
   Icon: 1
   Text: 0,1,1,"Ludington, MI - Aurora Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=6cZdOILu3-Y)"
 End:
 
-Object: 35.9615 -97.2889 20
+Object: 35.8385 -97.9957 20
   Icon: 1
   Text: 0,1,1,"Live Radar+Warnings+Convective Outlook+GOES-19 IR+Earthquakes 🔴 [Live](https://www.youtube.com/watch?v=g6kE7khYEP8)"
 End:
 
-Object: 35.2649 -97.4409 20
+Object: 35.4406 -97.4130 20
   Icon: 1
   Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
 End:
 
-Object: 35.6205 -97.9995 20
+Object: 35.2395 -97.7446 20
   Icon: 1
   Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
 End:
 
-Object: 35.4801 -97.5187 20
+Object: 35.7754 -97.1997 20
   Icon: 1
   Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
 End:
 
-Object: 35.2932 -97.8941 20
-  Icon: 1
-  Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
-End:
-
-Object: 35.9069 -97.2721 20
+Object: 35.6614 -97.4292 20
   Icon: 1
   Text: 0,1,1,"Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
 End:
 
-Object: 35.4810 -97.2830 20
+Object: 35.2557 -97.4248 20
+  Icon: 1
+  Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
+End:
+
+Object: 35.4955 -97.1940 20
   Icon: 1
   Text: 0,1,1,"🔴 Heavy Rain and Thunder Sounds 24/7 - Deep Sleep | Thunderstorm for Sleeping - Pure Relaxing Vibes 🔴 [Live](https://www.youtube.com/watch?v=cI0zN1nG3PQ)"
 End:
 
-Object: 35.8167 -97.0219 20
+Object: 35.3401 -97.9293 20
   Icon: 1
   Text: 0,1,1,"Duluth Canal Cam 🔴 [Live](https://www.youtube.com/watch?v=HPS48TMmNag)"
 End:
 
-Object: 35.9301 -97.0613 20
+Object: 35.4054 -97.5762 20
   Icon: 1
   Text: 0,1,1,"Port Huron, Michigan USA | StreamTime LIVE 🔴 [Live](https://www.youtube.com/watch?v=mVHTqCXsZB0)"
 End:
 
-Object: 35.1394 -97.3114 20
+Object: 35.7758 -97.8426 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Mississippi River Wildlife Camera, Brainerd, MN 🔴 [Live](https://www.youtube.com/watch?v=eNkZeO12t1Y)"
 End:
 
-Object: 35.9064 -97.9272 20
+Object: 35.3995 -97.5917 20
   Icon: 1
   Text: 0,1,1,"WDTN - Beavercreek Camera 🔴 [Live](https://www.youtube.com/watch?v=D9flnb2pQDc)"
 End:
 
-Object: 35.3769 -97.9173 20
+Object: 35.1848 -97.2329 20
   Icon: 1
   Text: 0,1,1,"Alexander County Courthouse Park 🔴 [Live](https://www.youtube.com/watch?v=RuiHEi2ImpI)"
 End:
 
-Object: 35.8212 -97.4799 20
+Object: 35.3904 -97.0860 20
   Icon: 1
   Text: 0,1,1,"South Dakota School of Mines and Technology&#39;s (SDSM&amp;T) Dino Cam 🔴 [Live](https://www.youtube.com/watch?v=6lYoPExcOwg)"
 End:
