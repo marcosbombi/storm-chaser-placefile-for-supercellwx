@@ -1,129 +1,129 @@
-# Generated: 2025-10-18T21:28:47.258242Z
+# Generated: 2025-10-18T21:40:04.848125Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.3443 -97.0349 20
+Object: 35.7598 -97.7878 20
   Icon: 1
   Text: 0,1,1,"🔴LIVE Storm Chasing: Real-Time Severe Weather 🔴 [Live](https://www.youtube.com/watch?v=OPusKUk0YcM)"
 End:
 
-Object: 35.8478 -97.0019 20
+Object: 35.0212 -97.0727 20
   Icon: 1
   Text: 0,1,1,"🔴Severe Weather Returns with a Tornado Threat - Live Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=Hz3IQwdUJgc)"
 End:
 
-Object: 35.1845 -97.6521 20
+Object: 35.2759 -97.9196 20
   Icon: 1
   Text: 0,1,1,"LIVE Storm Chaser - TORNADO Threat Missouri 🔴 [Live](https://www.youtube.com/watch?v=ITo8KA3Hlp8)"
 End:
 
-Object: 35.9208 -97.6824 20
+Object: 35.6583 -97.4107 20
   Icon: 1
   Text: 0,1,1,"🔴SEVERE WEATHER THREAT - LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=dn4SRMTTaYA)"
 End:
 
-Object: 35.6335 -97.0831 20
+Object: 35.3021 -97.4798 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: TORNADO WATCH COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=T8usE-h_bco)"
 End:
 
-Object: 35.4949 -97.4583 20
+Object: 35.3687 -97.1105 20
   Icon: 1
   Text: 0,1,1,"🔴LIVE Severe Coverage in Arkansas with Storm Chasers! - Oct 18, 2025 Live Weather Coverage Channel 🔴 [Live](https://www.youtube.com/watch?v=sGGQD-s_cWQ)"
 End:
 
-Object: 35.9135 -97.5124 20
-  Icon: 1
-  Text: 0,1,1,"🔴 Live 24/7 Weather Cameras - Tornadoes, Severe Weather, Flooding, Storm Chasers And More! (BETA) 🔴 [Live](https://www.youtube.com/watch?v=XabDE0G53hk)"
-End:
-
-Object: 35.2889 -97.7656 20
-  Icon: 1
-  Text: 0,1,1,"Storm Chasing with Jen &amp; Marsha- Illinois/Indiana 10/18/2025 #severeweather #stormchaser 🔴 [Live](https://www.youtube.com/watch?v=7h5yvNDjlLY)"
-End:
-
-Object: 35.6938 -97.7041 20
-  Icon: 1
-  Text: 0,1,1,"🔴 Live 24/7 National Weather Radar &amp; Alerts, Weather Intensity Score &amp; YallBot! 🔴 [Live](https://www.youtube.com/watch?v=0tDeAg_mGa0)"
-End:
-
-Object: 35.7291 -97.5286 20
-  Icon: 1
-  Text: 0,1,1,"🔻LIVE STORM CHASERS: TEXAS STORM CHASING 🔴 [Live](https://www.youtube.com/watch?v=htdksSy1Bhc)"
-End:
-
-Object: 35.7683 -97.1144 20
-  Icon: 1
-  Text: 0,1,1,"🔴BREAKING - Tornadoes Likely Today! 2-Inch Hail, And 70mph Winds Possible! Live Weather Coverage! 🔴 [Live](https://www.youtube.com/watch?v=lYR8oFH0R4w)"
-End:
-
-Object: 35.8217 -97.0147 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE Texas Radar &amp; Temperatures, Severe &amp; Tornado Warnings, Background Music! Texas Weather Center 🔴 [Live](https://www.youtube.com/watch?v=1DdZtwBW7i8)"
-End:
-
-Object: 35.8275 -97.2898 20
-  Icon: 1
-  Text: 0,1,1,"Live DFW Weather Radar: Tracking storms in North Texas Saturday 🔴 [Live](https://www.youtube.com/watch?v=INGL_lkEAaM)"
-End:
-
-Object: 35.3546 -97.9265 20
+Object: 35.7693 -97.3476 20
   Icon: 1
   Text: 0,1,1,"Watch live | Tracking severe weather in Arkansas w/ Tom Brannon 🔴 [Live](https://www.youtube.com/watch?v=HlrG6GycXX0)"
 End:
 
-Object: 35.7863 -97.0757 20
+Object: 35.6530 -97.5457 20
+  Icon: 1
+  Text: 0,1,1,"Storm Chasing with Jen &amp; Marsha- Illinois/Indiana 10/18/2025 #severeweather #stormchaser 🔴 [Live](https://www.youtube.com/watch?v=7h5yvNDjlLY)"
+End:
+
+Object: 35.9670 -97.4716 20
+  Icon: 1
+  Text: 0,1,1,"🔴 Live 24/7 Weather Cameras - Tornadoes, Severe Weather, Flooding, Storm Chasers And More! (BETA) 🔴 [Live](https://www.youtube.com/watch?v=XabDE0G53hk)"
+End:
+
+Object: 35.4276 -97.7612 20
+  Icon: 1
+  Text: 0,1,1,"🔴BREAKING - Tornadoes Likely Today! 2-Inch Hail, And 70mph Winds Possible! Live Weather Coverage! 🔴 [Live](https://www.youtube.com/watch?v=lYR8oFH0R4w)"
+End:
+
+Object: 35.1478 -97.7334 20
+  Icon: 1
+  Text: 0,1,1,"🔻LIVE STORM CHASERS: TEXAS STORM CHASING 🔴 [Live](https://www.youtube.com/watch?v=htdksSy1Bhc)"
+End:
+
+Object: 35.0750 -97.0828 20
+  Icon: 1
+  Text: 0,1,1,"🔴 Live 24/7 National Weather Radar &amp; Alerts, Weather Intensity Score &amp; YallBot! 🔴 [Live](https://www.youtube.com/watch?v=0tDeAg_mGa0)"
+End:
+
+Object: 35.4540 -97.2243 20
+  Icon: 1
+  Text: 0,1,1,"Michigan Severe Weather Coverage - October 18th, 2025 🔴 [Live](https://www.youtube.com/watch?v=bD7gU6t7cCs)"
+End:
+
+Object: 35.1738 -97.5969 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE Texas Radar &amp; Temperatures, Severe &amp; Tornado Warnings, Background Music! Texas Weather Center 🔴 [Live](https://www.youtube.com/watch?v=1DdZtwBW7i8)"
+End:
+
+Object: 35.9869 -97.1491 20
+  Icon: 1
+  Text: 0,1,1,"Live DFW Weather Radar: Tracking storms in North Texas Saturday 🔴 [Live](https://www.youtube.com/watch?v=INGL_lkEAaM)"
+End:
+
+Object: 35.2318 -97.4250 20
   Icon: 1
   Text: 0,1,1,"OCTOBER ARKANSAS STORMS 🔴 [Live](https://www.youtube.com/watch?v=BcwanZrR4LQ)"
 End:
 
-Object: 35.1952 -97.9674 20
+Object: 35.4551 -97.4183 20
   Icon: 1
   Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
 End:
 
-Object: 35.3384 -97.3612 20
+Object: 35.9598 -97.8795 20
   Icon: 1
   Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
 
-Object: 35.6782 -97.7518 20
+Object: 35.8905 -97.3683 20
   Icon: 1
   Text: 0,1,1,"Returning from Milwaukee to Chase Tornadoes- LIVE STORM CHASER (Tentative) 🔴 [Live](https://www.youtube.com/watch?v=9K9guzIAy0U)"
 End:
 
-Object: 35.1181 -97.8117 20
+Object: 35.7744 -97.1003 20
   Icon: 1
   Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
 End:
 
-Object: 35.6869 -97.3362 20
+Object: 35.7152 -97.9066 20
   Icon: 1
   Text: 0,1,1,"24/7 Live Radar+Warnings+Convective Outlook+GOES-19+Earthquakes+MESO-EHI-STP 🔴 [Live](https://www.youtube.com/watch?v=piMsYhkvy3o)"
 End:
 
-Object: 35.9586 -97.7365 20
+Object: 35.7877 -97.8184 20
   Icon: 1
   Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
 End:
 
-Object: 35.5418 -97.5998 20
+Object: 35.3063 -97.1856 20
   Icon: 1
   Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
 End:
 
-Object: 35.5338 -97.1594 20
+Object: 35.9078 -97.3139 20
   Icon: 1
   Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
 End:
 
-Object: 35.3954 -97.8529 20
+Object: 35.1619 -97.6830 20
   Icon: 1
   Text: 0,1,1,"Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
-End:
-
-Object: 35.7127 -97.9009 20
-  Icon: 1
-  Text: 0,1,1,"🔴 Heavy Rain and Thunder Sounds 24/7 - Deep Sleep | Thunderstorm for Sleeping - Pure Relaxing Vibes 🔴 [Live](https://www.youtube.com/watch?v=cI0zN1nG3PQ)"
 End:
