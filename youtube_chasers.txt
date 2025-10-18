@@ -1,129 +1,129 @@
-# Generated: 2025-10-18T22:18:10.295315Z
+# Generated: 2025-10-18T22:33:24.055424Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.0586 -97.8763 20
+Object: 35.6116 -97.1862 20
   Icon: 1
   Text: 0,1,1,"🔴LIVE Storm Chasing: Real-Time Severe Weather 🔴 [Live](https://www.youtube.com/watch?v=OPusKUk0YcM)"
 End:
 
-Object: 35.3230 -97.3991 20
+Object: 35.9521 -97.7393 20
   Icon: 1
   Text: 0,1,1,"🔴NOW: Tornado Threat Coverage With LIVE Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=JWORl3Q6ymY)"
 End:
 
-Object: 35.9400 -97.6657 20
+Object: 35.2761 -97.6735 20
   Icon: 1
   Text: 0,1,1,"🔴Severe Weather Returns with a Tornado Threat - Live Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=Hz3IQwdUJgc)"
 End:
 
-Object: 35.5262 -97.0811 20
+Object: 35.9666 -97.5709 20
   Icon: 1
   Text: 0,1,1,"LIVE Storm Chaser - TORNADO Threat Missouri 🔴 [Live](https://www.youtube.com/watch?v=ITo8KA3Hlp8)"
 End:
 
-Object: 35.1363 -97.5863 20
-  Icon: 1
-  Text: 0,1,1,"🔴LIVE Severe Coverage in Arkansas with Storm Chasers! - Oct 18, 2025 Live Weather Coverage Channel 🔴 [Live](https://www.youtube.com/watch?v=sGGQD-s_cWQ)"
-End:
-
-Object: 35.9760 -97.8326 20
+Object: 35.8131 -97.7185 20
   Icon: 1
   Text: 0,1,1,"🔴SEVERE WEATHER THREAT - LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=dn4SRMTTaYA)"
 End:
 
-Object: 35.4116 -97.0891 20
+Object: 35.9016 -97.3712 20
+  Icon: 1
+  Text: 0,1,1,"🔴LIVE Severe Coverage in Arkansas with Storm Chasers! - Oct 18, 2025 Live Weather Coverage Channel 🔴 [Live](https://www.youtube.com/watch?v=sGGQD-s_cWQ)"
+End:
+
+Object: 35.8605 -97.6555 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: TORNADO WATCH COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=T8usE-h_bco)"
 End:
 
-Object: 35.0836 -97.6922 20
+Object: 35.4132 -97.6435 20
   Icon: 1
   Text: 0,1,1,"Watch live | Tracking severe weather in Arkansas w/ Tom Brannon 🔴 [Live](https://www.youtube.com/watch?v=HlrG6GycXX0)"
 End:
 
-Object: 35.3944 -97.2239 20
-  Icon: 1
-  Text: 0,1,1,"Michigan Severe Weather Coverage - October 18th, 2025 🔴 [Live](https://www.youtube.com/watch?v=bD7gU6t7cCs)"
-End:
-
-Object: 35.8233 -97.3705 20
-  Icon: 1
-  Text: 0,1,1,"Storm Chasing with Jen &amp; Marsha- Illinois/Indiana 10/18/2025 #severeweather #stormchaser 🔴 [Live](https://www.youtube.com/watch?v=7h5yvNDjlLY)"
-End:
-
-Object: 35.7411 -97.7605 20
-  Icon: 1
-  Text: 0,1,1,"🔴 Live 24/7 Weather Cameras - Tornadoes, Severe Weather, Flooding, Storm Chasers And More! (BETA) 🔴 [Live](https://www.youtube.com/watch?v=XabDE0G53hk)"
-End:
-
-Object: 35.3796 -97.1970 20
-  Icon: 1
-  Text: 0,1,1,"🔴 Live 24/7 National Weather Radar &amp; Alerts, Weather Intensity Score &amp; YallBot! 🔴 [Live](https://www.youtube.com/watch?v=0tDeAg_mGa0)"
-End:
-
-Object: 35.2039 -97.8850 20
+Object: 35.6737 -97.7674 20
   Icon: 1
   Text: 0,1,1,"🔴BREAKING - Tornadoes Likely Today! 2-Inch Hail, And 70mph Winds Possible! Live Weather Coverage! 🔴 [Live](https://www.youtube.com/watch?v=lYR8oFH0R4w)"
 End:
 
-Object: 35.0248 -97.2036 20
+Object: 35.7136 -97.3285 20
   Icon: 1
-  Text: 0,1,1,"🔻LIVE STORM CHASERS: TEXAS STORM CHASING 🔴 [Live](https://www.youtube.com/watch?v=htdksSy1Bhc)"
+  Text: 0,1,1,"Michigan Severe Weather Coverage - October 18th, 2025 🔴 [Live](https://www.youtube.com/watch?v=bD7gU6t7cCs)"
 End:
 
-Object: 35.4510 -97.8353 20
+Object: 35.9837 -97.8851 20
+  Icon: 1
+  Text: 0,1,1,"Storm Chasing with Jen &amp; Marsha- Illinois/Indiana 10/18/2025 #severeweather #stormchaser 🔴 [Live](https://www.youtube.com/watch?v=7h5yvNDjlLY)"
+End:
+
+Object: 35.2430 -97.7681 20
+  Icon: 1
+  Text: 0,1,1,"🔴 Live 24/7 Weather Cameras - Tornadoes, Severe Weather, Flooding, Storm Chasers And More! (BETA) 🔴 [Live](https://www.youtube.com/watch?v=XabDE0G53hk)"
+End:
+
+Object: 35.3158 -97.7188 20
+  Icon: 1
+  Text: 0,1,1,"🔴 Live 24/7 National Weather Radar &amp; Alerts, Weather Intensity Score &amp; YallBot! 🔴 [Live](https://www.youtube.com/watch?v=0tDeAg_mGa0)"
+End:
+
+Object: 35.8910 -97.2492 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Texas Radar &amp; Temperatures, Severe &amp; Tornado Warnings, Background Music! Texas Weather Center 🔴 [Live](https://www.youtube.com/watch?v=1DdZtwBW7i8)"
 End:
 
-Object: 35.3963 -97.2817 20
+Object: 35.1942 -97.0471 20
   Icon: 1
   Text: 0,1,1,"Live DFW Weather Radar: Tracking storms in North Texas Saturday 🔴 [Live](https://www.youtube.com/watch?v=INGL_lkEAaM)"
 End:
 
-Object: 35.7975 -97.2299 20
+Object: 35.1247 -97.5495 20
   Icon: 1
   Text: 0,1,1,"OCTOBER ARKANSAS STORMS 🔴 [Live](https://www.youtube.com/watch?v=BcwanZrR4LQ)"
 End:
 
-Object: 35.7767 -97.6476 20
-  Icon: 1
-  Text: 0,1,1,"Scotts, MI - Weather Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=UZ1itJ9aL8M)"
-End:
-
-Object: 35.3748 -97.2517 20
+Object: 35.8490 -97.5979 20
   Icon: 1
   Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
 End:
 
-Object: 35.1721 -97.5654 20
+Object: 35.8547 -97.0034 20
+  Icon: 1
+  Text: 0,1,1,"Scotts, MI - Weather Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=UZ1itJ9aL8M)"
+End:
+
+Object: 35.2422 -97.8384 20
   Icon: 1
   Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
 
-Object: 35.5884 -97.5242 20
+Object: 35.7901 -97.9151 20
   Icon: 1
   Text: 0,1,1,"Returning from Milwaukee to Chase Tornadoes- LIVE STORM CHASER (Tentative) 🔴 [Live](https://www.youtube.com/watch?v=9K9guzIAy0U)"
 End:
 
-Object: 35.8446 -97.8074 20
-  Icon: 1
-  Text: 0,1,1,"Paw Paw, MI - Weather Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=uaH-vCQkvWE)"
-End:
-
-Object: 35.7124 -97.6885 20
+Object: 35.0895 -97.4925 20
   Icon: 1
   Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
 End:
 
-Object: 35.2412 -97.0100 20
+Object: 35.7217 -97.7679 20
+  Icon: 1
+  Text: 0,1,1,"Paw Paw, MI - Weather Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=uaH-vCQkvWE)"
+End:
+
+Object: 35.5438 -97.7880 20
+  Icon: 1
+  Text: 0,1,1,"Sebewaing, MI - Weather Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=BKx0S4Hh-4o)"
+End:
+
+Object: 35.1697 -97.2558 20
   Icon: 1
   Text: 0,1,1,"24/7 Live Radar+Warnings+Convective Outlook+GOES-19+Earthquakes+MESO-EHI-STP 🔴 [Live](https://www.youtube.com/watch?v=piMsYhkvy3o)"
 End:
 
-Object: 35.2561 -97.4923 20
+Object: 35.5490 -97.3035 20
   Icon: 1
-  Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
+  Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
 End:
