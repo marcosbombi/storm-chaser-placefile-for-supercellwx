@@ -1,124 +1,129 @@
-# Generated: 2025-10-21T21:37:26.225645Z
+# Generated: 2025-10-21T21:48:34.550726Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.5091 -97.0009 20
+Object: 35.0700 -97.4437 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: TORNADO WATCH COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=T8usE-h_bco)"
 End:
 
-Object: 35.2794 -97.4732 20
+Object: 35.1106 -97.4252 20
   Icon: 1
   Text: 0,1,1,"🔴 Live 24/7 Weather Cameras - Tornadoes, Severe Weather, Storm Chasers And More! (BETA) 🔴 [Live](https://www.youtube.com/watch?v=XabDE0G53hk)"
 End:
 
-Object: 35.3741 -97.5980 20
+Object: 35.8288 -97.0518 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Texas Radar &amp; Temperatures, Severe &amp; Tornado Warnings, Background Music! Texas Weather Center 🔴 [Live](https://www.youtube.com/watch?v=1DdZtwBW7i8)"
 End:
 
-Object: 35.6509 -97.5095 20
+Object: 35.0535 -97.3778 20
   Icon: 1
   Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
 End:
 
-Object: 35.9124 -97.3036 20
+Object: 35.3246 -97.2675 20
   Icon: 1
   Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
 
-Object: 35.0032 -97.8894 20
+Object: 35.5453 -97.8555 20
+  Icon: 1
+  Text: 0,1,1,"Adrian, MI - Weather Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=lEdzLfNUQYA)"
+End:
+
+Object: 35.6717 -97.3110 20
   Icon: 1
   Text: 0,1,1,"Sebewaing, MI - Weather Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=BKx0S4Hh-4o)"
 End:
 
-Object: 35.4822 -97.0014 20
+Object: 35.5985 -97.4053 20
+  Icon: 1
+  Text: 0,1,1,"Cheboygan, MI - Aurora Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=ZaYDJ1XpsXA)"
+End:
+
+Object: 35.4176 -97.2685 20
   Icon: 1
   Text: 0,1,1,"Grand Blanc, MI - Weather Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=KUGpv5EfIfg)"
 End:
 
-Object: 35.8365 -97.8102 20
-  Icon: 1
-  Text: 0,1,1,"Howell, MI - Weather Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=Qxkhk0UBN6s)"
-End:
-
-Object: 35.3938 -97.8293 20
-  Icon: 1
-  Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
-End:
-
-Object: 35.8592 -97.2970 20
+Object: 35.2340 -97.3138 20
   Icon: 1
   Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
 End:
 
-Object: 35.1648 -97.2710 20
+Object: 35.5654 -97.7504 20
+  Icon: 1
+  Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
+End:
+
+Object: 35.4070 -97.9817 20
   Icon: 1
   Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
 End:
 
-Object: 35.2297 -97.5162 20
+Object: 35.4240 -97.2331 20
   Icon: 1
   Text: 0,1,1,"Live Radar - Tracking showers &amp; storms across Oklahoma 🔴 [Live](https://www.youtube.com/watch?v=FkYylSQ4fgw)"
 End:
 
-Object: 35.9561 -97.6133 20
+Object: 35.2478 -97.4975 20
+  Icon: 1
+  Text: 0,1,1,"Ludington, MI - Aurora Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=6cZdOILu3-Y)"
+End:
+
+Object: 35.3873 -97.8643 20
+  Icon: 1
+  Text: 0,1,1,"Holland, MI - Weather Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=kFTk5En86LM)"
+End:
+
+Object: 35.6112 -97.3260 20
   Icon: 1
   Text: 0,1,1,"Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
 End:
 
-Object: 35.8865 -97.1678 20
-  Icon: 1
-  Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
-End:
-
-Object: 35.9274 -97.2368 20
+Object: 35.4364 -97.1256 20
   Icon: 1
   Text: 0,1,1,"🔴 Heavy Rain and Thunder Sounds 24/7 - Deep Sleep | Thunderstorm for Sleeping - Pure Relaxing Vibes 🔴 [Live](https://www.youtube.com/watch?v=cI0zN1nG3PQ)"
 End:
 
-Object: 35.9005 -97.2447 20
+Object: 35.0807 -97.7180 20
+  Icon: 1
+  Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
+End:
+
+Object: 35.0445 -97.5933 20
   Icon: 1
   Text: 0,1,1,"Duluth Canal Cam 🔴 [Live](https://www.youtube.com/watch?v=HPS48TMmNag)"
 End:
 
-Object: 35.4081 -97.7227 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE Mississippi River Wildlife Camera, Brainerd, MN 🔴 [Live](https://www.youtube.com/watch?v=eNkZeO12t1Y)"
-End:
-
-Object: 35.3801 -97.9531 20
+Object: 35.6616 -97.7993 20
   Icon: 1
   Text: 0,1,1,"Port Huron, Michigan USA | StreamTime LIVE 🔴 [Live](https://www.youtube.com/watch?v=mVHTqCXsZB0)"
 End:
 
-Object: 35.9696 -97.7253 20
+Object: 35.0058 -97.8344 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE Mississippi River Wildlife Camera, Brainerd, MN 🔴 [Live](https://www.youtube.com/watch?v=eNkZeO12t1Y)"
+End:
+
+Object: 35.6136 -97.8711 20
   Icon: 1
   Text: 0,1,1,"WDTN - Beavercreek Camera 🔴 [Live](https://www.youtube.com/watch?v=D9flnb2pQDc)"
 End:
 
-Object: 35.3536 -97.7431 20
+Object: 35.8192 -97.2399 20
   Icon: 1
   Text: 0,1,1,"🌪️ LIVE: VortexNow AI Weather Monitoring - Experimental Storm Tracking  10/21/2025 🔴 [Live](https://www.youtube.com/watch?v=wiS5-cBDxl8)"
 End:
 
-Object: 35.2383 -97.8192 20
+Object: 35.4965 -97.3127 20
   Icon: 1
   Text: 0,1,1,"Severe Weather Coverage! - Less Than A 2% Tornado Risk Today! 🔴 [Live](https://www.youtube.com/watch?v=8IF8uHOXfLo)"
 End:
 
-Object: 35.5770 -97.3609 20
+Object: 35.5841 -97.3605 20
   Icon: 1
   Text: 0,1,1,"Alexander County Courthouse Park 🔴 [Live](https://www.youtube.com/watch?v=RuiHEi2ImpI)"
-End:
-
-Object: 35.9161 -97.5598 20
-  Icon: 1
-  Text: 0,1,1,"Northern Ohio Severe Weather Tracking 🔴 [Live](https://www.youtube.com/watch?v=QMQVw2S80j0)"
-End:
-
-Object: 35.1570 -97.6331 20
-  Icon: 1
-  Text: 0,1,1,"South Dakota School of Mines and Technology&#39;s (SDSM&amp;T) Dino Cam 🔴 [Live](https://www.youtube.com/watch?v=6lYoPExcOwg)"
 End:
