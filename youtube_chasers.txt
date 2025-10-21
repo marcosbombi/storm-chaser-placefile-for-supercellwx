@@ -1,104 +1,114 @@
-# Generated: 2025-10-21T18:54:51.477294Z
+# Generated: 2025-10-21T19:17:54.839083Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.2422 -97.9880 20
+Object: 35.0185 -97.7145 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: TORNADO WATCH COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=T8usE-h_bco)"
 End:
 
-Object: 35.4764 -97.5878 20
+Object: 35.5869 -97.2686 20
   Icon: 1
   Text: 0,1,1,"🔴 Live 24/7 Weather Cameras - Tornadoes, Severe Weather, Storm Chasers And More! (BETA) 🔴 [Live](https://www.youtube.com/watch?v=XabDE0G53hk)"
 End:
 
-Object: 35.4846 -97.2189 20
+Object: 35.4225 -97.6982 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Texas Radar &amp; Temperatures, Severe &amp; Tornado Warnings, Background Music! Texas Weather Center 🔴 [Live](https://www.youtube.com/watch?v=1DdZtwBW7i8)"
 End:
 
-Object: 35.8639 -97.6970 20
+Object: 35.4319 -97.4710 20
   Icon: 1
   Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
 End:
 
-Object: 35.6324 -97.0842 20
+Object: 35.6852 -97.0502 20
   Icon: 1
   Text: 0,1,1,"A Deserted Field in the Deserted Countryside is About to Welcome Terrible Storm | High winds&amp;thunder 🔴 [Live](https://www.youtube.com/watch?v=1Tr_J2zI-OM)"
 End:
 
-Object: 35.2743 -97.3626 20
+Object: 35.2394 -97.9084 20
   Icon: 1
   Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
 
-Object: 35.5853 -97.1942 20
+Object: 35.5538 -97.6729 20
+  Icon: 1
+  Text: 0,1,1,"Sebewaing, MI - Weather Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=BKx0S4Hh-4o)"
+End:
+
+Object: 35.3527 -97.1928 20
+  Icon: 1
+  Text: 0,1,1,"LIVE STORM CHASING in Michigan- Waterspouts and Thunderheads! 🔴 [Live](https://www.youtube.com/watch?v=ZmdEfic4zy8)"
+End:
+
+Object: 35.4525 -97.7205 20
   Icon: 1
   Text: 0,1,1,"🌪️ LIVE: VortexNow AI Weather Monitoring - Experimental Storm Tracking  10/21/2025 🔴 [Live](https://www.youtube.com/watch?v=wiS5-cBDxl8)"
 End:
 
-Object: 35.3223 -97.8552 20
+Object: 35.6773 -97.6038 20
   Icon: 1
   Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
 End:
 
-Object: 35.0560 -97.6817 20
+Object: 35.6798 -97.6178 20
   Icon: 1
   Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
 End:
 
-Object: 35.3873 -97.2368 20
-  Icon: 1
-  Text: 0,1,1,"Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
-End:
-
-Object: 35.4289 -97.2377 20
+Object: 35.4967 -97.7797 20
   Icon: 1
   Text: 0,1,1,"Live Radar - Tracking showers &amp; storms across Oklahoma 🔴 [Live](https://www.youtube.com/watch?v=FkYylSQ4fgw)"
 End:
 
-Object: 35.2548 -97.4733 20
+Object: 35.6907 -97.4219 20
   Icon: 1
-  Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
+  Text: 0,1,1,"Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
 End:
 
-Object: 35.8741 -97.0614 20
+Object: 35.7486 -97.3159 20
   Icon: 1
   Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
 End:
 
-Object: 35.3653 -97.3744 20
+Object: 35.7053 -97.5864 20
+  Icon: 1
+  Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
+End:
+
+Object: 35.3455 -97.4251 20
   Icon: 1
   Text: 0,1,1,"🔴 Heavy Rain and Thunder Sounds 24/7 - Deep Sleep | Thunderstorm for Sleeping - Pure Relaxing Vibes 🔴 [Live](https://www.youtube.com/watch?v=cI0zN1nG3PQ)"
 End:
 
-Object: 35.6369 -97.6064 20
+Object: 35.0406 -97.2622 20
   Icon: 1
   Text: 0,1,1,"Duluth Canal Cam 🔴 [Live](https://www.youtube.com/watch?v=HPS48TMmNag)"
 End:
 
-Object: 35.0359 -97.0078 20
+Object: 35.5768 -97.3826 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Mississippi River Wildlife Camera, Brainerd, MN 🔴 [Live](https://www.youtube.com/watch?v=eNkZeO12t1Y)"
 End:
 
-Object: 35.8065 -97.8093 20
+Object: 35.6595 -97.7839 20
   Icon: 1
   Text: 0,1,1,"Port Huron, Michigan USA | StreamTime LIVE 🔴 [Live](https://www.youtube.com/watch?v=mVHTqCXsZB0)"
 End:
 
-Object: 35.9851 -97.0308 20
+Object: 35.4646 -97.0515 20
   Icon: 1
   Text: 0,1,1,"WDTN - Beavercreek Camera 🔴 [Live](https://www.youtube.com/watch?v=D9flnb2pQDc)"
 End:
 
-Object: 35.3020 -97.2386 20
+Object: 35.4550 -97.0103 20
   Icon: 1
   Text: 0,1,1,"Alexander County Courthouse Park 🔴 [Live](https://www.youtube.com/watch?v=RuiHEi2ImpI)"
 End:
 
-Object: 35.3094 -97.5267 20
+Object: 35.9240 -97.2913 20
   Icon: 1
   Text: 0,1,1,"South Dakota School of Mines and Technology&#39;s (SDSM&amp;T) Dino Cam 🔴 [Live](https://www.youtube.com/watch?v=6lYoPExcOwg)"
 End:
