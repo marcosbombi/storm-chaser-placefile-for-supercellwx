@@ -1,129 +1,129 @@
-# Generated: 2025-10-23T21:46:46.568769Z
+# Generated: 2025-10-23T21:58:10.801565Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.7277 -97.5987 20
+Object: 35.0732 -97.9524 20
   Icon: 1
   Text: 0,1,1,"Oklahoma Severe Weather Threat -- STORM CHASE WITH ME #oklahoma #stormchasing 🔴 [Live](https://www.youtube.com/watch?v=fyZYI2lj-HA)"
 End:
 
-Object: 35.2174 -97.1219 20
-  Icon: 1
-  Text: 0,1,1,"🔴LIVE Storm Chasing: West Texas Adventure! Severe Weather Coverage 🔴 [Live](https://www.youtube.com/watch?v=9QQE010NLic)"
-End:
-
-Object: 35.3848 -97.7749 20
+Object: 35.9698 -97.1328 20
   Icon: 1
   Text: 0,1,1,"🔴Texas Panhandle Supercells &amp; Maybe Birthday Tornado? - Live Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=Rw5G85Y3At4)"
 End:
 
-Object: 35.2334 -97.7091 20
+Object: 35.6394 -97.8654 20
+  Icon: 1
+  Text: 0,1,1,"🔴LIVE Storm Chasing: West Texas Adventure! Severe Weather Coverage 🔴 [Live](https://www.youtube.com/watch?v=9QQE010NLic)"
+End:
+
+Object: 35.2872 -97.0393 20
+  Icon: 1
+  Text: 0,1,1,"LIVE STORM CHASER - Red River Tornado Threat - Oklahoma/Texas 🔴 [Live](https://www.youtube.com/watch?v=QLPyS-UTQZc)"
+End:
+
+Object: 35.3643 -97.1258 20
   Icon: 1
   Text: 0,1,1,"🔴 Live 24/7 National Weather Radar &amp; Alerts, Weather Intensity Score &amp; YallBot! 🔴 [Live](https://www.youtube.com/watch?v=ezp-7eLXBVs)"
 End:
 
-Object: 35.9742 -97.3001 20
+Object: 35.6127 -97.8514 20
   Icon: 1
   Text: 0,1,1,"🔴TEXAS SUPERCELLS - REDMAN - LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=TDTMcDrxrTI)"
 End:
 
-Object: 35.5412 -97.6030 20
+Object: 35.7347 -97.7104 20
   Icon: 1
   Text: 0,1,1,"🔴 Live 24/7 Severe Weather Cameras - Tornadoes, Severe Weather, Storm Chasers And More! (BETA) 🔴 [Live](https://www.youtube.com/watch?v=XabDE0G53hk)"
 End:
 
-Object: 35.1434 -97.5313 20
+Object: 35.5218 -97.6875 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Texas Radar &amp; Temperatures, Severe &amp; Tornado Warnings, Background Music! Texas Weather Center 🔴 [Live](https://www.youtube.com/watch?v=1DdZtwBW7i8)"
 End:
 
-Object: 35.2393 -97.3093 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=030fx6zaJZk)"
-End:
-
-Object: 35.7425 -97.1306 20
+Object: 35.0463 -97.9556 20
   Icon: 1
   Text: 0,1,1,"WISH Weather RAW: 24/7 Indiana Radar + Live Severe Weather &amp; Forecasts | Storm Track 8 Unfiltered 🔴 [Live](https://www.youtube.com/watch?v=Zw230Ok5stg)"
 End:
 
-Object: 35.8666 -97.2376 20
+Object: 35.8899 -97.6741 20
   Icon: 1
-  Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
+  Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=030fx6zaJZk)"
 End:
 
-Object: 35.9660 -97.9187 20
-  Icon: 1
-  Text: 0,1,1,"SOUTHERN PLAINS SEVERE WEATHER THREAT 🔴 [Live](https://www.youtube.com/watch?v=d-Tj8YsVNzU)"
-End:
-
-Object: 35.6827 -97.1759 20
+Object: 35.6403 -97.3862 20
   Icon: 1
   Text: 0,1,1,"Texas Tornado Risk! 🔴 LIVE Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=NoWNjdu6_mo)"
 End:
 
-Object: 35.5868 -97.7290 20
+Object: 35.2611 -97.9634 20
+  Icon: 1
+  Text: 0,1,1,"SOUTHERN PLAINS SEVERE WEATHER THREAT 🔴 [Live](https://www.youtube.com/watch?v=d-Tj8YsVNzU)"
+End:
+
+Object: 35.1223 -97.7087 20
+  Icon: 1
+  Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
+End:
+
+Object: 35.1683 -97.6042 20
   Icon: 1
   Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
 
-Object: 35.1685 -97.5371 20
-  Icon: 1
-  Text: 0,1,1,"Cheboygan, MI - Aurora Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=ZaYDJ1XpsXA)"
-End:
-
-Object: 35.3531 -97.8099 20
+Object: 35.8385 -97.0427 20
   Icon: 1
   Text: 0,1,1,"Severe weather threat with low-end tornado potential across Texas/Oklahoma! - Live Storm Chaser. 🔴 [Live](https://www.youtube.com/watch?v=u7eRC0tklLc)"
 End:
 
-Object: 35.6603 -97.0898 20
-  Icon: 1
-  Text: 0,1,1,"24/7 - Live Radar  + GOES-19  + Earthquakes + MESO + Forecast  and Tropical conditions for Melissa 🔴 [Live](https://www.youtube.com/watch?v=1xCAGP_FvNU)"
-End:
-
-Object: 35.3014 -97.1651 20
+Object: 35.7617 -97.5372 20
   Icon: 1
   Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
 End:
 
-Object: 35.1569 -97.6244 20
+Object: 35.3069 -97.6132 20
   Icon: 1
   Text: 0,1,1,"Ludington, MI - Aurora Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=6cZdOILu3-Y)"
 End:
 
-Object: 35.3821 -97.7322 20
+Object: 35.4550 -97.7532 20
   Icon: 1
-  Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
+  Text: 0,1,1,"Naubinway, MI - Aurora Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=ygL_5y53-44)"
 End:
 
-Object: 35.7405 -97.7569 20
+Object: 35.3658 -97.1860 20
   Icon: 1
   Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
 End:
 
-Object: 35.2619 -97.9676 20
+Object: 35.9199 -97.0322 20
+  Icon: 1
+  Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
+End:
+
+Object: 35.1696 -97.6990 20
   Icon: 1
   Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
 End:
 
-Object: 35.8596 -97.9435 20
+Object: 35.6089 -97.6604 20
   Icon: 1
   Text: 0,1,1,"Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
 End:
 
-Object: 35.9971 -97.8386 20
+Object: 35.9786 -97.9424 20
   Icon: 1
   Text: 0,1,1,"🔴 Heavy Rain and Thunder Sounds 24/7 - Deep Sleep | Thunderstorm for Sleeping - Pure Relaxing Vibes 🔴 [Live](https://www.youtube.com/watch?v=cI0zN1nG3PQ)"
 End:
 
-Object: 35.3969 -97.4212 20
+Object: 35.4466 -97.6704 20
   Icon: 1
   Text: 0,1,1,"Duluth Canal Cam 🔴 [Live](https://www.youtube.com/watch?v=HPS48TMmNag)"
 End:
 
-Object: 35.4870 -97.7430 20
+Object: 35.3720 -97.6052 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Mississippi River Wildlife Camera, Brainerd, MN 🔴 [Live](https://www.youtube.com/watch?v=eNkZeO12t1Y)"
 End:
