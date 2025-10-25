@@ -1,129 +1,129 @@
-# Generated: 2025-10-25T03:13:01.543670Z
+# Generated: 2025-10-25T03:45:54.334713Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.1900 -97.7740 20
-  Icon: 1
-  Text: 0,1,1,"🔴 BREAKING Tornado Threat In Texas - Tornadoes Possible - With Live Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=Er3OHlHF0HA)"
-End:
-
-Object: 35.6505 -97.8888 20
+Object: 35.5007 -97.7595 20
   Icon: 1
   Text: 0,1,1,"LIVE Now: Severe Thunderstorms and Tornadoes Across Texas | Breaking Weather Updates 🔴 [Live](https://www.youtube.com/watch?v=VzpNl-sWVUA)"
 End:
 
-Object: 35.9832 -97.3734 20
-  Icon: 1
-  Text: 0,1,1,"LIVE Storm Chaser - Tracking Tornadic Supercells In Oklahoma And Texas 🔴 [Live](https://www.youtube.com/watch?v=N8qPJ3Otrvo)"
-End:
-
-Object: 35.5940 -97.8509 20
+Object: 35.5720 -97.5518 20
   Icon: 1
   Text: 0,1,1,"🔴 Live 24/7 National Weather Radar &amp; Alerts, Weather Intensity Score &amp; YallBot! 🔴 [Live](https://www.youtube.com/watch?v=ezp-7eLXBVs)"
 End:
 
-Object: 35.4152 -97.8393 20
+Object: 35.4112 -97.7494 20
   Icon: 1
-  Text: 0,1,1,"🔴LIVE: Tornado Outbreak in Texas, Tropical Storm Melissa &amp; Portland Protests | Storm Chasers, Space 🔴 [Live](https://www.youtube.com/watch?v=PH784r6JJeo)"
+  Text: 0,1,1,"LIVE Storm Chaser - Tracking Tornadic Supercells In Oklahoma And Texas 🔴 [Live](https://www.youtube.com/watch?v=N8qPJ3Otrvo)"
 End:
 
-Object: 35.1298 -97.6587 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=yEagMdHAwdI)"
-End:
-
-Object: 35.0176 -97.8073 20
-  Icon: 1
-  Text: 0,1,1,"Inside Nature’s Most Dangerous Storms | In the Eye of the Storm | Discovery 🔴 [Live](https://www.youtube.com/watch?v=0WP2iQaWRt8)"
-End:
-
-Object: 35.1878 -97.7087 20
-  Icon: 1
-  Text: 0,1,1,"🔴 Live 24/7 Severe Weather Cameras - Tornadoes, Severe Weather, Storm Chasers And More! (BETA) 🔴 [Live](https://www.youtube.com/watch?v=XabDE0G53hk)"
-End:
-
-Object: 35.4265 -97.7430 20
-  Icon: 1
-  Text: 0,1,1,"WISH Weather RAW: 24/7 Indiana Radar + Live Severe Weather &amp; Forecasts | Storm Track 8 Unfiltered 🔴 [Live](https://www.youtube.com/watch?v=Zw230Ok5stg)"
-End:
-
-Object: 35.7469 -97.9674 20
+Object: 35.1860 -97.7145 20
   Icon: 1
   Text: 0,1,1,"🔴South Texas Windbag &amp; Tornado Threat Ramping up!!! - Live Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=Tg1AMPeaSP8)"
 End:
 
-Object: 35.2780 -97.7618 20
+Object: 35.3992 -97.5274 20
+  Icon: 1
+  Text: 0,1,1,"Inside Nature’s Most Dangerous Storms | In the Eye of the Storm | Discovery 🔴 [Live](https://www.youtube.com/watch?v=0WP2iQaWRt8)"
+End:
+
+Object: 35.9164 -97.5874 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=yEagMdHAwdI)"
+End:
+
+Object: 35.5856 -97.8167 20
+  Icon: 1
+  Text: 0,1,1,"🔴 Live 24/7 Severe Weather Cameras - Tornadoes, Severe Weather, Storm Chasers And More! (BETA) 🔴 [Live](https://www.youtube.com/watch?v=XabDE0G53hk)"
+End:
+
+Object: 35.6679 -97.9995 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Texas Radar &amp; Temperatures, Severe &amp; Tornado Warnings, Background Music! Texas Weather Center 🔴 [Live](https://www.youtube.com/watch?v=1DdZtwBW7i8)"
 End:
 
-Object: 35.9147 -97.5648 20
+Object: 35.3576 -97.0369 20
   Icon: 1
-  Text: 0,1,1,"Live DFW Weather Radar: Latest timing, forecast for heavy rains in North Texas 🔴 [Live](https://www.youtube.com/watch?v=CqpcXL7LGXQ)"
+  Text: 0,1,1,"WISH Weather RAW: 24/7 Indiana Radar + Live Severe Weather &amp; Forecasts | Storm Track 8 Unfiltered 🔴 [Live](https://www.youtube.com/watch?v=Zw230Ok5stg)"
 End:
 
-Object: 35.7109 -97.5848 20
+Object: 35.6311 -97.4628 20
   Icon: 1
   Text: 0,1,1,"A Terrible Storm is Approaching the Vast Steppe | High winds and thunder | 11 Hours of Relaxation 🔴 [Live](https://www.youtube.com/watch?v=LBprkxylh4U)"
 End:
 
-Object: 35.4373 -97.8628 20
-  Icon: 1
-  Text: 0,1,1,"Strong thunderstorms are coming to North Texas on Friday night, and flooding is possible on Saturday 🔴 [Live](https://www.youtube.com/watch?v=lOW72wsudnI)"
-End:
-
-Object: 35.7084 -97.7048 20
-  Icon: 1
-  Text: 0,1,1,"Breaking: Damaging Winds, Large Hail And Tornadoes Possible Across Texas Tonight! 🔴 [Live](https://www.youtube.com/watch?v=6o79NkopPPE)"
-End:
-
-Object: 35.9852 -97.5973 20
+Object: 35.1389 -97.3015 20
   Icon: 1
   Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
 End:
 
-Object: 35.2843 -97.3597 20
+Object: 35.9785 -97.4647 20
+  Icon: 1
+  Text: 0,1,1,"Live DFW Weather Radar: Latest timing, forecast for heavy rains in North Texas 🔴 [Live](https://www.youtube.com/watch?v=CqpcXL7LGXQ)"
+End:
+
+Object: 35.7471 -97.1298 20
+  Icon: 1
+  Text: 0,1,1,"LIVE STORM CHASE: South Australia - 25 October, 2025 🔴 [Live](https://www.youtube.com/watch?v=iMP3vKfLzxc)"
+End:
+
+Object: 35.4584 -97.2915 20
+  Icon: 1
+  Text: 0,1,1,"Strong thunderstorms are coming to North Texas on Friday night, and flooding is possible on Saturday 🔴 [Live](https://www.youtube.com/watch?v=lOW72wsudnI)"
+End:
+
+Object: 35.3869 -97.7108 20
   Icon: 1
   Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
 
-Object: 35.5726 -97.8197 20
+Object: 35.5912 -97.5816 20
   Icon: 1
-  Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
+  Text: 0,1,1,"Breaking: Damaging Winds, Large Hail And Tornadoes Possible Across Texas Tonight! 🔴 [Live](https://www.youtube.com/watch?v=6o79NkopPPE)"
 End:
 
-Object: 35.3413 -97.1374 20
+Object: 35.5821 -97.1930 20
   Icon: 1
   Text: 0,1,1,"24/7 - Live Radar | GOES-19 | Earthquakes | MESO | Forecast  | Tropical real time weather 🔴 [Live](https://www.youtube.com/watch?v=1xCAGP_FvNU)"
 End:
 
-Object: 35.0048 -97.3138 20
-  Icon: 1
-  Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
-End:
-
-Object: 35.2285 -97.9247 20
+Object: 35.6354 -97.2086 20
   Icon: 1
   Text: 0,1,1,"Ludington, MI - Aurora Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=6cZdOILu3-Y)"
 End:
 
-Object: 35.1360 -97.5700 20
-  Icon: 1
-  Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
-End:
-
-Object: 35.6333 -97.5884 20
-  Icon: 1
-  Text: 0,1,1,"Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
-End:
-
-Object: 35.3621 -97.8859 20
+Object: 35.0698 -97.8950 20
   Icon: 1
   Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
 End:
 
-Object: 35.2276 -97.5648 20
+Object: 35.1405 -97.6423 20
   Icon: 1
   Text: 0,1,1,"🔴 Heavy Rain and Thunder Sounds 24/7 - Deep Sleep | Thunderstorm for Sleeping - Pure Relaxing Vibes 🔴 [Live](https://www.youtube.com/watch?v=cI0zN1nG3PQ)"
+End:
+
+Object: 35.0066 -97.0208 20
+  Icon: 1
+  Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
+End:
+
+Object: 35.3015 -97.3898 20
+  Icon: 1
+  Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
+End:
+
+Object: 35.8964 -97.9661 20
+  Icon: 1
+  Text: 0,1,1,"Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
+End:
+
+Object: 35.5007 -97.1104 20
+  Icon: 1
+  Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
+End:
+
+Object: 35.4715 -97.0551 20
+  Icon: 1
+  Text: 0,1,1,"Duluth Canal Cam 🔴 [Live](https://www.youtube.com/watch?v=HPS48TMmNag)"
 End:
