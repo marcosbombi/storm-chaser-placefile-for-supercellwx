@@ -1,129 +1,129 @@
-# Generated: 2025-10-29T11:51:12.841702Z
+# Generated: 2025-10-29T12:47:36.971724Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.0283 -97.8925 20
+Object: 35.1065 -97.5734 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER / HURRICANE MELISSA COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=rLs6ZaBfUsk)"
 End:
 
-Object: 35.2364 -97.3526 20
+Object: 35.7192 -97.4335 20
   Icon: 1
   Text: 0,1,1,"🔴 Live 24/7 National Weather Radar &amp; Alerts, Weather Intensity Score &amp; YallBot! 🔴 [Live](https://www.youtube.com/watch?v=ezp-7eLXBVs)"
 End:
 
-Object: 35.2361 -97.7789 20
-  Icon: 1
-  Text: 0,1,1,"Inside Nature’s Most Dangerous Storms | In the Eye of the Storm | Discovery 🔴 [Live](https://www.youtube.com/watch?v=0WP2iQaWRt8)"
-End:
-
-Object: 35.9189 -97.3573 20
+Object: 35.2445 -97.7701 20
   Icon: 1
   Text: 0,1,1,"LIVE 🔴 Hurricane Melissa Hits Jamaica (2025) – Extreme Winds, Heavy Rain &amp; Storm Updates 🌪️🇯🇲 🔴 [Live](https://www.youtube.com/watch?v=9_OpKBfA9Wc)"
 End:
 
-Object: 35.7139 -97.4004 20
+Object: 35.2225 -97.2909 20
+  Icon: 1
+  Text: 0,1,1,"Inside Nature’s Most Dangerous Storms | In the Eye of the Storm | Discovery 🔴 [Live](https://www.youtube.com/watch?v=0WP2iQaWRt8)"
+End:
+
+Object: 35.1323 -97.9208 20
   Icon: 1
   Text: 0,1,1,"🔴 Live 24/7 Weather Cameras - Hurricane Melissa, Severe Weather, Storm Chasers And More! (BETA) 🔴 [Live](https://www.youtube.com/watch?v=XabDE0G53hk)"
 End:
 
-Object: 35.8298 -97.4811 20
+Object: 35.7206 -97.2136 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Texas Radar &amp; Temperatures, Severe &amp; Tornado Warnings, Background Music! Texas Weather Center 🔴 [Live](https://www.youtube.com/watch?v=1DdZtwBW7i8)"
 End:
 
-Object: 35.3643 -97.8454 20
+Object: 35.9062 -97.2188 20
+  Icon: 1
+  Text: 0,1,1,"LIVE: Major Hurricane Melissa Tracker | Satellite, Radar, and Key Messages 🔴 [Live](https://www.youtube.com/watch?v=04e4lWrf0Uo)"
+End:
+
+Object: 35.6772 -97.4812 20
   Icon: 1
   Text: 0,1,1,"LIVE: TRACKING CATEGORY 5 MELISSA 🔴 [Live](https://www.youtube.com/watch?v=Gwrq91bRL9A)"
 End:
 
-Object: 35.0628 -97.5803 20
+Object: 35.0084 -97.2136 20
   Icon: 1
   Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
 End:
 
-Object: 35.1693 -97.2566 20
+Object: 35.3238 -97.0378 20
   Icon: 1
   Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
 
-Object: 35.6583 -97.7280 20
+Object: 35.3943 -97.5990 20
   Icon: 1
   Text: 0,1,1,"LIVE | Category 5 Hurricane Melissa Nears Jamaica With 175mph, Strongest Storm of 2025 🔴 [Live](https://www.youtube.com/watch?v=heuHT8usAig)"
 End:
 
-Object: 35.0905 -97.7086 20
+Object: 35.0815 -97.9364 20
   Icon: 1
   Text: 0,1,1,"WISH Weather RAW: 24/7 Indiana Radar + Live Severe Weather &amp; Forecasts | Storm Track 8 Unfiltered 🔴 [Live](https://www.youtube.com/watch?v=Zw230Ok5stg)"
 End:
 
-Object: 35.1251 -97.1702 20
+Object: 35.3674 -97.9017 20
   Icon: 1
   Text: 0,1,1,"24/7 - Live Radar | GOES-19 | Earthquakes | MESO | Forecast  | Tropical real time weather 🔴 [Live](https://www.youtube.com/watch?v=1xCAGP_FvNU)"
 End:
 
-Object: 35.6511 -97.3105 20
-  Icon: 1
-  Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
-End:
-
-Object: 35.6309 -97.1109 20
+Object: 35.7170 -97.6717 20
   Icon: 1
   Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
 End:
 
-Object: 35.6754 -97.0012 20
+Object: 35.7704 -97.2157 20
+  Icon: 1
+  Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
+End:
+
+Object: 35.2980 -97.9412 20
   Icon: 1
   Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
 End:
 
-Object: 35.6339 -97.1396 20
+Object: 35.9703 -97.5751 20
   Icon: 1
   Text: 0,1,1,"Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
 End:
 
-Object: 35.4881 -97.6251 20
+Object: 35.1157 -97.9881 20
   Icon: 1
   Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
 End:
 
-Object: 35.9193 -97.3904 20
+Object: 35.4337 -97.2259 20
   Icon: 1
   Text: 0,1,1,"🔴 Heavy Rain and Thunder Sounds 24/7 - Deep Sleep | Thunderstorm for Sleeping - Pure Relaxing Vibes 🔴 [Live](https://www.youtube.com/watch?v=cI0zN1nG3PQ)"
 End:
 
-Object: 35.7023 -97.7013 20
+Object: 35.3512 -97.1636 20
   Icon: 1
   Text: 0,1,1,"Duluth Canal Cam 🔴 [Live](https://www.youtube.com/watch?v=HPS48TMmNag)"
 End:
 
-Object: 35.7943 -97.7687 20
+Object: 35.2674 -97.4198 20
   Icon: 1
   Text: 0,1,1,"Port Huron, Michigan USA | StreamTime LIVE 🔴 [Live](https://www.youtube.com/watch?v=mVHTqCXsZB0)"
 End:
 
-Object: 35.6955 -97.1893 20
+Object: 35.3783 -97.9702 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Mississippi River Wildlife Camera, Brainerd, MN 🔴 [Live](https://www.youtube.com/watch?v=eNkZeO12t1Y)"
 End:
 
-Object: 35.9061 -97.5245 20
+Object: 35.2215 -97.2990 20
   Icon: 1
   Text: 0,1,1,"Taking Shelter in Car while Camping During a Storm | Strong Winds, Thunder Sounds | 12 Hours 🔴 [Live](https://www.youtube.com/watch?v=Nyy5isDId5s)"
 End:
 
-Object: 35.5109 -97.5225 20
+Object: 35.5415 -97.9194 20
   Icon: 1
   Text: 0,1,1,"WDTN - Beavercreek Camera 🔴 [Live](https://www.youtube.com/watch?v=D9flnb2pQDc)"
 End:
 
-Object: 35.1055 -97.4878 20
-  Icon: 1
-  Text: 0,1,1,"Alexander County Courthouse Park 🔴 [Live](https://www.youtube.com/watch?v=RuiHEi2ImpI)"
-End:
-
-Object: 35.8521 -97.6957 20
+Object: 35.4960 -97.0118 20
   Icon: 1
   Text: 0,1,1,"🌪️ LIVE: VortexNow AI Weather Monitoring - Experimental Storm Tracking  10/29/2025 🔴 [Live](https://www.youtube.com/watch?v=RX72JrEUH6Q)"
 End:
