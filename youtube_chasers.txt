@@ -1,129 +1,129 @@
-# Generated: 2025-11-11T14:56:43.458045Z
+# Generated: 2025-11-11T15:28:37.197281Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.7577 -97.0699 20
+Object: 35.0733 -97.2272 20
   Icon: 1
   Text: 0,1,1,"🔴 Live 24/7 National Weather Radar &amp; Alerts, Weather Intensity Score &amp; YallBot! 🔴 [Live](https://www.youtube.com/watch?v=ezp-7eLXBVs)"
 End:
 
-Object: 35.8045 -97.2366 20
-  Icon: 1
-  Text: 0,1,1,"Inside Nature’s Most Dangerous Storms | In the Eye of the Storm | Discovery 🔴 [Live](https://www.youtube.com/watch?v=0WP2iQaWRt8)"
-End:
-
-Object: 35.4267 -97.1839 20
+Object: 35.8022 -97.9779 20
   Icon: 1
   Text: 0,1,1,"🔴 Live 24/7 Winter Storm Weather Cameras - Snow, Severe Weather, Storm Chasers, And More! (BETA) 🔴 [Live](https://www.youtube.com/watch?v=KVZBWmUgYog)"
 End:
 
-Object: 35.1165 -97.9110 20
+Object: 35.0377 -97.4998 20
+  Icon: 1
+  Text: 0,1,1,"Inside Nature’s Most Dangerous Storms | In the Eye of the Storm | Discovery 🔴 [Live](https://www.youtube.com/watch?v=0WP2iQaWRt8)"
+End:
+
+Object: 35.1116 -97.7776 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Texas Radar &amp; Temperatures, Severe &amp; Tornado Warnings, Background Music! Texas Weather Center 🔴 [Live](https://www.youtube.com/watch?v=YTBVWWnHjNs)"
 End:
 
-Object: 35.5447 -97.6583 20
+Object: 35.7288 -97.0795 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER / WINTER STORM COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=wt7Qq81w6II)"
 End:
 
-Object: 35.1428 -97.8665 20
+Object: 35.3670 -97.0461 20
   Icon: 1
   Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
 End:
 
-Object: 35.3840 -97.7643 20
+Object: 35.8240 -97.1971 20
   Icon: 1
   Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
 
-Object: 35.5839 -97.0476 20
+Object: 35.1282 -97.1470 20
   Icon: 1
   Text: 0,1,1,"Naubinway, MI - Aurora Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=zcKBBcPaLiA)"
 End:
 
-Object: 35.8650 -97.8133 20
+Object: 35.4765 -97.3467 20
   Icon: 1
   Text: 0,1,1,"WISH Weather RAW: 24/7 Indiana Radar + Live Severe Weather &amp; Forecasts | Storm Track 8 Unfiltered 🔴 [Live](https://www.youtube.com/watch?v=Zw230Ok5stg)"
 End:
 
-Object: 35.8460 -97.5939 20
+Object: 35.7735 -97.9213 20
   Icon: 1
   Text: 0,1,1,"5NEWS Weather Impact 24/7 LIVE Weather 🔴 [Live](https://www.youtube.com/watch?v=8f3MFAaoVbA)"
 End:
 
-Object: 35.9875 -97.3553 20
-  Icon: 1
-  Text: 0,1,1,"Sitting by the Window in the Stormy Season Watching the Scary Storm Coming |High winds &amp; thunder|11H 🔴 [Live](https://www.youtube.com/watch?v=sT-wKbN-7q4)"
-End:
-
-Object: 35.9834 -97.1384 20
-  Icon: 1
-  Text: 0,1,1,"🔴 Live 24/7 National &amp; Regional Weather Forecasts - Severe Weather Alerts - Weather Trivia 🔴 [Live](https://www.youtube.com/watch?v=GQ6_CWhox6k)"
-End:
-
-Object: 35.3868 -97.2504 20
+Object: 35.8752 -97.0640 20
   Icon: 1
   Text: 0,1,1,"Ludington, MI - Aurora Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=6cZdOILu3-Y)"
 End:
 
-Object: 35.6928 -97.7898 20
+Object: 35.3338 -97.4898 20
   Icon: 1
   Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
 End:
 
-Object: 35.6958 -97.0052 20
-  Icon: 1
-  Text: 0,1,1,"🌪️ LIVE: VortexNow AI Weather Monitoring - Experimental Storm Tracking  11/11/2025 🔴 [Live](https://www.youtube.com/watch?v=pCQn8joyHWg)"
-End:
-
-Object: 35.4052 -97.2752 20
+Object: 35.6033 -97.1639 20
   Icon: 1
   Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
 End:
 
-Object: 35.7255 -97.8514 20
+Object: 35.8664 -97.3271 20
   Icon: 1
   Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
 End:
 
-Object: 35.2250 -97.0992 20
+Object: 35.5845 -97.7935 20
   Icon: 1
   Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
 End:
 
-Object: 35.4324 -97.4955 20
+Object: 35.2211 -97.3624 20
   Icon: 1
   Text: 0,1,1,"Super Typhoon Uwan LIVE: Philippines on High Alert as Super Typhoon Uwan Nears Landfall 🔴 [Live](https://www.youtube.com/watch?v=j8oJ9Pu2yOw)"
 End:
 
-Object: 35.3609 -97.8918 20
+Object: 35.3147 -97.7275 20
   Icon: 1
   Text: 0,1,1,"Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
 End:
 
-Object: 35.9227 -97.2317 20
+Object: 35.2547 -97.0110 20
   Icon: 1
   Text: 0,1,1,"🔴 Heavy Rain and Thunder Sounds 24/7 - Deep Sleep | Thunderstorm for Sleeping - Pure Relaxing Vibes 🔴 [Live](https://www.youtube.com/watch?v=cI0zN1nG3PQ)"
 End:
 
-Object: 35.1315 -97.1195 20
+Object: 35.5483 -97.8970 20
   Icon: 1
   Text: 0,1,1,"Duluth Canal Cam 🔴 [Live](https://www.youtube.com/watch?v=HPS48TMmNag)"
 End:
 
-Object: 35.6788 -97.9651 20
+Object: 35.5553 -97.8990 20
   Icon: 1
   Text: 0,1,1,"Port Huron, Michigan USA | StreamTime LIVE 🔴 [Live](https://www.youtube.com/watch?v=mVHTqCXsZB0)"
 End:
 
-Object: 35.4529 -97.4975 20
+Object: 35.3064 -97.2090 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Mississippi River Wildlife Camera, Brainerd, MN 🔴 [Live](https://www.youtube.com/watch?v=eNkZeO12t1Y)"
 End:
 
-Object: 35.9651 -97.1445 20
+Object: 35.2546 -97.9112 20
   Icon: 1
   Text: 0,1,1,"WDTN - Beavercreek Camera 🔴 [Live](https://www.youtube.com/watch?v=D9flnb2pQDc)"
+End:
+
+Object: 35.6037 -97.4257 20
+  Icon: 1
+  Text: 0,1,1,"The Most Realistic Storm-Chasing Game Yet 🌩 | Outbrk Live 🔴 [Live](https://www.youtube.com/watch?v=uBHDH7ucqzA)"
+End:
+
+Object: 35.1389 -97.3661 20
+  Icon: 1
+  Text: 0,1,1,"Sitting by the Window in the Stormy Season Watching the Scary Storm Coming |High winds &amp; thunder|11H 🔴 [Live](https://www.youtube.com/watch?v=sT-wKbN-7q4)"
+End:
+
+Object: 35.3859 -97.5391 20
+  Icon: 1
+  Text: 0,1,1,"🔴 Live 24/7 National &amp; Regional Weather Forecasts - Severe Weather Alerts - Weather Trivia 🔴 [Live](https://www.youtube.com/watch?v=GQ6_CWhox6k)"
 End:
