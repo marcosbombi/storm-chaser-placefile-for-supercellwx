@@ -1,129 +1,114 @@
-# Generated: 2025-12-13T23:56:35.189315Z
+# Generated: 2025-12-14T02:19:46.981688Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.0426 -97.3601 20
-  Icon: 1
-  Text: 0,1,1,"Heavy Snow in Pennsylvania / West Virginia - Winter Storm Warning - Live Storm Chase 🔴 [Live](https://www.youtube.com/watch?v=dTP6E3y2fl4)"
-End:
-
-Object: 35.1595 -97.8720 20
-  Icon: 1
-  Text: 0,1,1,"🔴LIVE | Storm Chasers Live| Millions Brace for Another Arctic Blast Of intense Cold Air This Weekend 🔴 [Live](https://www.youtube.com/watch?v=qJIGIgQgThk)"
-End:
-
-Object: 35.4050 -97.5753 20
-  Icon: 1
-  Text: 0,1,1,"Live Texas Weather – Real-Time Radar, Severe Weather Alerts, Storm Tracking Across Texas (24/7) 🔴 [Live](https://www.youtube.com/watch?v=QCXxb4Qy66Y)"
-End:
-
-Object: 35.6745 -97.9508 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE - INTERSTATE SHUTDOWN REQUESTED - HEAVY SNOW SLAMS IN, OH &amp; IL WITH YALLBOT 🔴 [Live](https://www.youtube.com/watch?v=ezp-7eLXBVs)"
-End:
-
-Object: 35.7423 -97.0208 20
+Object: 35.0147 -97.4142 20
   Icon: 1
   Text: 0,1,1,"🔴STORM CHASERS LIVE🔴Winter Storm Warning! SW Pennsylvania! 🔴 [Live](https://www.youtube.com/watch?v=S1EFvHfrXSo)"
 End:
 
-Object: 35.2658 -97.2433 20
+Object: 35.4387 -97.9853 20
   Icon: 1
-  Text: 0,1,1,"🔴 LIVE 24/7 Winter Storm Cameras - Heavy Snow, Tornadoes, Winter Storms, And More! (BETA) 🔴 [Live](https://www.youtube.com/watch?v=KVZBWmUgYog)"
+  Text: 0,1,1,"Live Texas Weather – Real-Time Radar, Severe Weather Alerts, Storm Tracking Across Texas (24/7) 🔴 [Live](https://www.youtube.com/watch?v=QCXxb4Qy66Y)"
 End:
 
-Object: 35.6410 -97.0602 20
+Object: 35.7910 -97.0459 20
+  Icon: 1
+  Text: 0,1,1,"🔴LIVE | Storm Chasers Live| Millions Brace for Another Arctic Blast Of intense Cold Air This Weekend 🔴 [Live](https://www.youtube.com/watch?v=qJIGIgQgThk)"
+End:
+
+Object: 35.7401 -97.9028 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE - WINTER STORM SLAMS OH, IN &amp; PA - DANGEROUS ROADS WITH YALLBOT 🔴 [Live](https://www.youtube.com/watch?v=ezp-7eLXBVs)"
+End:
+
+Object: 35.1130 -97.3666 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Texas Radar &amp; Temperatures, Severe &amp; Tornado Warnings, Background Music! Texas Weather Center 🔴 [Live](https://www.youtube.com/watch?v=YTBVWWnHjNs)"
 End:
 
-Object: 35.9945 -97.9335 20
+Object: 35.9802 -97.2567 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE 24/7 Winter Storm Cameras - Heavy Snow, Tornadoes, Winter Storms, And More! (BETA) 🔴 [Live](https://www.youtube.com/watch?v=KVZBWmUgYog)"
+End:
+
+Object: 35.3162 -97.9739 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: WINTER STORM COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=JjFB5nRlwpY)"
 End:
 
-Object: 35.8951 -97.9132 20
+Object: 35.0092 -97.4724 20
   Icon: 1
   Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
 
-Object: 35.2679 -97.8980 20
+Object: 35.4691 -97.8301 20
   Icon: 1
   Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
 End:
 
-Object: 35.7649 -97.9444 20
+Object: 35.1573 -97.8523 20
   Icon: 1
   Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
 End:
 
-Object: 35.4867 -97.2582 20
+Object: 35.7195 -97.1362 20
   Icon: 1
   Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
 End:
 
-Object: 35.6533 -97.6838 20
+Object: 35.1682 -97.5159 20
   Icon: 1
   Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
 End:
 
-Object: 35.9396 -97.3923 20
-  Icon: 1
-  Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
-End:
-
-Object: 35.6094 -97.0844 20
+Object: 35.7008 -97.7555 20
   Icon: 1
   Text: 0,1,1,"Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
 End:
 
-Object: 35.8649 -97.3480 20
+Object: 35.8767 -97.7273 20
+  Icon: 1
+  Text: 0,1,1,"LIVE Betelgeuse Supernova Explosion Is Finally HAPPENING NOW! 🔴 [Live](https://www.youtube.com/watch?v=OwsmWyWWRoo)"
+End:
+
+Object: 35.2948 -97.7158 20
   Icon: 1
   Text: 0,1,1,"🔴 Heavy Rain and Thunder Sounds 24/7 - Deep Sleep | Thunderstorm for Sleeping - Pure Relaxing Vibes 🔴 [Live](https://www.youtube.com/watch?v=cI0zN1nG3PQ)"
 End:
 
-Object: 35.6471 -97.4650 20
+Object: 35.5846 -97.2162 20
   Icon: 1
   Text: 0,1,1,"Nebraska Weather TV 🔴 [Live](https://www.youtube.com/watch?v=qN9IR9TBKjI)"
 End:
 
-Object: 35.4199 -97.1259 20
-  Icon: 1
-  Text: 0,1,1,"Surviving Extreme Minecraft Weather Live! (Vertical) 🔴 [Live](https://www.youtube.com/watch?v=-Ae_PUIyTDg)"
-End:
-
-Object: 35.1649 -97.9744 20
+Object: 35.2635 -97.2303 20
   Icon: 1
   Text: 0,1,1,"Duluth Canal Cam 🔴 [Live](https://www.youtube.com/watch?v=HPS48TMmNag)"
 End:
 
-Object: 35.2528 -97.1813 20
+Object: 35.9466 -97.3505 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Mississippi River Wildlife Camera, Brainerd, MN 🔴 [Live](https://www.youtube.com/watch?v=eNkZeO12t1Y)"
 End:
 
-Object: 35.2805 -97.6874 20
+Object: 35.3215 -97.9189 20
   Icon: 1
   Text: 0,1,1,"Port Huron, Michigan USA | StreamTime LIVE 🔴 [Live](https://www.youtube.com/watch?v=mVHTqCXsZB0)"
 End:
 
-Object: 35.5787 -97.4717 20
+Object: 35.6437 -97.5698 20
   Icon: 1
   Text: 0,1,1,"WDTN - Beavercreek Camera 🔴 [Live](https://www.youtube.com/watch?v=D9flnb2pQDc)"
 End:
 
-Object: 35.5571 -97.1149 20
-  Icon: 1
-  Text: 0,1,1,"Surviving Extreme Minecraft Weather Live! 🔴 [Live](https://www.youtube.com/watch?v=O5OtDmVkvig)"
-End:
-
-Object: 35.1835 -97.8093 20
+Object: 35.2807 -97.2194 20
   Icon: 1
   Text: 0,1,1,"Alexander County Courthouse Park 🔴 [Live](https://www.youtube.com/watch?v=RuiHEi2ImpI)"
 End:
 
-Object: 35.2665 -97.8047 20
+Object: 35.6799 -97.1435 20
   Icon: 1
   Text: 0,1,1,"South Dakota School of Mines and Technology&#39;s (SDSM&amp;T) Dino Cam 🔴 [Live](https://www.youtube.com/watch?v=6lYoPExcOwg)"
 End:
