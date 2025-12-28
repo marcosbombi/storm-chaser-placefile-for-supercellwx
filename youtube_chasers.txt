@@ -1,129 +1,129 @@
-# Generated: 2025-12-28T21:56:41.597119Z
+# Generated: 2025-12-28T22:26:16.194317Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.6949 -97.9392 20
+Object: 35.0589 -97.1555 20
   Icon: 1
   Text: 0,1,1,"🔴 BREAKING TORNADO ON THE GROUND IN ILLINOIS - Major Winter Storm NOW - With LIVE Storm Chasers... 🔴 [Live](https://www.youtube.com/watch?v=kBmSr4VnWyI)"
 End:
 
-Object: 35.1229 -97.6397 20
+Object: 35.8231 -97.0234 20
   Icon: 1
-  Text: 0,1,1,"TORNADO WARNING CENTRAL ILLINOIS - Live Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=WITd-12e5vs)"
+  Text: 0,1,1,"SEVERE THUNDERSTORM WARNING EAST/CENTRAL ILLINOIS - Live Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=WITd-12e5vs)"
 End:
 
-Object: 35.2758 -97.5425 20
+Object: 35.8460 -97.4628 20
   Icon: 1
   Text: 0,1,1,"LIVE Illinois Storm Chaser | Tornado Threat | Brandon Payne 🔴 [Live](https://www.youtube.com/watch?v=6sfPzs5QAXs)"
 End:
 
-Object: 35.9208 -97.4584 20
-  Icon: 1
-  Text: 0,1,1,"🔴STORM CHASERS LIVE🔴 Indiana Illinois Tornado Threat! 🔴 [Live](https://www.youtube.com/watch?v=W7AtUuK7Ch8)"
-End:
-
-Object: 35.1250 -97.7476 20
+Object: 35.2908 -97.5494 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE - TORNADO IN IL - Storm Chasers ON THE GROUND NOW... 🔴 [Live](https://www.youtube.com/watch?v=ErWPNZ1IsDc)"
 End:
 
-Object: 35.4231 -97.6088 20
+Object: 35.6189 -97.2661 20
+  Icon: 1
+  Text: 0,1,1,"🔴STORM CHASERS LIVE🔴 Indiana Illinois Tornado Threat! 🔴 [Live](https://www.youtube.com/watch?v=W7AtUuK7Ch8)"
+End:
+
+Object: 35.1746 -97.9776 20
   Icon: 1
   Text: 0,1,1,"🔴RARE TORNADO RISK IN ILLINOIS - STORM CHASERS LIVE 🔴 [Live](https://www.youtube.com/watch?v=u0ozvOBcBmU)"
 End:
 
-Object: 35.8720 -97.9682 20
+Object: 35.5164 -97.5825 20
   Icon: 1
-  Text: 0,1,1,"Tornado Warning For Decatur, Illinois - LIVE ON THE GROUND 🔴 [Live](https://www.youtube.com/watch?v=rTgMmEPt64M)"
+  Text: 0,1,1,"Tornado Threat In Illinois - LIVE ON THE GROUND 🔴 [Live](https://www.youtube.com/watch?v=rTgMmEPt64M)"
 End:
 
-Object: 35.9348 -97.7639 20
-  Icon: 1
-  Text: 0,1,1,"Live Texas Weather – Real-Time Radar, Severe Weather Alerts, Storm Tracking Across Texas (24/7) 🔴 [Live](https://www.youtube.com/watch?v=QCXxb4Qy66Y)"
-End:
-
-Object: 35.8018 -97.9055 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE - TORNADO ON THE GROUND IN IL - Massive Blizzard &amp; Severe Weather WITH YALLBOT 🔴 [Live](https://www.youtube.com/watch?v=ezp-7eLXBVs)"
-End:
-
-Object: 35.6128 -97.7293 20
+Object: 35.3355 -97.4641 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: TORNADO WARNING / BLIZZARD COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=A8rWZUDLERw)"
 End:
 
-Object: 35.9537 -97.9501 20
+Object: 35.8265 -97.7886 20
   Icon: 1
   Text: 0,1,1,"⚠️LIVE: Bomb Cyclone BLIZZARD - Extreme Winds &amp; Whiteouts Now - Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=ZWQW_SngbnI)"
 End:
 
-Object: 35.4022 -97.3374 20
+Object: 35.1305 -97.4835 20
+  Icon: 1
+  Text: 0,1,1,"Live Texas Weather – Real-Time Radar, Severe Weather Alerts, Storm Tracking Across Texas (24/7) 🔴 [Live](https://www.youtube.com/watch?v=QCXxb4Qy66Y)"
+End:
+
+Object: 35.2241 -97.4678 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE - TORNADO ON THE GROUND IN IL &amp; IN - Massive Blizzard &amp; Severe Weather WITH YALLBOT 🔴 [Live](https://www.youtube.com/watch?v=ezp-7eLXBVs)"
+End:
+
+Object: 35.1761 -97.6748 20
   Icon: 1
   Text: 0,1,1,"Tornadoes, Supercells &amp; Extreme Weather — Real Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=htJWa7ris_Q)"
 End:
 
-Object: 35.6180 -97.0458 20
+Object: 35.9702 -97.5241 20
   Icon: 1
   Text: 0,1,1,"🔴 Live 24/7 Severe Weather Coverage - Winter Storms, Tornadoes, Storm Chasers And More! (BETA) 🔴 [Live](https://www.youtube.com/watch?v=sgJ14rQRUgQ)"
 End:
 
-Object: 35.6015 -97.5976 20
+Object: 35.8034 -97.1469 20
   Icon: 1
   Text: 0,1,1,"Dodge City Tornado Outbreak — Real Storm Chase Dashcam (Full Chase) 🔴 [Live](https://www.youtube.com/watch?v=7zsVDja4zuQ)"
 End:
 
-Object: 35.5850 -97.1245 20
+Object: 35.6491 -97.4982 20
   Icon: 1
   Text: 0,1,1,"Kansas Tornado Intercept — Full Storm Chase (Harper County) 🔴 [Live](https://www.youtube.com/watch?v=8b38iapsznI)"
 End:
 
-Object: 35.8280 -97.9124 20
+Object: 35.0384 -97.6237 20
   Icon: 1
   Text: 0,1,1,"🔴UPPER GREAT LAKES EARLY SEVERE STORMS - LIVE STORM CHASERS 🔴 [Live](https://www.youtube.com/watch?v=38DJQNG6k0o)"
 End:
 
-Object: 35.2321 -97.0468 20
+Object: 35.0760 -97.2089 20
   Icon: 1
   Text: 0,1,1,"🔴 Live Storm Chaser - ILLINOIS TORNADO THREAT 🔴 [Live](https://www.youtube.com/watch?v=8SseoIBVvyg)"
 End:
 
-Object: 35.4594 -97.4283 20
-  Icon: 1
-  Text: 0,1,1,"LIVE-RARE DECEMBER TORNADO RISK IN THE MIDWEST WITH LIVE STORM CHASERS ON THE GROUND 🔴 [Live](https://www.youtube.com/watch?v=fe8kpn0P3OQ)"
-End:
-
-Object: 35.3823 -97.6349 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE Texas Radar &amp; Temperatures, Severe &amp; Tornado Warnings, Background Music! Texas Weather Center 🔴 [Live](https://www.youtube.com/watch?v=YTBVWWnHjNs)"
-End:
-
-Object: 35.0392 -97.9146 20
-  Icon: 1
-  Text: 0,1,1,"Holiday Tornado Chase Illinois -  Ride along with me #tornado #illinois 🔴 [Live](https://www.youtube.com/watch?v=9jtZNFWIP7w)"
-End:
-
-Object: 35.3736 -97.1229 20
+Object: 35.6388 -97.1447 20
   Icon: 1
   Text: 0,1,1,"Severe Weather check! live in your area! 🔴 [Live](https://www.youtube.com/watch?v=W9WMclvgqOs)"
 End:
 
-Object: 35.5079 -97.4999 20
+Object: 35.4645 -97.5940 20
   Icon: 1
-  Text: 0,1,1,"LIVE🔴Severe Weather Outbreak in Illinois, Indiana, and Ohio! Live weather coverage with tornadoes 🔴 [Live](https://www.youtube.com/watch?v=EO-1mqyd_7s)"
+  Text: 0,1,1,"Holiday Tornado Chase Illinois -  Ride along with me #tornado #illinois 🔴 [Live](https://www.youtube.com/watch?v=9jtZNFWIP7w)"
 End:
 
-Object: 35.3493 -97.5076 20
+Object: 35.5663 -97.0021 20
   Icon: 1
-  Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
+  Text: 0,1,1,"LIVE-RARE DECEMBER TORNADO RISK IN THE MIDWEST WITH LIVE STORM CHASERS ON THE GROUND 🔴 [Live](https://www.youtube.com/watch?v=fe8kpn0P3OQ)"
 End:
 
-Object: 35.0405 -97.6053 20
+Object: 35.6721 -97.4468 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE Texas Radar &amp; Temperatures, Severe &amp; Tornado Warnings, Background Music! Texas Weather Center 🔴 [Live](https://www.youtube.com/watch?v=YTBVWWnHjNs)"
+End:
+
+Object: 35.7178 -97.9332 20
   Icon: 1
   Text: 0,1,1,"Tornado Damage SE side of Decatur, IL near Long Creek, IL. #ILwx 🔴 [Live](https://www.youtube.com/watch?v=UgQn2uiDNrQ)"
 End:
 
-Object: 35.3245 -97.4171 20
+Object: 35.1311 -97.6129 20
+  Icon: 1
+  Text: 0,1,1,"📢MISSOURI-ILLINOIS📢TORNADO THREAT: LIVE STORM CHASERS 🔴 [Live](https://www.youtube.com/watch?v=_A60VusFxeo)"
+End:
+
+Object: 35.8201 -97.2919 20
+  Icon: 1
+  Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
+End:
+
+Object: 35.5226 -97.2455 20
   Icon: 1
   Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
 End:
