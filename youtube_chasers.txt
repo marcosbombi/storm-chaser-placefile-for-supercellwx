@@ -1,129 +1,129 @@
-# Generated: 2026-01-09T22:58:54.451293Z
+# Generated: 2026-01-09T23:28:29.487805Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.7937 -97.2503 20
+Object: 35.2047 -97.9935 20
   Icon: 1
   Text: 0,1,1,"LIVE Severe Weather Chase | Tornadoes Possible Today 🔴 [Live](https://www.youtube.com/watch?v=NxuypeB0lvQ)"
 End:
 
-Object: 35.0472 -97.2073 20
-  Icon: 1
-  Text: 0,1,1,"🔴DEEP SOUTH TORNADO RISK - STORM CHASERS LIVE 🔴 [Live](https://www.youtube.com/watch?v=7z8JOwYf0Uo)"
-End:
-
-Object: 35.6120 -97.8959 20
-  Icon: 1
-  Text: 0,1,1,"LIVE Storm Chaser - Tracking Down Tornadic Supercells - Louisiana/Mississippi 🔴 [Live](https://www.youtube.com/watch?v=xrsCaIcJmH0)"
-End:
-
-Object: 35.9905 -97.4559 20
-  Icon: 1
-  Text: 0,1,1,"Tornado and Flood Threat in Louisiana &amp; Mississippi - Live Storm Chase 🔴 [Live](https://www.youtube.com/watch?v=cCfMH6CiCiE)"
-End:
-
-Object: 35.9957 -97.7812 20
-  Icon: 1
-  Text: 0,1,1,"DEEP SOUTH TORNADO THREAT: LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=dMh0rxi9pb4)"
-End:
-
-Object: 35.0966 -97.4440 20
-  Icon: 1
-  Text: 0,1,1,"🔴LIVE | Storm Chasers Live | Tornado 5% Risk MS And LA  | Ryan Hall Y All | Reed Timmer | Live 🔴 [Live](https://www.youtube.com/watch?v=fM2Jg43tXE8)"
-End:
-
-Object: 35.9722 -97.8975 20
+Object: 35.5648 -97.8995 20
   Icon: 1
   Text: 0,1,1,"🔴DIXIE ALLEY TORNADO THREAT | Brandon Montgomery - LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=C5Y3e6hOLHw)"
 End:
 
-Object: 35.5038 -97.3158 20
+Object: 35.4704 -97.2617 20
   Icon: 1
-  Text: 0,1,1,"🔴STORM CHASERS LIVE🔴 Deep South Tornado Threat LA, MS, and AL! 🔴 [Live](https://www.youtube.com/watch?v=W_VLp1XeXaY)"
+  Text: 0,1,1,"🔴DEEP SOUTH TORNADO RISK - STORM CHASERS LIVE 🔴 [Live](https://www.youtube.com/watch?v=7z8JOwYf0Uo)"
 End:
 
-Object: 35.9376 -97.5675 20
+Object: 35.9951 -97.7608 20
+  Icon: 1
+  Text: 0,1,1,"Tornado and Flood Threat in Louisiana &amp; Mississippi - Live Storm Chase 🔴 [Live](https://www.youtube.com/watch?v=cCfMH6CiCiE)"
+End:
+
+Object: 35.8391 -97.6320 20
+  Icon: 1
+  Text: 0,1,1,"DEEP SOUTH TORNADO THREAT: LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=dMh0rxi9pb4)"
+End:
+
+Object: 35.7927 -97.9602 20
   Icon: 1
   Text: 0,1,1,"🔴 Dixie Alley Severe Weather - Live Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=nliw-XOQ0PI)"
 End:
 
-Object: 35.6560 -97.2505 20
+Object: 35.3982 -97.4434 20
+  Icon: 1
+  Text: 0,1,1,"🔴STORM CHASERS LIVE🔴 Deep South Tornado Threat LA, MS, and AL! 🔴 [Live](https://www.youtube.com/watch?v=W_VLp1XeXaY)"
+End:
+
+Object: 35.8835 -97.0791 20
+  Icon: 1
+  Text: 0,1,1,"🔴LIVE | Storm Chasers Live | Tornado 5% Risk MS And LA  | Ryan Hall Y All | Reed Timmer | Live 🔴 [Live](https://www.youtube.com/watch?v=fM2Jg43tXE8)"
+End:
+
+Object: 35.6074 -97.0856 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=ApIgYrO4ohY)"
 End:
 
-Object: 35.7174 -97.4978 20
+Object: 35.2601 -97.1209 20
   Icon: 1
   Text: 0,1,1,"Live Texas Weather – Real-Time Radar, Severe Weather Alerts, Storm Tracking Across Texas (24/7) 🔴 [Live](https://www.youtube.com/watch?v=QCXxb4Qy66Y)"
 End:
 
-Object: 35.2112 -97.3535 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE - TORNADO WARNING IN LA - FLASH FLOODS SLAM ALABAMA - WITH YALLBOT 🔴 [Live](https://www.youtube.com/watch?v=ezp-7eLXBVs)"
-End:
-
-Object: 35.3349 -97.5897 20
+Object: 35.2743 -97.2958 20
   Icon: 1
   Text: 0,1,1,"Mississippi/Louisiana Tornado Hunt 🔴 [Live](https://www.youtube.com/watch?v=Kh1P7vlVl3U)"
 End:
 
-Object: 35.6662 -97.0138 20
+Object: 35.5092 -97.4634 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE - TORNADO WARNING IN LA - FLASH FLOODS SLAM ALABAMA - WITH YALLBOT 🔴 [Live](https://www.youtube.com/watch?v=ezp-7eLXBVs)"
+End:
+
+Object: 35.7942 -97.0555 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE 24/7 Weather Cameras - Winter Storms, Tornadoes, Storm Chasers And More! (BETA) 🔴 [Live](https://www.youtube.com/watch?v=sgJ14rQRUgQ)"
 End:
 
-Object: 35.4811 -97.5889 20
+Object: 35.3055 -97.5452 20
+  Icon: 1
+  Text: 0,1,1,"🔴LIVE CHASING Louisiana-Mississippi-Alabama Tornado Threat 🔴 [Live](https://www.youtube.com/watch?v=7alK96Aorz0)"
+End:
+
+Object: 35.0819 -97.3348 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Texas Radar &amp; Temperatures, Severe &amp; Tornado Warnings, Background Music! Texas Weather Center 🔴 [Live](https://www.youtube.com/watch?v=YTBVWWnHjNs)"
 End:
 
-Object: 35.3133 -97.1042 20
+Object: 35.4089 -97.4944 20
   Icon: 1
   Text: 0,1,1,"*LIVE* Tornado Chasing in Louisiana! 🔴 [Live](https://www.youtube.com/watch?v=0gkot17vFZg)"
 End:
 
-Object: 35.3162 -97.4364 20
+Object: 35.7139 -97.6541 20
   Icon: 1
   Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
 End:
 
-Object: 35.7842 -97.9046 20
+Object: 35.7346 -97.5618 20
   Icon: 1
   Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
 
-Object: 35.7902 -97.6309 20
+Object: 35.1177 -97.5941 20
   Icon: 1
   Text: 0,1,1,"Severe weather in Mississippi 🔴 [Live](https://www.youtube.com/watch?v=S1tPHxtan_U)"
 End:
 
-Object: 35.7404 -97.3967 20
-  Icon: 1
-  Text: 0,1,1,"A Small Cabin on the Green Prairie is about to Face Terrifying Storm | High winds &amp; thunder | 11H... 🔴 [Live](https://www.youtube.com/watch?v=24ascHYJ0x0)"
-End:
-
-Object: 35.6954 -97.5680 20
+Object: 35.7911 -97.1031 20
   Icon: 1
   Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
 End:
 
-Object: 35.8139 -97.5981 20
+Object: 35.5575 -97.5343 20
+  Icon: 1
+  Text: 0,1,1,"A Small Cabin on the Green Prairie is about to Face Terrifying Storm | High winds &amp; thunder | 11H... 🔴 [Live](https://www.youtube.com/watch?v=24ascHYJ0x0)"
+End:
+
+Object: 35.6251 -97.3260 20
   Icon: 1
   Text: 0,1,1,"Nebraska Weather TV 🔴 [Live](https://www.youtube.com/watch?v=qN9IR9TBKjI)"
 End:
 
-Object: 35.6407 -97.1754 20
-  Icon: 1
-  Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
-End:
-
-Object: 35.8532 -97.3055 20
+Object: 35.4548 -97.3103 20
   Icon: 1
   Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
 End:
 
-Object: 35.7842 -97.3134 20
+Object: 35.5677 -97.2065 20
+  Icon: 1
+  Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
+End:
+
+Object: 35.3043 -97.7577 20
   Icon: 1
   Text: 0,1,1,"Eliminate Insomnia vs Stress To Fall Asleep Fast With Terrible Hurricane And Powerful Thunder Sounds 🔴 [Live](https://www.youtube.com/watch?v=5awsvTeNMQQ)"
 End:
