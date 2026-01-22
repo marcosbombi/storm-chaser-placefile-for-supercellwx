@@ -1,129 +1,129 @@
-# Generated: 2026-01-22T05:31:14.205140Z
+# Generated: 2026-01-22T05:56:02.481504Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.8276 -97.6942 20
+Object: 35.6660 -97.2355 20
   Icon: 1
   Text: 0,1,1,"Live Texas Weather – Real-Time Radar, Severe Weather Alerts, Storm Tracking Across Texas (24/7) 🔴 [Live](https://www.youtube.com/watch?v=QCXxb4Qy66Y)"
 End:
 
-Object: 35.2022 -97.5379 20
+Object: 35.1313 -97.7465 20
   Icon: 1
   Text: 0,1,1,"Tornadoes, Supercells &amp; Extreme Weather — Real Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=XoUtddH8wVA)"
 End:
 
-Object: 35.2573 -97.0146 20
+Object: 35.4697 -97.7631 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE RARE Winter Storm Coverage - Live Weather Cameras Across The United States (BETA) 🔴 [Live](https://www.youtube.com/watch?v=sgJ14rQRUgQ)"
 End:
 
-Object: 35.0052 -97.5873 20
+Object: 35.4012 -97.9792 20
   Icon: 1
   Text: 0,1,1,"Kansas Tornado Intercept — Full Storm Chase (Harper County) 🔴 [Live](https://www.youtube.com/watch?v=GR_Vmawc0V8)"
 End:
 
-Object: 35.3701 -97.8470 20
+Object: 35.1156 -97.2193 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE - MAJOR WINTER STORM INCOMING - Dangerous Snow Squalls In NY WITH YALLBOT 🔴 [Live](https://www.youtube.com/watch?v=ezp-7eLXBVs)"
 End:
 
-Object: 35.2460 -97.6673 20
+Object: 35.5527 -97.4184 20
   Icon: 1
   Text: 0,1,1,"Dodge City Tornado Outbreak — Real Storm Chase Dashcam (Full Chase) 🔴 [Live](https://www.youtube.com/watch?v=X6I1n7rZV1I)"
 End:
 
-Object: 35.2777 -97.2838 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE Texas Radar &amp; Temperatures, Severe &amp; Tornado Warnings, Background Music! Texas Weather Center 🔴 [Live](https://www.youtube.com/watch?v=YTBVWWnHjNs)"
-End:
-
-Object: 35.0999 -97.0909 20
+Object: 35.6729 -97.5683 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: WINTER STORM COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=6a8oyq0g9tQ)"
 End:
 
-Object: 35.4817 -97.6191 20
+Object: 35.1600 -97.1229 20
   Icon: 1
-  Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
+  Text: 0,1,1,"🔴 LIVE Texas Radar &amp; Temperatures, Severe &amp; Tornado Warnings, Background Music! Texas Weather Center 🔴 [Live](https://www.youtube.com/watch?v=YTBVWWnHjNs)"
 End:
 
-Object: 35.3354 -97.0374 20
+Object: 35.1020 -97.4788 20
   Icon: 1
-  Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
+  Text: 0,1,1,"🔴Wisconsin BLIZZARD - LIVE Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=MtusdKMYCBw)"
 End:
 
-Object: 35.7745 -97.7636 20
-  Icon: 1
-  Text: 0,1,1,"BREAKING - Winter Storm 2025/2026 LIVE Streaming Coverage | Virtual Railfan 🔴 [Live](https://www.youtube.com/watch?v=iuCxo4qoeAw)"
-End:
-
-Object: 35.5053 -97.1427 20
+Object: 35.1635 -97.5970 20
   Icon: 1
   Text: 0,1,1,"LIVE: Winter storm tracker | NBC News 🔴 [Live](https://www.youtube.com/watch?v=OM3N_iZNKpU)"
 End:
 
-Object: 35.1769 -97.5298 20
+Object: 35.2699 -97.4953 20
   Icon: 1
-  Text: 0,1,1,"Ludington, MI - Aurora Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=D3NEKeF19wQ)"
+  Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
 
-Object: 35.1867 -97.8102 20
+Object: 35.0254 -97.8563 20
+  Icon: 1
+  Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
+End:
+
+Object: 35.0464 -97.1460 20
+  Icon: 1
+  Text: 0,1,1,"BREAKING - Winter Storm 2025/2026 LIVE Streaming Coverage | Virtual Railfan 🔴 [Live](https://www.youtube.com/watch?v=iuCxo4qoeAw)"
+End:
+
+Object: 35.9381 -97.1987 20
   Icon: 1
   Text: 0,1,1,"Live 24/7 realtime nextrad level 3 radar for North Central Oklahoma radar 24/7 backup 🔴 [Live](https://www.youtube.com/watch?v=xrIpUxIKW1g)"
 End:
 
-Object: 35.8888 -97.4694 20
+Object: 35.7946 -97.5765 20
   Icon: 1
   Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
 End:
 
-Object: 35.6174 -97.3428 20
+Object: 35.1350 -97.4733 20
   Icon: 1
   Text: 0,1,1,"Eliminate Insomnia vs Stress To Fall Asleep Fast With Terrible Hurricane And Powerful Thunder Sounds 🔴 [Live](https://www.youtube.com/watch?v=5awsvTeNMQQ)"
 End:
 
-Object: 35.0323 -97.8586 20
-  Icon: 1
-  Text: 0,1,1,"Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
-End:
-
-Object: 35.9837 -97.4128 20
+Object: 35.9791 -97.7012 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: Police / Fire / EMS Scanner 24/7 (Tennessee + North GA) | REAL Radio Traffic 🔴 [Live](https://www.youtube.com/watch?v=fEAMnWmY650)"
 End:
 
-Object: 35.0349 -97.2762 20
+Object: 35.3821 -97.9857 20
+  Icon: 1
+  Text: 0,1,1,"Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
+End:
+
+Object: 35.0515 -97.8051 20
+  Icon: 1
+  Text: 0,1,1,"LIVE Texas weather cameras: Houston, Dallas, Fort Worth, Kyle, Tyler, Lubbock. more 🔴 [Live](https://www.youtube.com/watch?v=FzOvl5DgMjQ)"
+End:
+
+Object: 35.0155 -97.5016 20
   Icon: 1
   Text: 0,1,1,"🔴 Heavy Rain and Thunder Sounds 24/7 - Deep Sleep | Thunderstorm for Sleeping - Pure Relaxing Vibes 🔴 [Live](https://www.youtube.com/watch?v=cI0zN1nG3PQ)"
 End:
 
-Object: 35.1576 -97.9153 20
+Object: 35.7619 -97.7832 20
   Icon: 1
   Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
 End:
 
-Object: 35.9817 -97.0668 20
+Object: 35.9590 -97.8788 20
   Icon: 1
   Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
 End:
 
-Object: 35.9781 -97.2254 20
+Object: 35.8254 -97.1000 20
   Icon: 1
   Text: 0,1,1,"Nebraska Weather TV 🔴 [Live](https://www.youtube.com/watch?v=qN9IR9TBKjI)"
 End:
 
-Object: 35.8465 -97.8627 20
+Object: 35.3363 -97.3286 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Mississippi River Wildlife Camera, Brainerd, MN 🔴 [Live](https://www.youtube.com/watch?v=eNkZeO12t1Y)"
 End:
 
-Object: 35.0489 -97.9449 20
+Object: 35.6164 -97.8751 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE! 24 Hours of Weird But True Full Episodes! 📺🔬 | @NatGeoKids 🔴 [Live](https://www.youtube.com/watch?v=42QyI_w6bEg)"
-End:
-
-Object: 35.1525 -97.7778 20
-  Icon: 1
-  Text: 0,1,1,"WDTN - Beavercreek Camera 🔴 [Live](https://www.youtube.com/watch?v=D9flnb2pQDc)"
 End:
