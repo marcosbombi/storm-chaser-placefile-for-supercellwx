@@ -1,129 +1,129 @@
-# Generated: 2026-01-23T23:46:03.835733Z
+# Generated: 2026-01-23T23:57:37.606162Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.0318 -97.5533 20
+Object: 35.1867 -97.2700 20
   Icon: 1
   Text: 0,1,1,"🔴 BREAKING Winter Storm Coverage - HUGE SNOW INCREASE &amp; Ice Storm Coming - With LIVE Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=c1evCJsqrM8)"
 End:
 
-Object: 35.5732 -97.0993 20
+Object: 35.5514 -97.2084 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: MAJOR WINTER STORM COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=xT7p3OPm2is)"
 End:
 
-Object: 35.5352 -97.2202 20
+Object: 35.7249 -97.5117 20
   Icon: 1
   Text: 0,1,1,"Live Winter Storm Chase - Oklahoma - !RTIRL 🔴 [Live](https://www.youtube.com/watch?v=3bm-AV0Iw_4)"
 End:
 
-Object: 35.2414 -97.6737 20
+Object: 35.5668 -97.8966 20
   Icon: 1
   Text: 0,1,1,"Live Texas Weather – Real-Time Radar, Severe Weather Alerts, Storm Tracking Across Texas (24/7) 🔴 [Live](https://www.youtube.com/watch?v=QCXxb4Qy66Y)"
 End:
 
-Object: 35.4617 -97.6459 20
+Object: 35.9376 -97.9655 20
   Icon: 1
   Text: 0,1,1,"LIVE Storm Chaser - Snow/Extreme Cold - Kansas 🔴 [Live](https://www.youtube.com/watch?v=GVgrObdpJaQ)"
 End:
 
-Object: 35.2103 -97.8298 20
-  Icon: 1
-  Text: 0,1,1,"🔴 Live  Storm Chaser - Colorado Winter Weather 🔴 [Live](https://www.youtube.com/watch?v=HTBjedDUWvk)"
-End:
-
-Object: 35.8930 -97.4059 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE RARE Winter Storm Coverage - Live Weather Cameras Across The United States (BETA) 🔴 [Live](https://www.youtube.com/watch?v=sgJ14rQRUgQ)"
-End:
-
-Object: 35.3921 -97.5418 20
+Object: 35.3078 -97.0913 20
   Icon: 1
   Text: 0,1,1,"Tornadoes, Supercells &amp; Extreme Weather — Real Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=XoUtddH8wVA)"
 End:
 
-Object: 35.2582 -97.5020 20
+Object: 35.2513 -97.8413 20
   Icon: 1
-  Text: 0,1,1,"Winter Weather Coverage | Oklahoma Snowpocalypse | Live Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=mDy-URKiv4A)"
+  Text: 0,1,1,"🔴 LIVE RARE Winter Storm Coverage - Live Weather Cameras Across The United States (BETA) 🔴 [Live](https://www.youtube.com/watch?v=sgJ14rQRUgQ)"
 End:
 
-Object: 35.3586 -97.5723 20
+Object: 35.2034 -97.3114 20
   Icon: 1
-  Text: 0,1,1,"🔴 LIVE - DANGEROUS ICE STORM HITS TX, OK &amp; AR - WHITEOUTS IN NY - WITH YALLBOT 🔴 [Live](https://www.youtube.com/watch?v=ezp-7eLXBVs)"
+  Text: 0,1,1,"🔴 Live  Storm Chaser - Colorado Winter Weather 🔴 [Live](https://www.youtube.com/watch?v=HTBjedDUWvk)"
 End:
 
-Object: 35.9053 -97.7109 20
+Object: 35.2388 -97.0951 20
   Icon: 1
   Text: 0,1,1,"Kansas Tornado Intercept — Full Storm Chase (Harper County) 🔴 [Live](https://www.youtube.com/watch?v=GR_Vmawc0V8)"
 End:
 
-Object: 35.5014 -97.5926 20
+Object: 35.7432 -97.0495 20
   Icon: 1
   Text: 0,1,1,"KWTV News 9 StormTrackers Val and Amy Castor track a winter storm in Oklahoma 1/23/26 🔴 [Live](https://www.youtube.com/watch?v=Y0AcKj4jw8Y)"
 End:
 
-Object: 35.3441 -97.4602 20
+Object: 35.8358 -97.4425 20
   Icon: 1
   Text: 0,1,1,"Dodge City Tornado Outbreak — Real Storm Chase Dashcam (Full Chase) 🔴 [Live](https://www.youtube.com/watch?v=X6I1n7rZV1I)"
 End:
 
-Object: 35.8971 -97.8555 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE: Texas Winter Storm Updates – Ice, Snow &amp; Travel Impacts 🔴 [Live](https://www.youtube.com/watch?v=YTBVWWnHjNs)"
-End:
-
-Object: 35.8061 -97.8105 20
+Object: 35.3823 -97.6560 20
   Icon: 1
   Text: 0,1,1,"🔴Oklahoma Storm Chaser | Historic Winter Storm | LIVE Ground Truth 🔴 [Live](https://www.youtube.com/watch?v=cVs2LybT5vE)"
 End:
 
-Object: 35.6084 -97.9315 20
+Object: 35.4378 -97.2477 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE - DANGEROUS ICE STORM SLAMS AR, OK &amp; TX - WHITEOUTS IN NY WITH YALLBOT 🔴 [Live](https://www.youtube.com/watch?v=ezp-7eLXBVs)"
+End:
+
+Object: 35.0982 -97.7200 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE: Texas Winter Storm Updates – Ice, Snow &amp; Travel Impacts 🔴 [Live](https://www.youtube.com/watch?v=YTBVWWnHjNs)"
+End:
+
+Object: 35.9589 -97.1553 20
   Icon: 1
   Text: 0,1,1,"LIVE: Winter storm tracker | NBC News 🔴 [Live](https://www.youtube.com/watch?v=OM3N_iZNKpU)"
 End:
 
-Object: 35.2749 -97.6649 20
-  Icon: 1
-  Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
-End:
-
-Object: 35.5167 -97.0420 20
+Object: 35.5335 -97.2715 20
   Icon: 1
   Text: 0,1,1,"BREAKING - Winter Storm 2025/2026 LIVE Streaming Coverage | Virtual Railfan 🔴 [Live](https://www.youtube.com/watch?v=iuCxo4qoeAw)"
 End:
 
-Object: 35.4443 -97.2233 20
+Object: 35.3415 -97.6530 20
   Icon: 1
-  Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
+  Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
 End:
 
-Object: 35.8277 -97.2523 20
-  Icon: 1
-  Text: 0,1,1,"Oklahoma Big Time Winter Storm Stream! 1-24-2026 🔴 [Live](https://www.youtube.com/watch?v=6COnHKDhVkM)"
-End:
-
-Object: 35.7220 -97.0528 20
-  Icon: 1
-  Text: 0,1,1,"Ludington, MI - Aurora Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=D3NEKeF19wQ)"
-End:
-
-Object: 35.1033 -97.8139 20
+Object: 35.2156 -97.4200 20
   Icon: 1
   Text: 0,1,1,"Winter Storm coverage 🔴 [Live](https://www.youtube.com/watch?v=pflKB-5LUNc)"
 End:
 
-Object: 35.9047 -97.5749 20
+Object: 35.3390 -97.1505 20
   Icon: 1
-  Text: 0,1,1,"Live Storm Coverage: Hazel Bears Down on Oklahoma 🔴 [Live](https://www.youtube.com/watch?v=XfSFQq74KC8)"
+  Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
 
-Object: 35.9972 -97.9016 20
+Object: 35.2153 -97.0172 20
+  Icon: 1
+  Text: 0,1,1,"Ludington, MI - Aurora Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=D3NEKeF19wQ)"
+End:
+
+Object: 35.9814 -97.1148 20
   Icon: 1
   Text: 0,1,1,"Live 24/7 realtime nextrad level 3 radar for North Central Oklahoma radar 24/7 backup 🔴 [Live](https://www.youtube.com/watch?v=xrIpUxIKW1g)"
 End:
 
-Object: 35.4898 -97.1801 20
+Object: 35.7375 -97.8291 20
   Icon: 1
-  Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
+  Text: 0,1,1,"Live Storm Coverage: Hazel Bears Down on Oklahoma 🔴 [Live](https://www.youtube.com/watch?v=XfSFQq74KC8)"
+End:
+
+Object: 35.0939 -97.7032 20
+  Icon: 1
+  Text: 0,1,1,"Eliminate Insomnia vs Stress To Fall Asleep Fast With Terrible Hurricane And Powerful Thunder Sounds 🔴 [Live](https://www.youtube.com/watch?v=5awsvTeNMQQ)"
+End:
+
+Object: 35.4442 -97.5678 20
+  Icon: 1
+  Text: 0,1,1,"LIVE Texas weather cameras: Houston, Dallas, Fort Worth, Kyle, Tyler, Lubbock. more 🔴 [Live](https://www.youtube.com/watch?v=FzOvl5DgMjQ)"
+End:
+
+Object: 35.3521 -97.9074 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE: Police / Fire / EMS Scanner 24/7 (Tennessee + North GA) | REAL Radio Traffic 🔴 [Live](https://www.youtube.com/watch?v=MAQg_FRid4I)"
 End:
