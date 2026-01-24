@@ -1,129 +1,129 @@
-# Generated: 2026-01-24T18:37:35.634236Z
+# Generated: 2026-01-24T18:57:11.815631Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.9256 -97.0829 20
+Object: 35.1426 -97.3823 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE - MAJOR WINTER STORM COVERAGE WITH STORM CHASERS ON THE GROUND 🔴 [Live](https://www.youtube.com/watch?v=K85MbyEq1hY)"
+End:
+
+Object: 35.6380 -97.5085 20
   Icon: 1
   Text: 0,1,1,"🔴 BREAKING EXTREME WINTER STORM WARNING - Tons Of Snow &amp; Crippling Ice - With LIVE Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=gvhSpTEzHbw)"
 End:
 
-Object: 35.2075 -97.0102 20
+Object: 35.8195 -97.8738 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: MAJOR WINTER STORM COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=1wote9heQEY)"
 End:
 
-Object: 35.3708 -97.3824 20
-  Icon: 1
-  Text: 0,1,1,"HISTORIC WINTER STORM CONTINUES OK/AR — LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=0kgEQnOEb-E)"
-End:
-
-Object: 35.3438 -97.0344 20
+Object: 35.0977 -97.4005 20
   Icon: 1
   Text: 0,1,1,"🔴LIVE | Storm Chasers Live | Historical Winter Storm Startd Across TEXAS US | Ryan Hall Y | Timmer 🔴 [Live](https://www.youtube.com/watch?v=h2wkrPhfJgM)"
 End:
 
-Object: 35.5285 -97.2310 20
+Object: 35.5624 -97.2564 20
   Icon: 1
   Text: 0,1,1,"Live Winter Storm Chase - Oklahoma - !helpthechase 🔴 [Live](https://www.youtube.com/watch?v=i5TEAAu7g3k)"
 End:
 
-Object: 35.0178 -97.1775 20
+Object: 35.7745 -97.4791 20
   Icon: 1
   Text: 0,1,1,"Live Texas Weather – Real-Time Radar, Severe Weather Alerts, Storm Tracking Across Texas (24/7) 🔴 [Live](https://www.youtube.com/watch?v=QCXxb4Qy66Y)"
 End:
 
-Object: 35.7957 -97.7999 20
-  Icon: 1
-  Text: 0,1,1,"LIVE Winter Storm Chase – Historic Snowfall &amp; Dangerous Roads 🔴 [Live](https://www.youtube.com/watch?v=cSSlPi7oiAw)"
-End:
-
-Object: 35.5111 -97.7940 20
-  Icon: 1
-  Text: 0,1,1,"Tornadoes, Supercells &amp; Extreme Weather — Real Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=XoUtddH8wVA)"
-End:
-
-Object: 35.5847 -97.2405 20
+Object: 35.4790 -97.0939 20
   Icon: 1
   Text: 0,1,1,"Heavy Snow in Kentucky - Historic Winter Storm - Live Storm Chase 🔴 [Live](https://www.youtube.com/watch?v=_PUinKIkNas)"
 End:
 
-Object: 35.6410 -97.4135 20
+Object: 35.3214 -97.3518 20
+  Icon: 1
+  Text: 0,1,1,"HISTORIC WINTER STORM CONTINUES OK/AR — LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=0kgEQnOEb-E)"
+End:
+
+Object: 35.9943 -97.6627 20
+  Icon: 1
+  Text: 0,1,1,"LIVE Winter Storm Chase – Historic Snowfall &amp; Dangerous Roads 🔴 [Live](https://www.youtube.com/watch?v=cSSlPi7oiAw)"
+End:
+
+Object: 35.5180 -97.0075 20
   Icon: 1
   Text: 0,1,1,"Mississippi Ice Storm | LIVE 🔴 [Live](https://www.youtube.com/watch?v=FE76CYOoOtU)"
 End:
 
-Object: 35.4649 -97.7153 20
+Object: 35.5279 -97.3566 20
+  Icon: 1
+  Text: 0,1,1,"Tornadoes, Supercells &amp; Extreme Weather — Real Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=XoUtddH8wVA)"
+End:
+
+Object: 35.8707 -97.6005 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE RARE Winter Storm Coverage - Live Weather Cameras Across The United States (BETA) 🔴 [Live](https://www.youtube.com/watch?v=sgJ14rQRUgQ)"
 End:
 
-Object: 35.2063 -97.3538 20
+Object: 35.2959 -97.6993 20
   Icon: 1
   Text: 0,1,1,"Kansas Tornado Intercept — Full Storm Chase (Harper County) 🔴 [Live](https://www.youtube.com/watch?v=GR_Vmawc0V8)"
 End:
 
-Object: 35.0275 -97.6729 20
-  Icon: 1
-  Text: 0,1,1,"Dodge City Tornado Outbreak — Real Storm Chase Dashcam (Full Chase) 🔴 [Live](https://www.youtube.com/watch?v=X6I1n7rZV1I)"
-End:
-
-Object: 35.7451 -97.9554 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE: Texas Winter Storm Updates – Ice, Snow &amp; Travel Impacts 🔴 [Live](https://www.youtube.com/watch?v=YTBVWWnHjNs)"
-End:
-
-Object: 35.9571 -97.0239 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE - CATASTROPHIC ICE STORM SLAMS LA, MS &amp; TN - Heavy Snow Hits Ohio Valley WITH YALLBOT 🔴 [Live](https://www.youtube.com/watch?v=ezp-7eLXBVs)"
-End:
-
-Object: 35.8350 -97.6247 20
+Object: 35.4175 -97.2159 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Winter Storm Fern Coverage - Historic Snowfall, Storm Chasers On The Ground 🔴 [Live](https://www.youtube.com/watch?v=7Wm65emJmT0)"
 End:
 
-Object: 35.7207 -97.3415 20
+Object: 35.3227 -97.6828 20
   Icon: 1
-  Text: 0,1,1,"The Severe Weather Masterclass: How To Use Weather Models 🔴 [Live](https://www.youtube.com/watch?v=5sqsFTBoqqA)"
+  Text: 0,1,1,"Dodge City Tornado Outbreak — Real Storm Chase Dashcam (Full Chase) 🔴 [Live](https://www.youtube.com/watch?v=X6I1n7rZV1I)"
 End:
 
-Object: 35.1141 -97.8800 20
+Object: 35.5850 -97.2051 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE: Texas Winter Storm Updates – Ice, Snow &amp; Travel Impacts 🔴 [Live](https://www.youtube.com/watch?v=YTBVWWnHjNs)"
+End:
+
+Object: 35.5980 -97.7936 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE - CATASTROPHIC ICE STORM SLAMS LA, MS &amp; TN - Heavy Snow Hits Ohio Valley WITH YALLBOT 🔴 [Live](https://www.youtube.com/watch?v=ezp-7eLXBVs)"
+End:
+
+Object: 35.7027 -97.2931 20
   Icon: 1
   Text: 0,1,1,"LIVE Coverage Tracking Historic Major Winter Storm Underway, 40+ States Impacted | FOX Weather 🔴 [Live](https://www.youtube.com/watch?v=EGK7DyNeIXw)"
 End:
 
-Object: 35.1246 -97.3736 20
+Object: 35.9636 -97.8702 20
+  Icon: 1
+  Text: 0,1,1,"The Severe Weather Masterclass: How To Use Weather Models 🔴 [Live](https://www.youtube.com/watch?v=5sqsFTBoqqA)"
+End:
+
+Object: 35.8712 -97.0674 20
   Icon: 1
   Text: 0,1,1,"LIVE: Winter storm tracker | NBC News 🔴 [Live](https://www.youtube.com/watch?v=OM3N_iZNKpU)"
 End:
 
-Object: 35.5318 -97.4295 20
+Object: 35.1124 -97.4301 20
   Icon: 1
   Text: 0,1,1,"In the Frozen Heart of It All NOW 🔴 [Live](https://www.youtube.com/watch?v=OS2rWCHtugo)"
 End:
 
-Object: 35.6081 -97.6456 20
+Object: 35.0616 -97.4564 20
   Icon: 1
   Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
 End:
 
-Object: 35.5643 -97.5796 20
+Object: 35.5428 -97.4072 20
+  Icon: 1
+  Text: 0,1,1,"🔴LIVE RADAR: Dallas Winter Storm | FOX 4 News 🔴 [Live](https://www.youtube.com/watch?v=NpJxFohxT1g)"
+End:
+
+Object: 35.9124 -97.0055 20
   Icon: 1
   Text: 0,1,1,"BREAKING - Bad Weather 2026 LIVE Streaming Coverage | Virtual Railfan 🔴 [Live](https://www.youtube.com/watch?v=iuCxo4qoeAw)"
 End:
 
-Object: 35.0453 -97.3659 20
+Object: 35.4405 -97.8579 20
   Icon: 1
-  Text: 0,1,1,"🔴LIVE: Dallas Winter Storm | FOX 4 News 🔴 [Live](https://www.youtube.com/watch?v=NpJxFohxT1g)"
-End:
-
-Object: 35.5351 -97.9677 20
-  Icon: 1
-  Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
-End:
-
-Object: 35.7263 -97.2914 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE Snow Chase | MAJOR Winter Storm and Extreame Cold Hits the Texas Panhandle 🔴 [Live](https://www.youtube.com/watch?v=DdM4MYn4oyI)"
+  Text: 0,1,1,"Live Storm Chase &amp; Maps: Driving Through Chaos - Oklahoma Weather Now! 🔴 [Live](https://www.youtube.com/watch?v=aqyE7B2ATcM)"
 End:
