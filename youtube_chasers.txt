@@ -1,119 +1,119 @@
-# Generated: 2026-02-03T22:02:43.974138Z
+# Generated: 2026-02-03T22:49:08.383474Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.0466 -97.1620 20
-  Icon: 1
-  Text: 0,1,1,"Live Texas Weather – Real-Time Radar, Severe Weather Alerts, Storm Tracking Across Texas (24/7) 🔴 [Live](https://www.youtube.com/watch?v=QCXxb4Qy66Y)"
-End:
-
-Object: 35.8611 -97.2434 20
+Object: 35.0135 -97.7981 20
   Icon: 1
   Text: 0,1,1,"Tornadoes, Supercells &amp; Extreme Weather — Real Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=XoUtddH8wVA)"
 End:
 
-Object: 35.6648 -97.7270 20
+Object: 35.2068 -97.3307 20
   Icon: 1
-  Text: 0,1,1,"🔴 LIVE - -30F WIND CHILLS INCOMING - 24/7 Weather Alerts With YallBot 🔴 [Live](https://www.youtube.com/watch?v=ezp-7eLXBVs)"
+  Text: 0,1,1,"Live Texas Weather – Real-Time Radar, Severe Weather Alerts, Storm Tracking Across Texas (24/7) 🔴 [Live](https://www.youtube.com/watch?v=QCXxb4Qy66Y)"
 End:
 
-Object: 35.8436 -97.2142 20
+Object: 35.9211 -97.1167 20
   Icon: 1
   Text: 0,1,1,"Dodge City Tornado Outbreak — Real Storm Chase Dashcam (Full Chase) 🔴 [Live](https://www.youtube.com/watch?v=X6I1n7rZV1I)"
 End:
 
-Object: 35.5162 -97.0918 20
+Object: 35.9568 -97.8814 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE - -30F WIND CHILLS INCOMING - Snow Squalls &amp; Severe Storms With YallBot 🔴 [Live](https://www.youtube.com/watch?v=ezp-7eLXBVs)"
+End:
+
+Object: 35.8938 -97.1283 20
   Icon: 1
   Text: 0,1,1,"Kansas Tornado Intercept — Full Storm Chase (Harper County) 🔴 [Live](https://www.youtube.com/watch?v=GR_Vmawc0V8)"
 End:
 
-Object: 35.4984 -97.3200 20
+Object: 35.2261 -97.4335 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE RARE Winter Storm Coverage - Live Weather Cameras Across The United States (BETA) 🔴 [Live](https://www.youtube.com/watch?v=sgJ14rQRUgQ)"
 End:
 
-Object: 35.2160 -97.3964 20
+Object: 35.0503 -97.4518 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Texas Weather Radar, Temperatures, Warnings and Updates - Background Music 🔴 [Live](https://www.youtube.com/watch?v=YTBVWWnHjNs)"
 End:
 
-Object: 35.9085 -97.3954 20
+Object: 35.4954 -97.1092 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: WINTER STORM COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=sxnFtudcHRE)"
 End:
 
-Object: 35.5149 -97.4091 20
+Object: 35.0512 -97.4382 20
   Icon: 1
   Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
 End:
 
-Object: 35.0550 -97.0333 20
+Object: 35.8439 -97.0051 20
   Icon: 1
   Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
 
-Object: 35.8218 -97.5912 20
+Object: 35.6590 -97.6617 20
   Icon: 1
   Text: 0,1,1,"Alabama Weather Network Live Channel 🔴 [Live](https://www.youtube.com/watch?v=AHKTKRC9K28)"
 End:
 
-Object: 35.3080 -97.1717 20
+Object: 35.5643 -97.2154 20
   Icon: 1
   Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
 End:
 
-Object: 35.7763 -97.9945 20
+Object: 35.8804 -97.4804 20
   Icon: 1
   Text: 0,1,1,"Eliminate Insomnia vs Stress To Fall Asleep Fast With Terrible Hurricane And Powerful Thunder Sounds 🔴 [Live](https://www.youtube.com/watch?v=5awsvTeNMQQ)"
 End:
 
-Object: 35.1844 -97.8591 20
-  Icon: 1
-  Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
-End:
-
-Object: 35.1245 -97.8023 20
+Object: 35.6658 -97.2311 20
   Icon: 1
   Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
 End:
 
-Object: 35.1618 -97.5224 20
+Object: 35.6265 -97.9817 20
+  Icon: 1
+  Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
+End:
+
+Object: 35.0724 -97.9749 20
   Icon: 1
   Text: 0,1,1,"I have a surprise! 🔴 [Live](https://www.youtube.com/watch?v=03epbI5K82M)"
 End:
 
-Object: 35.6171 -97.8069 20
+Object: 35.7070 -97.4362 20
   Icon: 1
   Text: 0,1,1,"Nebraska Weather TV 🔴 [Live](https://www.youtube.com/watch?v=qN9IR9TBKjI)"
 End:
 
-Object: 35.9250 -97.1072 20
+Object: 35.1305 -97.0001 20
   Icon: 1
   Text: 0,1,1,"🔴 Heavy Rain and Thunder Sounds 24/7 - Deep Sleep | Thunderstorm for Sleeping - Pure Relaxing Vibes 🔴 [Live](https://www.youtube.com/watch?v=cI0zN1nG3PQ)"
 End:
 
-Object: 35.3593 -97.7169 20
+Object: 35.9399 -97.8469 20
   Icon: 1
   Text: 0,1,1,"Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
 End:
 
-Object: 35.8931 -97.5675 20
+Object: 35.0440 -97.2050 20
   Icon: 1
   Text: 0,1,1,"WDTN - Beavercreek Camera 🔴 [Live](https://www.youtube.com/watch?v=D9flnb2pQDc)"
 End:
 
-Object: 35.0834 -97.6361 20
+Object: 35.3122 -97.5335 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE! 24 Hours of Weird But True Full Episodes! 📺🔬 | @NatGeoKids 🔴 [Live](https://www.youtube.com/watch?v=42QyI_w6bEg)"
 End:
 
-Object: 35.3602 -97.3776 20
+Object: 35.8866 -97.2582 20
   Icon: 1
   Text: 0,1,1,"Alexander County Courthouse Park 🔴 [Live](https://www.youtube.com/watch?v=RuiHEi2ImpI)"
 End:
 
-Object: 35.8570 -97.2308 20
+Object: 35.5632 -97.4380 20
   Icon: 1
   Text: 0,1,1,"South Dakota School of Mines and Technology&#39;s (SDSM&amp;T) Dino Cam 🔴 [Live](https://www.youtube.com/watch?v=6lYoPExcOwg)"
 End:
