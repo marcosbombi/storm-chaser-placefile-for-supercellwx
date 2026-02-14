@@ -1,129 +1,129 @@
-# Generated: 2026-02-14T22:52:47.333195Z
+# Generated: 2026-02-14T23:27:49.612134Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.7842 -97.6735 20
+Object: 35.4412 -97.7960 20
   Icon: 1
-  Text: 0,1,1,"🔴NOW: Tornado Threat Coverage With LIVE Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=KgLn_hXZn1Q)"
+  Text: 0,1,1,"🔴NOW: TORNADO WARNING IN TEXAS With LIVE Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=KgLn_hXZn1Q)"
 End:
 
-Object: 35.9013 -97.1852 20
+Object: 35.7047 -97.7611 20
   Icon: 1
   Text: 0,1,1,"Tornado Threat in Texas - Valentine&#39;s Day Live Storm Chase 🔴 [Live](https://www.youtube.com/watch?v=4K9smpyq4HA)"
 End:
 
-Object: 35.4471 -97.1595 20
-  Icon: 1
-  Text: 0,1,1,"TX/LA TORNADO THREAT: LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=fQIQtjMSX4c)"
-End:
-
-Object: 35.3504 -97.3909 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE: LOCKING IN on Severe Weather in the South | Low TORNADO Threat | The BIG Weather Show 🔴 [Live](https://www.youtube.com/watch?v=jQD5mlaIYKM)"
-End:
-
-Object: 35.3392 -97.9542 20
-  Icon: 1
-  Text: 0,1,1,"LIVE Now: Severe Thunderstorms and Tornadoes in Texas | Breaking Weather Updates 🔴 [Live](https://www.youtube.com/watch?v=QCXxb4Qy66Y)"
-End:
-
-Object: 35.6626 -97.6161 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=3u7ttJM_TaA)"
-End:
-
-Object: 35.7477 -97.4236 20
-  Icon: 1
-  Text: 0,1,1,"Tornadoes, Supercells &amp; Extreme Weather — Real Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=XoUtddH8wVA)"
-End:
-
-Object: 35.7096 -97.2749 20
+Object: 35.5507 -97.8908 20
   Icon: 1
   Text: 0,1,1,"🔴 Deep South Severe Weather - LIVE Storm Chaser Day 2 🔴 [Live](https://www.youtube.com/watch?v=G8UXmpsMwyE)"
 End:
 
-Object: 35.6980 -97.3852 20
+Object: 35.5933 -97.0245 20
+  Icon: 1
+  Text: 0,1,1,"TX/LA TORNADO THREAT: LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=fQIQtjMSX4c)"
+End:
+
+Object: 35.4762 -97.3328 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE: LOCKING IN on Severe Weather in the South | Low TORNADO Threat | The BIG Weather Show 🔴 [Live](https://www.youtube.com/watch?v=jQD5mlaIYKM)"
+End:
+
+Object: 35.0300 -97.2415 20
+  Icon: 1
+  Text: 0,1,1,"LIVE Now: Severe Thunderstorms and Tornadoes in Texas | Breaking Weather Updates 🔴 [Live](https://www.youtube.com/watch?v=QCXxb4Qy66Y)"
+End:
+
+Object: 35.7333 -97.8238 20
+  Icon: 1
+  Text: 0,1,1,"Tornadoes, Supercells &amp; Extreme Weather — Real Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=XoUtddH8wVA)"
+End:
+
+Object: 35.8967 -97.5283 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=3u7ttJM_TaA)"
+End:
+
+Object: 35.3195 -97.3843 20
   Icon: 1
   Text: 0,1,1,"Dodge City Tornado Outbreak — Real Storm Chase Dashcam (Full Chase) 🔴 [Live](https://www.youtube.com/watch?v=X6I1n7rZV1I)"
 End:
 
-Object: 35.1502 -97.2612 20
+Object: 35.3031 -97.7801 20
   Icon: 1
   Text: 0,1,1,"Kansas Tornado Intercept — Full Storm Chase (Harper County) 🔴 [Live](https://www.youtube.com/watch?v=GR_Vmawc0V8)"
 End:
 
-Object: 35.0016 -97.5981 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE - TORNADO WARNING IN TEXAS - 8 FEET OF SNOW INCOMING WITH YALLBOT 🔴 [Live](https://www.youtube.com/watch?v=ezp-7eLXBVs)"
-End:
-
-Object: 35.3124 -97.4826 20
+Object: 35.4457 -97.2572 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Now: Severe Thunderstorms and Tornadoes in Texas | Breaking Weather Updates 🔴 [Live](https://www.youtube.com/watch?v=YTBVWWnHjNs)"
 End:
 
-Object: 35.4344 -97.3657 20
+Object: 35.8288 -97.4745 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE - SEVERE STORMS HIT TEXAS &amp; LOUISIANA - 8 FEET OF SNOW INCOMING WITH YALLBOT 🔴 [Live](https://www.youtube.com/watch?v=ezp-7eLXBVs)"
+End:
+
+Object: 35.9518 -97.8717 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Severe Weather Coverage - Live Weather Cameras Across The United States (BETA) 🔴 [Live](https://www.youtube.com/watch?v=sgJ14rQRUgQ)"
 End:
 
-Object: 35.9649 -97.7607 20
+Object: 35.0273 -97.4903 20
   Icon: 1
   Text: 0,1,1,"🔴Live - Severe Weather Coverage with tornadoes, 2+ inch hail and 70+mph winds 🔴 [Live](https://www.youtube.com/watch?v=MPPldQ4lG3U)"
 End:
 
-Object: 35.4804 -97.7444 20
+Object: 35.3336 -97.9959 20
   Icon: 1
   Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
 End:
 
-Object: 35.5908 -97.7705 20
+Object: 35.4423 -97.6131 20
+  Icon: 1
+  Text: 0,1,1,"BREAKING-LIVE TORNADO OUTBREAK/SEVERE WEATHER OUTBREAK COVERAGE ACROSS THE SOUTH WITH LIVE CHASERS!! 🔴 [Live](https://www.youtube.com/watch?v=mywDTe1-bxY)"
+End:
+
+Object: 35.4741 -97.8076 20
   Icon: 1
   Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
 
-Object: 35.5176 -97.4390 20
+Object: 35.0415 -97.2878 20
   Icon: 1
   Text: 0,1,1,"Alabama Weather Network Live Channel 🔴 [Live](https://www.youtube.com/watch?v=AHKTKRC9K28)"
 End:
 
-Object: 35.1057 -97.9760 20
+Object: 35.3414 -97.1344 20
   Icon: 1
   Text: 0,1,1,"🔴GladiatorWX LIVE Storm Coverage - Valentine&#39;s Day🔴 2/14/2026 🔴 [Live](https://www.youtube.com/watch?v=3XHijehIzsA)"
 End:
 
-Object: 35.3590 -97.7790 20
+Object: 35.5811 -97.6334 20
   Icon: 1
   Text: 0,1,1,"Live Payne country Ok storm Tracker  HD Radar v2026 🔴 [Live](https://www.youtube.com/watch?v=HjWqzopIDrQ)"
 End:
 
-Object: 35.1525 -97.6143 20
-  Icon: 1
-  Text: 0,1,1,"ABC13 Houston | Live Local News and Weather 🔴 [Live](https://www.youtube.com/watch?v=8uCTDszkENs)"
-End:
-
-Object: 35.4258 -97.6979 20
+Object: 35.9110 -97.1090 20
   Icon: 1
   Text: 0,1,1,"Eliminate Insomnia vs Stress To Fall Asleep Fast With Terrible Hurricane And Powerful Thunder Sounds 🔴 [Live](https://www.youtube.com/watch?v=5awsvTeNMQQ)"
 End:
 
-Object: 35.2469 -97.1167 20
+Object: 35.5332 -97.3912 20
   Icon: 1
   Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
 End:
 
-Object: 35.5414 -97.7545 20
+Object: 35.7103 -97.4302 20
   Icon: 1
   Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
 End:
 
-Object: 35.7821 -97.7204 20
+Object: 35.1080 -97.9018 20
   Icon: 1
-  Text: 0,1,1,"🔴RADAR INDICATED TORNADO ON THE GROUND IN TX. Storm Chasers on the ground 🔴 [Live](https://www.youtube.com/watch?v=pJyIPmZHK8k)"
+  Text: 0,1,1,"Light &amp; Equipment Installation 🔴 [Live](https://www.youtube.com/watch?v=UhlD6Zbeaoo)"
 End:
 
-Object: 35.6723 -97.0315 20
+Object: 35.8012 -97.6757 20
   Icon: 1
   Text: 0,1,1,"🔴 Heavy Rain and Thunder Sounds 24/7 - Deep Sleep | Thunderstorm for Sleeping - Pure Relaxing Vibes 🔴 [Live](https://www.youtube.com/watch?v=cI0zN1nG3PQ)"
 End:
