@@ -1,129 +1,129 @@
-# Generated: 2026-02-19T12:29:30.800322Z
+# Generated: 2026-02-19T13:50:42.059814Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.2932 -97.3208 20
+Object: 35.9461 -97.9064 20
   Icon: 1
   Text: 0,1,1,"LIVE Now: Severe Thunderstorms and Tornadoes in Texas | Breaking Weather Updates 🔴 [Live](https://www.youtube.com/watch?v=QCXxb4Qy66Y)"
 End:
 
-Object: 35.2391 -97.2895 20
+Object: 35.5735 -97.5966 20
   Icon: 1
   Text: 0,1,1,"Tornadoes, Supercells &amp; Extreme Weather — Real Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=XoUtddH8wVA)"
 End:
 
-Object: 35.8863 -97.5058 20
+Object: 35.2787 -97.5202 20
+  Icon: 1
+  Text: 0,1,1,"🌪️⚠️ Live Briefing: Strong Tornado Threat Today for Southern IL &amp; IN ⚠️🌪️ 🔴 [Live](https://www.youtube.com/watch?v=UvGyCAsOkyk)"
+End:
+
+Object: 35.6028 -97.5400 20
   Icon: 1
   Text: 0,1,1,"Dodge City Tornado Outbreak — Real Storm Chase Dashcam (Full Chase) 🔴 [Live](https://www.youtube.com/watch?v=X6I1n7rZV1I)"
 End:
 
-Object: 35.1626 -97.0953 20
+Object: 35.1768 -97.0757 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE - SEVERE STORMS &amp; TORNADO RISK IN OHIO VALLEY - 24/7 WEATHER WITH YALLBOT 🔴 [Live](https://www.youtube.com/watch?v=ezp-7eLXBVs)"
 End:
 
-Object: 35.3443 -97.8395 20
+Object: 35.7800 -97.9303 20
   Icon: 1
   Text: 0,1,1,"Kansas Tornado Intercept — Full Storm Chase (Harper County) 🔴 [Live](https://www.youtube.com/watch?v=GR_Vmawc0V8)"
 End:
 
-Object: 35.8019 -97.2424 20
+Object: 35.4624 -97.4384 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Severe Weather Coverage - Live Weather Cameras Across The United States (BETA) 🔴 [Live](https://www.youtube.com/watch?v=sgJ14rQRUgQ)"
 End:
 
-Object: 35.7032 -97.7784 20
+Object: 35.5204 -97.1511 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER / WINTER STORM COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=wfBc3FBE770)"
 End:
 
-Object: 35.8030 -97.5369 20
+Object: 35.5115 -97.1753 20
   Icon: 1
   Text: 0,1,1,"🔴 Texas Weather Live 24/7 | Real-Time Radar, Severe Alerts &amp; Forecasts + Music 🔴 [Live](https://www.youtube.com/watch?v=YTBVWWnHjNs)"
 End:
 
-Object: 35.5057 -97.4552 20
+Object: 35.6013 -97.2735 20
+  Icon: 1
+  Text: 0,1,1,"LIVE-POTENTIAL TORNADO OUTBREAK COVERAGE WITH LIVE CAMERAS AND STORM CHASERS ACROSS OHIO VALLEY!! 🔴 [Live](https://www.youtube.com/watch?v=Kj7eO4Wku34)"
+End:
+
+Object: 35.9837 -97.7001 20
+  Icon: 1
+  Text: 0,1,1,"🔴LIVE STORM CHASER🔴 Severe threat for IL/IN⚡️ 🔴 [Live](https://www.youtube.com/watch?v=zQgnb2cT-ME)"
+End:
+
+Object: 35.5696 -97.0181 20
   Icon: 1
   Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
 End:
 
-Object: 35.4505 -97.9111 20
-  Icon: 1
-  Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
-End:
-
-Object: 35.0075 -97.9911 20
+Object: 35.5583 -97.0921 20
   Icon: 1
   Text: 0,1,1,"Alabama Weather Network Live Channel 🔴 [Live](https://www.youtube.com/watch?v=AHKTKRC9K28)"
 End:
 
-Object: 35.5277 -97.8030 20
+Object: 35.5880 -97.1131 20
   Icon: 1
-  Text: 0,1,1,"TRACKING SEVERE WEATHER FOR INDIANA THURSDAY &amp; LIVE NATIONAL RADAR🌩️ | Storms &amp; Alerts | Forecasts 🔴 [Live](https://www.youtube.com/watch?v=iJfcFkNk_2E)"
+  Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
 
-Object: 35.5459 -97.1359 20
+Object: 35.1911 -97.7298 20
   Icon: 1
   Text: 0,1,1,"LIVE: WDIO Storm Track Weather Conditions 🔴 [Live](https://www.youtube.com/watch?v=WRwxY-C0LZQ)"
 End:
 
-Object: 35.4947 -97.6704 20
+Object: 35.7949 -97.4952 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: Minnesota Weather 24/7— Forecasts, Radar, &amp; Conditions | Weather Loon 🔴 [Live](https://www.youtube.com/watch?v=ygygFnzdXeI)"
 End:
 
-Object: 35.2278 -97.1154 20
+Object: 35.6243 -97.1857 20
   Icon: 1
   Text: 0,1,1,"WeatherView 🔴 [Live](https://www.youtube.com/watch?v=N1gjdecDnVI)"
 End:
 
-Object: 35.0786 -97.0458 20
+Object: 35.6619 -97.0621 20
   Icon: 1
   Text: 0,1,1,"Eliminate Insomnia vs Stress To Fall Asleep Fast With Terrible Hurricane And Powerful Thunder Sounds 🔴 [Live](https://www.youtube.com/watch?v=5awsvTeNMQQ)"
 End:
 
-Object: 35.6884 -97.7635 20
+Object: 35.5883 -97.4778 20
   Icon: 1
   Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
 End:
 
-Object: 35.3099 -97.9888 20
+Object: 35.1046 -97.1751 20
   Icon: 1
   Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
 End:
 
-Object: 35.5240 -97.5944 20
+Object: 35.3099 -97.1201 20
   Icon: 1
   Text: 0,1,1,"LIVE Northern Lights RIGHT NOW! February 20 2026 🔴 [Live](https://www.youtube.com/watch?v=YfF0ngef-WA)"
 End:
 
-Object: 35.6345 -97.3938 20
+Object: 35.5195 -97.8120 20
+  Icon: 1
+  Text: 0,1,1,"Nebraska Weather TV 🔴 [Live](https://www.youtube.com/watch?v=qN9IR9TBKjI)"
+End:
+
+Object: 35.5743 -97.3762 20
   Icon: 1
   Text: 0,1,1,"🔴 Heavy Rain and Thunder Sounds 24/7 - Deep Sleep | Thunderstorm for Sleeping - Pure Relaxing Vibes 🔴 [Live](https://www.youtube.com/watch?v=cI0zN1nG3PQ)"
 End:
 
-Object: 35.0048 -97.1293 20
+Object: 35.3819 -97.9009 20
   Icon: 1
   Text: 0,1,1,"Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
 End:
 
-Object: 35.2835 -97.4278 20
+Object: 35.7336 -97.5089 20
   Icon: 1
   Text: 0,1,1,"WDTN - Beavercreek Camera 🔴 [Live](https://www.youtube.com/watch?v=D9flnb2pQDc)"
-End:
-
-Object: 35.0174 -97.6388 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE! 24 Hours of Weird But True Full Episodes! 📺🔬 | @NatGeoKids 🔴 [Live](https://www.youtube.com/watch?v=42QyI_w6bEg)"
-End:
-
-Object: 35.0128 -97.3148 20
-  Icon: 1
-  Text: 0,1,1,"Alexander County Courthouse Park 🔴 [Live](https://www.youtube.com/watch?v=RuiHEi2ImpI)"
-End:
-
-Object: 35.2041 -97.7025 20
-  Icon: 1
-  Text: 0,1,1,"South Dakota School of Mines and Technology&#39;s (SDSM&amp;T) Dino Cam 🔴 [Live](https://www.youtube.com/watch?v=6lYoPExcOwg)"
 End:
