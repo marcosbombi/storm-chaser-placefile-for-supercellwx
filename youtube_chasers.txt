@@ -1,129 +1,129 @@
-# Generated: 2026-02-20T03:08:52.135718Z
+# Generated: 2026-02-20T04:57:14.178418Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.8002 -97.4714 20
+Object: 35.5310 -97.1333 20
   Icon: 1
-  Text: 0,1,1,"🔴 BREAKING 2 TORNADO WARNINGS IN OHIO - Strong Tornadoes Possible - With LIVE Storm Chasers... 🔴 [Live](https://www.youtube.com/watch?v=AUTvtqxTKfI)"
+  Text: 0,1,1,"🔴STORM CHASERS LIVE🔴 Still chasing Tornado chances in Ohio! 🔴 [Live](https://www.youtube.com/watch?v=Pk6KuAikKZg)"
 End:
 
-Object: 35.8506 -97.9955 20
-  Icon: 1
-  Text: 0,1,1,"LIVE: Tornado Threat in Southern IL &amp; Southern IN | Enhanced Risk Storm Chase 🔴 [Live](https://www.youtube.com/watch?v=8Dr7DXscXAY)"
-End:
-
-Object: 35.5717 -97.5825 20
-  Icon: 1
-  Text: 0,1,1,"Low-end TORNADO Threat | Illinois &amp; Indiana - Live Storm Chase 🔴 [Live](https://www.youtube.com/watch?v=HgSr4CxHAPU)"
-End:
-
-Object: 35.6969 -97.1612 20
-  Icon: 1
-  Text: 0,1,1,"🌪️LIVE: Highest Tornado Risk in Months! Real-Time Sounding Data Streaming NOW - Live Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=X5u_7FCNq0Q)"
-End:
-
-Object: 35.4651 -97.9692 20
-  Icon: 1
-  Text: 0,1,1,"🔴STORM CHASERS LIVE🔴 Wrapping up an Illinois/Indiana Tornado chase! 🔴 [Live](https://www.youtube.com/watch?v=Pk6KuAikKZg)"
-End:
-
-Object: 35.7853 -97.1673 20
-  Icon: 1
-  Text: 0,1,1,"🔴 Midwest Tornado Outbreak - LIVE Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=hj1usmxbqhw)"
-End:
-
-Object: 35.0007 -97.8934 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE: Tracking the Tornado Threat Today | The BIG Weather Show 🔴 [Live](https://www.youtube.com/watch?v=K9Yd9jAbMbU)"
-End:
-
-Object: 35.3491 -97.4984 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE - TORNADO Coverage With Storm Chasers On The Ground - Live Weather Channel... 🔴 [Live](https://www.youtube.com/watch?v=JuGP3_GNGmE)"
-End:
-
-Object: 35.0367 -97.6198 20
+Object: 35.4823 -97.9293 20
   Icon: 1
   Text: 0,1,1,"LIVE Now: Severe Thunderstorms and Tornadoes in Texas | Breaking Weather Updates 🔴 [Live](https://www.youtube.com/watch?v=QCXxb4Qy66Y)"
 End:
 
-Object: 35.1035 -97.4146 20
+Object: 35.9389 -97.8254 20
   Icon: 1
   Text: 0,1,1,"Tornadoes, Supercells &amp; Extreme Weather — Real Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=XoUtddH8wVA)"
 End:
 
-Object: 35.5324 -97.8503 20
-  Icon: 1
-  Text: 0,1,1,"Possible Tornado Threat  | IL &amp; IN - Live Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=qGO5deIwaTI)"
-End:
-
-Object: 35.8636 -97.1943 20
-  Icon: 1
-  Text: 0,1,1,"Dodge City Tornado Outbreak — Real Storm Chase Dashcam (Full Chase) 🔴 [Live](https://www.youtube.com/watch?v=X6I1n7rZV1I)"
-End:
-
-Object: 35.1232 -97.2343 20
+Object: 35.5258 -97.1341 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: TORNADO WARNING / WINTER STORM COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=XvMBqzUnLXs)"
 End:
 
-Object: 35.1528 -97.4277 20
+Object: 35.7244 -97.6230 20
   Icon: 1
-  Text: 0,1,1,"🔴 LIVE - TORNADO WARNING IN DAYTON OHIO - 24/7 Weather Alerts With YallBot 🔴 [Live](https://www.youtube.com/watch?v=ezp-7eLXBVs)"
+  Text: 0,1,1,"Dodge City Tornado Outbreak — Real Storm Chase Dashcam (Full Chase) 🔴 [Live](https://www.youtube.com/watch?v=X6I1n7rZV1I)"
 End:
 
-Object: 35.8233 -97.7821 20
+Object: 35.0425 -97.4122 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE - LIFE THREATENING FLOODING SLAMS OHIO - 24/7 Weather Alerts WITH YALLBOT 🔴 [Live](https://www.youtube.com/watch?v=ezp-7eLXBVs)"
+End:
+
+Object: 35.9662 -97.7145 20
   Icon: 1
   Text: 0,1,1,"Kansas Tornado Intercept — Full Storm Chase (Harper County) 🔴 [Live](https://www.youtube.com/watch?v=GR_Vmawc0V8)"
 End:
 
-Object: 35.1874 -97.4950 20
+Object: 35.6146 -97.0792 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Severe Weather Coverage - Live Weather Cameras Across The United States (BETA) 🔴 [Live](https://www.youtube.com/watch?v=sgJ14rQRUgQ)"
 End:
 
-Object: 35.4380 -97.7878 20
+Object: 35.9107 -97.3973 20
   Icon: 1
   Text: 0,1,1,"🔴 Texas Weather Live 24/7 | Real-Time Radar, Severe Alerts &amp; Forecasts + Music 🔴 [Live](https://www.youtube.com/watch?v=YTBVWWnHjNs)"
 End:
 
-Object: 35.4190 -97.3579 20
+Object: 35.9795 -97.2309 20
   Icon: 1
-  Text: 0,1,1,"🔴Live - Severe Weather Coverage with Long track violent tornadoes, 2+ inch hail and 70+mph winds 🔴 [Live](https://www.youtube.com/watch?v=kdpHoJPtKbk)"
+  Text: 0,1,1,"Tracking possible severe storms in central Ohio | Live radar 🔴 [Live](https://www.youtube.com/watch?v=QU4rbKHP1bQ)"
 End:
 
-Object: 35.2546 -97.6610 20
+Object: 35.3525 -97.4938 20
   Icon: 1
-  Text: 0,1,1,"LIVE-TORNADO OUTBREAK ONGOING IN ILLINOIS, INDIANA, AND OHIO WITH LIVE STORM CHASER ON THE GROUND!!! 🔴 [Live](https://www.youtube.com/watch?v=5KEa5jRLZv0)"
+  Text: 0,1,1,"Allen, MI - Aurora Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=-QSR38Vidzc)"
 End:
 
-Object: 35.0396 -97.6492 20
+Object: 35.8341 -97.9796 20
   Icon: 1
   Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
 End:
 
-Object: 35.4130 -97.5895 20
-  Icon: 1
-  Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
-End:
-
-Object: 35.6148 -97.0693 20
+Object: 35.4376 -97.4771 20
   Icon: 1
   Text: 0,1,1,"Alabama Weather Network Live Channel 🔴 [Live](https://www.youtube.com/watch?v=AHKTKRC9K28)"
 End:
 
-Object: 35.5165 -97.4865 20
+Object: 35.5889 -97.3705 20
+  Icon: 1
+  Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
+End:
+
+Object: 35.7006 -97.0668 20
+  Icon: 1
+  Text: 0,1,1,"Ludington, MI - Aurora Camera - Michigan Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=D3NEKeF19wQ)"
+End:
+
+Object: 35.0220 -97.0751 20
   Icon: 1
   Text: 0,1,1,"LIVE: WDIO Storm Track Weather Conditions 🔴 [Live](https://www.youtube.com/watch?v=WRwxY-C0LZQ)"
 End:
 
-Object: 35.0667 -97.2831 20
+Object: 35.4064 -97.4031 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: Minnesota Weather 24/7— Forecasts, Radar, &amp; Conditions | Weather Loon 🔴 [Live](https://www.youtube.com/watch?v=ygygFnzdXeI)"
 End:
 
-Object: 35.5659 -97.0875 20
+Object: 35.5516 -97.3141 20
   Icon: 1
   Text: 0,1,1,"WeatherView 🔴 [Live](https://www.youtube.com/watch?v=N1gjdecDnVI)"
+End:
+
+Object: 35.9217 -97.3754 20
+  Icon: 1
+  Text: 0,1,1,"Eliminate Insomnia vs Stress To Fall Asleep Fast With Terrible Hurricane And Powerful Thunder Sounds 🔴 [Live](https://www.youtube.com/watch?v=5awsvTeNMQQ)"
+End:
+
+Object: 35.6978 -97.3539 20
+  Icon: 1
+  Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
+End:
+
+Object: 35.7791 -97.6729 20
+  Icon: 1
+  Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
+End:
+
+Object: 35.0323 -97.7235 20
+  Icon: 1
+  Text: 0,1,1,"LIVE Northern Lights RIGHT NOW! February 20 2026 🔴 [Live](https://www.youtube.com/watch?v=YfF0ngef-WA)"
+End:
+
+Object: 35.1803 -97.9548 20
+  Icon: 1
+  Text: 0,1,1,"Nebraska Weather TV 🔴 [Live](https://www.youtube.com/watch?v=qN9IR9TBKjI)"
+End:
+
+Object: 35.4019 -97.4438 20
+  Icon: 1
+  Text: 0,1,1,"🔴 Heavy Rain and Thunder Sounds 24/7 - Deep Sleep | Thunderstorm for Sleeping - Pure Relaxing Vibes 🔴 [Live](https://www.youtube.com/watch?v=cI0zN1nG3PQ)"
+End:
+
+Object: 35.1552 -97.9639 20
+  Icon: 1
+  Text: 0,1,1,"Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
 End:
