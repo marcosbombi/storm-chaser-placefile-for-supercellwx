@@ -1,129 +1,129 @@
-# Generated: 2026-02-27T05:04:24.109682Z
+# Generated: 2026-02-27T06:04:44.600489Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.0853 -97.1974 20
+Object: 35.6891 -97.0291 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=NU4JbDNvcVA)"
 End:
 
-Object: 35.9709 -97.3788 20
+Object: 35.2105 -97.8207 20
   Icon: 1
   Text: 0,1,1,"Tornadoes, Supercells &amp; Extreme Weather — Real Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=XoUtddH8wVA)"
 End:
 
-Object: 35.0096 -97.0070 20
+Object: 35.3426 -97.6799 20
   Icon: 1
   Text: 0,1,1,"Dodge City Tornado Outbreak — Real Storm Chase Dashcam (Full Chase) 🔴 [Live](https://www.youtube.com/watch?v=X6I1n7rZV1I)"
 End:
 
-Object: 35.9731 -97.1444 20
+Object: 35.0071 -97.0845 20
   Icon: 1
-  Text: 0,1,1,"🔴 LIVE - 102 MPH WINDS &amp; 2 FEET OF SNOW COMING - 24/7 Weather Alerts With YallBot 🔴 [Live](https://www.youtube.com/watch?v=ezp-7eLXBVs)"
+  Text: 0,1,1,"🔴 LIVE - 100 MPH WINDS &amp; 2 FEET OF SNOW COMING - 24/7 Weather Alerts WITH YALLBOT 🔴 [Live](https://www.youtube.com/watch?v=ezp-7eLXBVs)"
 End:
 
-Object: 35.5305 -97.9294 20
+Object: 35.0279 -97.7013 20
   Icon: 1
   Text: 0,1,1,"Live Texas Weather 24/7 | Real-Time Radar, Warnings &amp; Cameras 🔴 [Live](https://www.youtube.com/watch?v=QCXxb4Qy66Y)"
 End:
 
-Object: 35.8797 -97.4032 20
-  Icon: 1
-  Text: 0,1,1,"Kansas Tornado Intercept — Full Storm Chase (Harper County) 🔴 [Live](https://www.youtube.com/watch?v=GR_Vmawc0V8)"
-End:
-
-Object: 35.9002 -97.8155 20
+Object: 35.2066 -97.1656 20
   Icon: 1
   Text: 0,1,1,"🚨 LIVE: Alabama Severe Weather Coverage 🌪️ 🔴 [Live](https://www.youtube.com/watch?v=WrnaYYGMVos)"
 End:
 
-Object: 35.8534 -97.8318 20
+Object: 35.6672 -97.0476 20
+  Icon: 1
+  Text: 0,1,1,"Kansas Tornado Intercept — Full Storm Chase (Harper County) 🔴 [Live](https://www.youtube.com/watch?v=GR_Vmawc0V8)"
+End:
+
+Object: 35.4198 -97.3669 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Major Winter Storm Coverage - Live Weather Cameras Across The United States (BETA) 🔴 [Live](https://www.youtube.com/watch?v=sgJ14rQRUgQ)"
 End:
 
-Object: 35.1153 -97.7670 20
+Object: 35.1531 -97.8177 20
   Icon: 1
   Text: 0,1,1,"🔴 Texas Weather Live 24/7 | Real-Time Radar, Severe Alerts &amp; Forecasts + Music 🔴 [Live](https://www.youtube.com/watch?v=YTBVWWnHjNs)"
 End:
 
-Object: 35.3860 -97.2012 20
+Object: 35.0523 -97.3088 20
   Icon: 1
   Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
 End:
 
-Object: 35.7100 -97.2651 20
-  Icon: 1
-  Text: 0,1,1,"Alabama Weather Network Live Channel 🔴 [Live](https://www.youtube.com/watch?v=AHKTKRC9K28)"
-End:
-
-Object: 35.4305 -97.8756 20
+Object: 35.7672 -97.3376 20
   Icon: 1
   Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
 
-Object: 35.9673 -97.3801 20
+Object: 35.5197 -97.4307 20
   Icon: 1
-  Text: 0,1,1,"LIVE: WDIO Storm Track Weather Conditions 🔴 [Live](https://www.youtube.com/watch?v=WRwxY-C0LZQ)"
+  Text: 0,1,1,"Alabama Weather Network Live Channel 🔴 [Live](https://www.youtube.com/watch?v=AHKTKRC9K28)"
 End:
 
-Object: 35.2648 -97.1152 20
+Object: 35.1515 -97.3517 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: Minnesota Weather 24/7— Forecasts, Radar, &amp; Conditions | Weather Loon 🔴 [Live](https://www.youtube.com/watch?v=ygygFnzdXeI)"
 End:
 
-Object: 35.2049 -97.7761 20
+Object: 35.7309 -97.5990 20
+  Icon: 1
+  Text: 0,1,1,"LIVE: WDIO Storm Track Weather Conditions 🔴 [Live](https://www.youtube.com/watch?v=WRwxY-C0LZQ)"
+End:
+
+Object: 35.1915 -97.8164 20
   Icon: 1
   Text: 0,1,1,"Eliminate Insomnia vs Stress To Fall Asleep Fast With Terrible Hurricane And Powerful Thunder Sounds 🔴 [Live](https://www.youtube.com/watch?v=5awsvTeNMQQ)"
 End:
 
-Object: 35.1779 -97.1112 20
+Object: 35.9895 -97.7153 20
   Icon: 1
   Text: 0,1,1,"WeatherView 🔴 [Live](https://www.youtube.com/watch?v=N1gjdecDnVI)"
 End:
 
-Object: 35.0230 -97.2808 20
+Object: 35.9743 -97.0016 20
   Icon: 1
   Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
 End:
 
-Object: 35.1691 -97.1297 20
-  Icon: 1
-  Text: 0,1,1,"LIVE Northern Lights RIGHT NOW! February 2026 🔴 [Live](https://www.youtube.com/watch?v=YfF0ngef-WA)"
-End:
-
-Object: 35.7496 -97.7800 20
-  Icon: 1
-  Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
-End:
-
-Object: 35.9566 -97.8932 20
+Object: 35.3828 -97.8332 20
   Icon: 1
   Text: 0,1,1,"Nebraska Weather TV 🔴 [Live](https://www.youtube.com/watch?v=qN9IR9TBKjI)"
 End:
 
-Object: 35.4061 -97.2756 20
+Object: 35.1164 -97.2254 20
+  Icon: 1
+  Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
+End:
+
+Object: 35.5183 -97.2278 20
+  Icon: 1
+  Text: 0,1,1,"LIVE Northern Lights RIGHT NOW! February 2026 🔴 [Live](https://www.youtube.com/watch?v=YfF0ngef-WA)"
+End:
+
+Object: 35.9011 -97.1369 20
   Icon: 1
   Text: 0,1,1,"🔴 Heavy Rain and Thunder Sounds 24/7 - Deep Sleep | Thunderstorm for Sleeping - Pure Relaxing Vibes 🔴 [Live](https://www.youtube.com/watch?v=cI0zN1nG3PQ)"
 End:
 
-Object: 35.5816 -97.8553 20
+Object: 35.8668 -97.0076 20
   Icon: 1
   Text: 0,1,1,"Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
 End:
 
-Object: 35.0933 -97.2614 20
+Object: 35.7954 -97.8167 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE! 24 Hours of Weird But True Full Episodes! 📺🔬 | @NatGeoKids 🔴 [Live](https://www.youtube.com/watch?v=42QyI_w6bEg)"
 End:
 
-Object: 35.9506 -97.7612 20
+Object: 35.9857 -97.7926 20
   Icon: 1
   Text: 0,1,1,"WDTN - Beavercreek Camera 🔴 [Live](https://www.youtube.com/watch?v=D9flnb2pQDc)"
 End:
 
-Object: 35.9515 -97.0156 20
+Object: 35.8823 -97.7568 20
   Icon: 1
   Text: 0,1,1,"South Dakota School of Mines and Technology&#39;s (SDSM&amp;T) Dino Cam 🔴 [Live](https://www.youtube.com/watch?v=6lYoPExcOwg)"
 End:
