@@ -1,129 +1,129 @@
-# Generated: 2026-03-10T21:38:24.117095Z
+# Generated: 2026-03-10T21:56:58.908817Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.3344 -97.9318 20
+Object: 35.1868 -97.3772 20
   Icon: 1
   Text: 0,1,1,"Tornadoes, Supercells &amp; Extreme Weather — Real Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=3Yp4wvJxyZk)"
 End:
 
-Object: 35.7810 -97.6460 20
+Object: 35.6193 -97.5450 20
   Icon: 1
-  Text: 0,1,1,"🔴 LIVE: TEXAS Severe Weather Coverage | Tornado Risk, Giant Hail &amp; 80 MPH Winds 🔴 [Live](https://www.youtube.com/watch?v=UzlofDFf-vc)"
+  Text: 0,1,1,"🔴 BREAKING TORNADO ON THE GROUND IN ILLINOIS - Strong Tornadoes Expected With LIVE Storm Chasers... 🔴 [Live](https://www.youtube.com/watch?v=d6H9Ubg_fZs)"
 End:
 
-Object: 35.0652 -97.9006 20
+Object: 35.1979 -97.1495 20
   Icon: 1
   Text: 0,1,1,"🔴LIVE | Illinois Tornado Threat -- EF3+ Tornadoes Possible CODE RED #stormchasing #severeweather 🔴 [Live](https://www.youtube.com/watch?v=7fzAjcYTG9g)"
 End:
 
-Object: 35.0328 -97.3480 20
+Object: 35.7519 -97.4878 20
   Icon: 1
   Text: 0,1,1,"LIVE Tornado Outbreak Potential in Illinois and Indiana - Storm Chasing Live 🔴 [Live](https://www.youtube.com/watch?v=IevsJtqt0aE)"
 End:
 
-Object: 35.7681 -97.3098 20
+Object: 35.3889 -97.4938 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE: TEXAS Severe Weather Coverage | Tornado Risk, Giant Hail &amp; 80 MPH Winds 🔴 [Live](https://www.youtube.com/watch?v=UzlofDFf-vc)"
+End:
+
+Object: 35.6201 -97.8437 20
   Icon: 1
   Text: 0,1,1,"MAJOR Severe Weather Threat - Live Storm Chase 🔴 [Live](https://www.youtube.com/watch?v=mpxQCfRdRZc)"
 End:
 
-Object: 35.8949 -97.9516 20
-  Icon: 1
-  Text: 0,1,1,"🔴 BREAKING TORNADO OUTBREAK COVERAGE - Strong Tornadoes Expected With LIVE Storm Chasers... 🔴 [Live](https://www.youtube.com/watch?v=d6H9Ubg_fZs)"
-End:
-
-Object: 35.0084 -97.2082 20
+Object: 35.8216 -97.1519 20
   Icon: 1
   Text: 0,1,1,"🔴Storm Chasers Live🔴Central Texas Tornado and Giant Hail Threat! 🔴 [Live](https://www.youtube.com/watch?v=FproLtzlNMo)"
 End:
 
-Object: 35.5098 -97.7606 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE Texas Weather Roundup | Baldy-in-Chief Tracking Tornado &amp; Severe Storms 🔴 [Live](https://www.youtube.com/watch?v=7EDNgOe_ckQ)"
-End:
-
-Object: 35.5808 -97.0595 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE - SEVERE WEATHER OUTBREAK COVERAGE - STORM CHASERS ON THE GROUND... 🔴 [Live](https://www.youtube.com/watch?v=j5Ennq0-TTA)"
-End:
-
-Object: 35.5694 -97.3362 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE: TORNADO WATCH COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=DNMCNeGLBDU)"
-End:
-
-Object: 35.0800 -97.5670 20
-  Icon: 1
-  Text: 0,1,1,"Dodge City Tornado Outbreak — Real Storm Chase Dashcam (Full Chase) 🔴 [Live](https://www.youtube.com/watch?v=4Y8T7Ola60c)"
-End:
-
-Object: 35.3949 -97.4819 20
-  Icon: 1
-  Text: 0,1,1,"🔴BREAKING - Multiple Tornadoes Expected And Intense Tornadoes Likely Today! Live Update! 🔴 [Live](https://www.youtube.com/watch?v=E6bWRrqPlfM)"
-End:
-
-Object: 35.1225 -97.7006 20
-  Icon: 1
-  Text: 0,1,1,"ILLINOIS SIGNIFICANT TORNADO THREAT: LIVE STORM CHASER (MODERATE RISK UPGRADE) 🔴 [Live](https://www.youtube.com/watch?v=iWxJ-Jmwt4I)"
-End:
-
-Object: 35.4694 -97.4318 20
+Object: 35.4587 -97.9149 20
   Icon: 1
   Text: 0,1,1,"🔴LIVE | Midwest Severe Weather OUTBREAK Coverage | LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=eceeoNqWL_o)"
 End:
 
-Object: 35.8416 -97.2892 20
+Object: 35.9523 -97.3543 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE - SEVERE WEATHER OUTBREAK COVERAGE - STORM CHASERS ON THE GROUND... 🔴 [Live](https://www.youtube.com/watch?v=j5Ennq0-TTA)"
+End:
+
+Object: 35.6044 -97.1008 20
+  Icon: 1
+  Text: 0,1,1,"🔴NOW: TORNADO ON THE GROUND IN ILLINOIS!! With LIVE Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=xZKcBJUmZHM)"
+End:
+
+Object: 35.4948 -97.9775 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE Texas Weather Roundup | Baldy-in-Chief Tracking Tornado &amp; Severe Storms 🔴 [Live](https://www.youtube.com/watch?v=7EDNgOe_ckQ)"
+End:
+
+Object: 35.3077 -97.9011 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE: TORNADO WATCH COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=DNMCNeGLBDU)"
+End:
+
+Object: 35.0873 -97.5981 20
+  Icon: 1
+  Text: 0,1,1,"Dodge City Tornado Outbreak — Real Storm Chase Dashcam (Full Chase) 🔴 [Live](https://www.youtube.com/watch?v=4Y8T7Ola60c)"
+End:
+
+Object: 35.2993 -97.3468 20
+  Icon: 1
+  Text: 0,1,1,"ILLINOIS SIGNIFICANT TORNADO THREAT: LIVE STORM CHASER (MODERATE RISK UPGRADE) 🔴 [Live](https://www.youtube.com/watch?v=iWxJ-Jmwt4I)"
+End:
+
+Object: 35.6980 -97.8416 20
+  Icon: 1
+  Text: 0,1,1,"🔴BREAKING - Multiple Tornadoes Expected And Intense Tornadoes Likely Today! Live Update! 🔴 [Live](https://www.youtube.com/watch?v=E6bWRrqPlfM)"
+End:
+
+Object: 35.5110 -97.8722 20
   Icon: 1
   Text: 0,1,1,"🔴Storm Chasers Live | Severe Weather Tornado Pottential Storm Across US  | Ryan Live | Tornado Live 🔴 [Live](https://www.youtube.com/watch?v=KkeaQ4iSXlg)"
 End:
 
-Object: 35.8019 -97.4723 20
-  Icon: 1
-  Text: 0,1,1,"🔴NOW: Strong Tornado Threat Coverage With LIVE Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=xZKcBJUmZHM)"
-End:
-
-Object: 35.7896 -97.9889 20
-  Icon: 1
-  Text: 0,1,1,"🔴GladiatorWX LIVE Storm Chasing - SIGNIFICANT TORNADOES 🔴 3/10/2026 🔴 [Live](https://www.youtube.com/watch?v=ivBIudXXYc8)"
-End:
-
-Object: 35.5530 -97.6814 20
+Object: 35.4177 -97.4590 20
   Icon: 1
   Text: 0,1,1,"HUGE DAY for Tornadoes - Chasers on the Ground Live 🔴 [Live](https://www.youtube.com/watch?v=u61WsDguht8)"
 End:
 
-Object: 35.5013 -97.8015 20
+Object: 35.1007 -97.7760 20
   Icon: 1
-  Text: 0,1,1,"LIVE STORM CHASER 🌪️ INTENSE TORNADOES &amp; MASSIVE HAIL POSSIBLE IN ILLINOIS | 3/10/26 🔴 [Live](https://www.youtube.com/watch?v=rJe8NYZB83M)"
+  Text: 0,1,1,"🔴GladiatorWX LIVE Storm Chasing - SIGNIFICANT TORNADOES 🔴 3/10/2026 🔴 [Live](https://www.youtube.com/watch?v=ivBIudXXYc8)"
 End:
 
-Object: 35.3999 -97.4594 20
-  Icon: 1
-  Text: 0,1,1,"Live Texas Weather 24/7 | Real-Time Radar, Warnings &amp; Cameras 🔴 [Live](https://www.youtube.com/watch?v=QCXxb4Qy66Y)"
-End:
-
-Object: 35.4075 -97.5945 20
-  Icon: 1
-  Text: 0,1,1,"🔴 Midwest Tornado OUTBREAK - LIVE Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=daw6-CcEFjk)"
-End:
-
-Object: 35.7465 -97.8339 20
-  Icon: 1
-  Text: 0,1,1,"LIVE TORNADO Chase In Illinois and Indiana 🔴 [Live](https://www.youtube.com/watch?v=VSExrU5mAO4)"
-End:
-
-Object: 35.9006 -97.2063 20
+Object: 35.8048 -97.3798 20
   Icon: 1
   Text: 0,1,1,"🔴LIVE STORM CHASER🔴 Significant Tornado Risk in Illinois! 🔴 [Live](https://www.youtube.com/watch?v=tFs7tAWso4A)"
 End:
 
-Object: 35.5634 -97.4520 20
+Object: 35.4003 -97.5831 20
   Icon: 1
-  Text: 0,1,1,"LIVE Storm Chase: Tornado Threat in the Midwest 🔴 [Live](https://www.youtube.com/watch?v=PFoZ-spST_c)"
+  Text: 0,1,1,"LIVE STORM CHASER 🌪️ INTENSE TORNADOES &amp; MASSIVE HAIL POSSIBLE IN ILLINOIS | 3/10/26 🔴 [Live](https://www.youtube.com/watch?v=rJe8NYZB83M)"
 End:
 
-Object: 35.5593 -97.3337 20
+Object: 35.5694 -97.3782 20
+  Icon: 1
+  Text: 0,1,1,"LIVE TORNADO Chase In Illinois and Indiana 🔴 [Live](https://www.youtube.com/watch?v=VSExrU5mAO4)"
+End:
+
+Object: 35.4485 -97.0754 20
+  Icon: 1
+  Text: 0,1,1,"Live Texas Weather 24/7 | Real-Time Radar, Warnings &amp; Cameras 🔴 [Live](https://www.youtube.com/watch?v=QCXxb4Qy66Y)"
+End:
+
+Object: 35.2003 -97.0849 20
+  Icon: 1
+  Text: 0,1,1,"🔴 Midwest Tornado OUTBREAK - LIVE Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=daw6-CcEFjk)"
+End:
+
+Object: 35.0537 -97.2840 20
+  Icon: 1
+  Text: 0,1,1,"Live Northern Illinois Tornado Threat 🔴 [Live](https://www.youtube.com/watch?v=DrlbWhp42V4)"
+End:
+
+Object: 35.7795 -97.9704 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE - TORNADO WATCH IN TEXAS + LEVEL 4 TORNADO RISK IN IL &amp; IN - WITH YALLBOT 🔴 [Live](https://www.youtube.com/watch?v=ezp-7eLXBVs)"
 End:
