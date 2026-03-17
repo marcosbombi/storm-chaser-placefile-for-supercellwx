@@ -1,129 +1,129 @@
-# Generated: 2026-03-17T19:44:27.152240Z
+# Generated: 2026-03-17T20:24:13.888232Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.4464 -97.5502 20
+Object: 35.7029 -97.1479 20
   Icon: 1
   Text: 0,1,1,"Tornadoes &amp; Supercell Thunderstorms – 24/7 Streamcast. 🔴 [Live](https://www.youtube.com/watch?v=9BnH3kg3ELs)"
 End:
 
-Object: 35.4567 -97.1138 20
+Object: 35.1654 -97.7705 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=bgnd-21LNh0)"
 End:
 
-Object: 35.7479 -97.2775 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE - DANGEROUS WHITEOUTS - I-90 Crashes In PA - Heavy Snow In NY &amp; MI WITH YALLBOT 🔴 [Live](https://www.youtube.com/watch?v=-EvkHNtNqYc)"
-End:
-
-Object: 35.4115 -97.6514 20
+Object: 35.2312 -97.4190 20
   Icon: 1
   Text: 0,1,1,"Live Texas Weather 24/7 | Real-Time Radar, Warnings &amp; Cameras 🔴 [Live](https://www.youtube.com/watch?v=QCXxb4Qy66Y)"
 End:
 
-Object: 35.5981 -97.4033 20
+Object: 35.2952 -97.5999 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE - HEAVY LAKE EFFECT SNOW &amp; RECORD HEAT - Extreme Weather Split Across USA WITH YALLBOT 🔴 [Live](https://www.youtube.com/watch?v=-EvkHNtNqYc)"
+End:
+
+Object: 35.2770 -97.8203 20
   Icon: 1
   Text: 0,1,1,"🔴Storm Chasers Live |Historic Winter Storm Aftermath More Then 36 Inches Snowfall Recored | | Ryan 🔴 [Live](https://www.youtube.com/watch?v=T6Ri1oTx7Zc)"
 End:
 
-Object: 35.2383 -97.4837 20
+Object: 35.1076 -97.0114 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Severe Weather Coverage - Live Weather Cameras Across The United States (BETA) 🔴 [Live](https://www.youtube.com/watch?v=sgJ14rQRUgQ)"
 End:
 
-Object: 35.0415 -97.6086 20
+Object: 35.9470 -97.9093 20
   Icon: 1
   Text: 0,1,1,"🔴 Texas Weather Live 24/7 | Real-Time Radar, Severe Alerts &amp; Forecasts + Music 🔴 [Live](https://www.youtube.com/watch?v=YTBVWWnHjNs)"
 End:
 
-Object: 35.8636 -97.0370 20
+Object: 35.1355 -97.9535 20
   Icon: 1
   Text: 0,1,1,"🌪️ LIVE: 24/7 Midwest Storm Radar | Real-Time Warnings, Tornado &amp; Severe Weather Coverage 🔴 [Live](https://www.youtube.com/watch?v=XUvHNh1bEkI)"
 End:
 
-Object: 35.8638 -97.7402 20
-  Icon: 1
-  Text: 0,1,1,"Alabama Weather Network Live Channel 🔴 [Live](https://www.youtube.com/watch?v=AHKTKRC9K28)"
-End:
-
-Object: 35.2825 -97.8541 20
-  Icon: 1
-  Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
-End:
-
-Object: 35.9006 -97.1111 20
-  Icon: 1
-  Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
-End:
-
-Object: 35.9883 -97.0226 20
-  Icon: 1
-  Text: 0,1,1,"LIVE WISH WEATHER RAW: 24/7 Radar &amp; Unscripted Weather Chats | Storm Track 8 | Indiana 🔴 [Live](https://www.youtube.com/watch?v=G65gqf7wRnY)"
-End:
-
-Object: 35.1088 -97.2764 20
-  Icon: 1
-  Text: 0,1,1,"WeatherView 🔴 [Live](https://www.youtube.com/watch?v=N1gjdecDnVI)"
-End:
-
-Object: 35.1170 -97.1346 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE: 45 Weather Now 24/7 | National Radar, Alerts &amp; Local Forecasts for 50+ US Cities 🔴 [Live](https://www.youtube.com/watch?v=yoWgjNun3yA)"
-End:
-
-Object: 35.2445 -97.3859 20
-  Icon: 1
-  Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
-End:
-
-Object: 35.6011 -97.1331 20
+Object: 35.4967 -97.4771 20
   Icon: 1
   Text: 0,1,1,"Tornadoes, Hurricanes &amp; Earth’s Most EXTREME Disasters | Mega Disaster S1 🔴 [Live](https://www.youtube.com/watch?v=r0GLimENLjw)"
 End:
 
-Object: 35.2984 -97.2280 20
+Object: 35.7612 -97.3005 20
+  Icon: 1
+  Text: 0,1,1,"Alabama Weather Network Live Channel 🔴 [Live](https://www.youtube.com/watch?v=AHKTKRC9K28)"
+End:
+
+Object: 35.2494 -97.7873 20
+  Icon: 1
+  Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
+End:
+
+Object: 35.7921 -97.2429 20
+  Icon: 1
+  Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
+End:
+
+Object: 35.4592 -97.6396 20
+  Icon: 1
+  Text: 0,1,1,"LIVE WISH WEATHER RAW: 24/7 Radar &amp; Unscripted Weather Chats | Storm Track 8 | Indiana 🔴 [Live](https://www.youtube.com/watch?v=G65gqf7wRnY)"
+End:
+
+Object: 35.3548 -97.5493 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE: 45 Weather Now 24/7 | National Radar, Alerts &amp; Local Forecasts for 50+ US Cities 🔴 [Live](https://www.youtube.com/watch?v=yoWgjNun3yA)"
+End:
+
+Object: 35.1778 -97.6195 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE NOW: Texarkana Area Police &amp; Fire Scanner Traffic 🔴 [Live](https://www.youtube.com/watch?v=gb_iipjltPk)"
+End:
+
+Object: 35.6810 -97.1904 20
+  Icon: 1
+  Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
+End:
+
+Object: 35.6869 -97.4088 20
   Icon: 1
   Text: 0,1,1,"LIVE Northern Lights RIGHT NOW! March 16 2026 🔴 [Live](https://www.youtube.com/watch?v=YfF0ngef-WA)"
 End:
 
-Object: 35.4396 -97.0023 20
+Object: 35.7941 -97.4922 20
   Icon: 1
   Text: 0,1,1,"News 9 Live Newscasts and 24/7 streaming 🔴 [Live](https://www.youtube.com/watch?v=PunPydgRozo)"
 End:
 
-Object: 35.6493 -97.3749 20
+Object: 35.1717 -97.8841 20
   Icon: 1
   Text: 0,1,1,"Eliminate Insomnia vs Stress To Fall Asleep Fast With Terrible Hurricane And Powerful Thunder Sounds 🔴 [Live](https://www.youtube.com/watch?v=5awsvTeNMQQ)"
 End:
 
-Object: 35.3457 -97.9632 20
+Object: 35.5674 -97.8596 20
   Icon: 1
   Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
 End:
 
-Object: 35.9395 -97.1618 20
+Object: 35.6170 -97.0483 20
   Icon: 1
   Text: 0,1,1,"🔴 Heavy Rain and Thunder Sounds 24/7 - Deep Sleep | Thunderstorm for Sleeping - Pure Relaxing Vibes 🔴 [Live](https://www.youtube.com/watch?v=cI0zN1nG3PQ)"
 End:
 
-Object: 35.5938 -97.1557 20
+Object: 35.7068 -97.5211 20
   Icon: 1
   Text: 0,1,1,"Live Earthquake Monitoring | GlobalQuake 🔴 [Live](https://www.youtube.com/watch?v=rvtygG4n6ew)"
 End:
 
-Object: 35.1957 -97.0997 20
+Object: 35.7413 -97.4416 20
   Icon: 1
   Text: 0,1,1,"WDTN - Beavercreek Camera 🔴 [Live](https://www.youtube.com/watch?v=D9flnb2pQDc)"
 End:
 
-Object: 35.8019 -97.5347 20
+Object: 35.0063 -97.5883 20
   Icon: 1
   Text: 0,1,1,"CRITICAL FIRE WEATHER | OKLAHOMA | LIVE CHASING | 🔴 [Live](https://www.youtube.com/watch?v=9geJrgm_IQM)"
 End:
 
-Object: 35.3042 -97.4851 20
+Object: 35.2197 -97.1496 20
   Icon: 1
-  Text: 0,1,1,"🔴 Rain on a Tin Roof for Sleeping 24/7, Deep Sleep with Heavy Rain &amp; Thunder on Metal Roof at Night 🔴 [Live](https://www.youtube.com/watch?v=KUqG5JCFPoU)"
+  Text: 0,1,1,"🔴 LIVE! 24 Hours of Weird But True Full Episodes! 📺🔬 | @NatGeoKids 🔴 [Live](https://www.youtube.com/watch?v=42QyI_w6bEg)"
 End:
