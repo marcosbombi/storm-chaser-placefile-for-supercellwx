@@ -1,129 +1,129 @@
-# Generated: 2026-04-09T22:08:10.810095Z
+# Generated: 2026-04-09T23:00:29.489472Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.0298 -97.7574 20
+Object: 35.4529 -97.3229 20
+  Icon: 1
+  Text: 0,1,1,"LIVE Storm Chaser - Kansas/Nebraska Tornado Potential 🔴 [Live](https://www.youtube.com/watch?v=fdzB-DQsL7k)"
+End:
+
+Object: 35.9236 -97.5679 20
   Icon: 1
   Text: 0,1,1,"Sneaky NE Kansas Tornado Threat - Live Storm Chase 🔴 [Live](https://www.youtube.com/watch?v=zgNHSevyIXI)"
 End:
 
-Object: 35.3666 -97.8598 20
+Object: 35.1576 -97.7385 20
   Icon: 1
-  Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=v0Zi3Kd1prw)"
+  Text: 0,1,1,"LIVE: Tornado Threat in Kansas | Supercell Storms, Large Hail &amp; Tornado Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=wF8eeN3jRjw)"
 End:
 
-Object: 35.0274 -97.7482 20
+Object: 35.5844 -97.0646 20
   Icon: 1
-  Text: 0,1,1,"🔴 LIVE - Multi-Day Severe Weather Threat Ahead - 24/7 Radar With YallBot 🔴 [Live](https://www.youtube.com/watch?v=rqHW2HhgGQ0)"
+  Text: 0,1,1,"LIVE TORNADO CHASE: Kansas - 9 April, 2026 🔴 [Live](https://www.youtube.com/watch?v=sm0oufqn7b0)"
 End:
 
-Object: 35.9262 -97.2177 20
-  Icon: 1
-  Text: 0,1,1,"Full Overlays Test (Not An Active Chase) 🔴 [Live](https://www.youtube.com/watch?v=6Y7vWD4wzIU)"
-End:
-
-Object: 35.8529 -97.9412 20
+Object: 35.2828 -97.3203 20
   Icon: 1
   Text: 0,1,1,"Big Nebraska/Kansas Hail Storms 🔴 LIVE STORM CHASING 🔴 [Live](https://www.youtube.com/watch?v=E_Xk2JMkvQI)"
 End:
 
-Object: 35.7881 -97.0305 20
+Object: 35.9678 -97.2488 20
   Icon: 1
-  Text: 0,1,1,"🔴LIVE NOW: 24/7 Weather Alerts Coverage | WX Rundown 🔴 [Live](https://www.youtube.com/watch?v=5KkmVqY_FJ4)"
+  Text: 0,1,1,"🔴 LIVE - Severe Storms Developing In Kansas &amp; Nebraska - 24/7 Radar With YallBot 🔴 [Live](https://www.youtube.com/watch?v=rqHW2HhgGQ0)"
 End:
 
-Object: 35.5323 -97.2079 20
+Object: 35.6119 -97.5913 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=v0Zi3Kd1prw)"
+End:
+
+Object: 35.8950 -97.4265 20
+  Icon: 1
+  Text: 0,1,1,"Full Overlays Test (Not An Active Chase) 🔴 [Live](https://www.youtube.com/watch?v=6Y7vWD4wzIU)"
+End:
+
+Object: 35.9993 -97.1533 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Severe Weather Coverage - Live Weather Cameras Across The United States (BETA) 🔴 [Live](https://www.youtube.com/watch?v=sgJ14rQRUgQ)"
 End:
 
-Object: 35.1414 -97.3277 20
+Object: 35.3017 -97.7040 20
   Icon: 1
   Text: 0,1,1,"🔴 Live | Severe Storm Chasing Live Today| Storm Chasers Live | Ryan Hall Y All Live | Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=TfW9Eacd3s0)"
 End:
 
-Object: 35.0674 -97.5661 20
+Object: 35.2298 -97.7575 20
+  Icon: 1
+  Text: 0,1,1,"🔴LIVE NOW: 24/7 Weather Alerts Coverage | WX Rundown 🔴 [Live](https://www.youtube.com/watch?v=5KkmVqY_FJ4)"
+End:
+
+Object: 35.7662 -97.2811 20
   Icon: 1
   Text: 0,1,1,"🔴 Texas Weather Live 24/7 | Real-Time Radar, Severe Alerts &amp; Forecasts + Music 🔴 [Live](https://www.youtube.com/watch?v=j3-UFQ9Gpjs)"
 End:
 
-Object: 35.4690 -97.4195 20
+Object: 35.8724 -97.9240 20
   Icon: 1
   Text: 0,1,1,"Live Storm Chase - Kansas/Nebraska !storm !chase !social !helpthechase !radaromega 🔴 [Live](https://www.youtube.com/watch?v=zzrGa5R5lzU)"
 End:
 
-Object: 35.9621 -97.1159 20
-  Icon: 1
-  Text: 0,1,1,"Alabama Weather Network Live Channel 🔴 [Live](https://www.youtube.com/watch?v=AHKTKRC9K28)"
-End:
-
-Object: 35.5874 -97.0087 20
-  Icon: 1
-  Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
-End:
-
-Object: 35.6998 -97.0195 20
-  Icon: 1
-  Text: 0,1,1,"LIVE WISH WEATHER RAW: 24/7 Radar &amp; Unscripted Weather Chats | Storm Track 8 | Indiana 🔴 [Live](https://www.youtube.com/watch?v=G65gqf7wRnY)"
-End:
-
-Object: 35.9220 -97.0561 20
-  Icon: 1
-  Text: 0,1,1,"Tornadoes, Supercells &amp; Extreme Weather — Real Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=hcSFrvbBcJI)"
-End:
-
-Object: 35.2930 -97.8431 20
-  Icon: 1
-  Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
-End:
-
-Object: 35.0545 -97.7545 20
+Object: 35.0234 -97.2380 20
   Icon: 1
   Text: 0,1,1,"Tornadoes, Hurricanes &amp; Earth’s Most EXTREME Disasters | Mega Disaster S1 🔴 [Live](https://www.youtube.com/watch?v=r0GLimENLjw)"
 End:
 
-Object: 35.9683 -97.0873 20
+Object: 35.3969 -97.3412 20
+  Icon: 1
+  Text: 0,1,1,"Alabama Weather Network Live Channel 🔴 [Live](https://www.youtube.com/watch?v=AHKTKRC9K28)"
+End:
+
+Object: 35.1335 -97.7537 20
+  Icon: 1
+  Text: 0,1,1,"LIVE WISH WEATHER RAW: 24/7 Radar &amp; Unscripted Weather Chats | Storm Track 8 | Indiana 🔴 [Live](https://www.youtube.com/watch?v=G65gqf7wRnY)"
+End:
+
+Object: 35.2347 -97.2209 20
+  Icon: 1
+  Text: 0,1,1,"Tornadoes, Supercells &amp; Extreme Weather — Real Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=hcSFrvbBcJI)"
+End:
+
+Object: 35.0539 -97.6428 20
+  Icon: 1
+  Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
+End:
+
+Object: 35.8626 -97.5568 20
+  Icon: 1
+  Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
+End:
+
+Object: 35.0673 -97.5985 20
   Icon: 1
   Text: 0,1,1,"🔴 24/7 LIVE: Epic Natural Disasters: Hurricanes, Tornadoes &amp; Killer Storms | Beyond Catastrophes 🔴 [Live](https://www.youtube.com/watch?v=dLELuPx1Vg4)"
 End:
 
-Object: 35.0649 -97.7442 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE: 45 Weather Now 24/7 | National Radar, Alerts &amp; Local Forecasts for 50+ US Cities 🔴 [Live](https://www.youtube.com/watch?v=yoWgjNun3yA)"
-End:
-
-Object: 35.1650 -97.7563 20
+Object: 35.6535 -97.4515 20
   Icon: 1
   Text: 0,1,1,"Dodge City Tornado Outbreak — Real Storm Chase Dashcam (Full Chase) 🔴 [Live](https://www.youtube.com/watch?v=6Mo5NHCr7qk)"
 End:
 
-Object: 35.5940 -97.1072 20
+Object: 35.6160 -97.3103 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE: 45 Weather Now 24/7 | National Radar, Alerts &amp; Local Forecasts for 50+ US Cities 🔴 [Live](https://www.youtube.com/watch?v=yoWgjNun3yA)"
+End:
+
+Object: 35.7715 -97.0200 20
   Icon: 1
   Text: 0,1,1,"Nebraska Weather TV 🔴 [Live](https://www.youtube.com/watch?v=qN9IR9TBKjI)"
 End:
 
-Object: 35.7713 -97.7515 20
-  Icon: 1
-  Text: 0,1,1,"News 9 Live Newscasts and 24/7 streaming 🔴 [Live](https://www.youtube.com/watch?v=PunPydgRozo)"
-End:
-
-Object: 35.4571 -97.9793 20
-  Icon: 1
-  Text: 0,1,1,"Eliminate Insomnia vs Stress To Fall Asleep Fast With Terrible Hurricane And Powerful Thunder Sounds 🔴 [Live](https://www.youtube.com/watch?v=5awsvTeNMQQ)"
-End:
-
-Object: 35.8459 -97.4038 20
+Object: 35.6870 -97.2174 20
   Icon: 1
   Text: 0,1,1,"Earth’s Most EXTREME Disasters—Caught on Camera | Mega Disasters S1 🔴 [Live](https://www.youtube.com/watch?v=si6Zqg9DKfw)"
 End:
 
-Object: 35.7957 -97.2013 20
+Object: 35.4792 -97.4583 20
   Icon: 1
-  Text: 0,1,1,"FOX19 NOW 24/7 Weather Channel 🔴 [Live](https://www.youtube.com/watch?v=fc9NcfJNFlY)"
-End:
-
-Object: 35.7567 -97.5463 20
-  Icon: 1
-  Text: 0,1,1,"Springfield, Ohio 🔴 [Live](https://www.youtube.com/watch?v=AG3Ence_UIE)"
+  Text: 0,1,1,"Eliminate Insomnia vs Stress To Fall Asleep Fast With Terrible Hurricane And Powerful Thunder Sounds 🔴 [Live](https://www.youtube.com/watch?v=5awsvTeNMQQ)"
 End:
