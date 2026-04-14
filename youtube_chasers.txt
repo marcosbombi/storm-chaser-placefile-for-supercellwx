@@ -1,129 +1,129 @@
-# Generated: 2026-04-14T22:54:43.650949Z
+# Generated: 2026-04-14T23:44:30.787369Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.2265 -97.2745 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE - TORNADO ON THE GROUND - With Storm Chasers... 🔴 [Live](https://www.youtube.com/watch?v=Gpf7ssNZQXs)"
-End:
-
-Object: 35.9802 -97.2064 20
+Object: 35.0556 -97.5184 20
   Icon: 1
   Text: 0,1,1,"🔴 BREAKING LARGE TORNADO ON THE GROUND - Large Tornadoes Possible With LIVE Storm Chasers... 🔴 [Live](https://www.youtube.com/watch?v=OcpMXZk60S0)"
 End:
 
-Object: 35.9471 -97.1225 20
+Object: 35.9021 -97.0659 20
   Icon: 1
-  Text: 0,1,1,"🔴 LIVE ACTIVE TORNADO WARNING — Midwest Severe Threat + Live Chasers | GMWeather 🔴 [Live](https://www.youtube.com/watch?v=0Vou1_ny9Bw)"
+  Text: 0,1,1,"🔴 LIVE - TORNADO OUTBREAK COVERAGE - With Storm Chasers On The Ground... 🔴 [Live](https://www.youtube.com/watch?v=Gpf7ssNZQXs)"
 End:
 
-Object: 35.5591 -97.0241 20
+Object: 35.1194 -97.8821 20
   Icon: 1
   Text: 0,1,1,"Breaking Severe Weather / Tornado Coverage With Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=UPPpTRrxGWM)"
 End:
 
-Object: 35.9021 -97.6438 20
-  Icon: 1
-  Text: 0,1,1,"STRONG TORNADOES IN IA/WI: LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=7cEhZFlNtfE)"
-End:
-
-Object: 35.5387 -97.1287 20
+Object: 35.1801 -97.5576 20
   Icon: 1
   Text: 0,1,1,"🔴LIVE Storm Chasing - Tornado Outbreak - Iowa, Illinois, &amp; Wisconsin 🔴 [Live](https://www.youtube.com/watch?v=QqKETqQoDQI)"
 End:
 
-Object: 35.5146 -97.3055 20
+Object: 35.8904 -97.9002 20
   Icon: 1
-  Text: 0,1,1,"🔴LIVE MADISON WISCONSIN TORNADO WARNING  - LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=oyiZgSkYhI8)"
+  Text: 0,1,1,"STRONG TORNADOES IN IA/WI: LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=7cEhZFlNtfE)"
 End:
 
-Object: 35.5788 -97.9524 20
+Object: 35.7577 -97.4225 20
   Icon: 1
   Text: 0,1,1,"LIVE Tornado Outbreak Possible | Iowa, Wisconsin &amp; Illinois Supercell Storm Chase 🔴 [Live](https://www.youtube.com/watch?v=cuygsT9ipHU)"
 End:
 
-Object: 35.7636 -97.9054 20
-  Icon: 1
-  Text: 0,1,1,"TORNADO WARNING MADISON WISCONSIN 🔴 [Live](https://www.youtube.com/watch?v=0sz3KtVPCOc)"
-End:
-
-Object: 35.8686 -97.3038 20
-  Icon: 1
-  Text: 0,1,1,"More Midwestern Tornadoes 🔴 Live Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=agcq6M-DCgs)"
-End:
-
-Object: 35.9427 -97.1542 20
+Object: 35.5613 -97.9199 20
   Icon: 1
   Text: 0,1,1,"LIVE TORNADO CHASE: Oklahoma - 14 April, 2026 🔴 [Live](https://www.youtube.com/watch?v=DPAOpCxK8U8)"
 End:
 
-Object: 35.5505 -97.0945 20
+Object: 35.0866 -97.1826 20
+  Icon: 1
+  Text: 0,1,1,"TORNADO WARNING MADISON WISCONSIN 🔴 [Live](https://www.youtube.com/watch?v=0sz3KtVPCOc)"
+End:
+
+Object: 35.8786 -97.8423 20
+  Icon: 1
+  Text: 0,1,1,"🔴LIVE MADISON WISCONSIN TORNADO WARNING  - LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=oyiZgSkYhI8)"
+End:
+
+Object: 35.0146 -97.1181 20
+  Icon: 1
+  Text: 0,1,1,"More Midwestern Tornadoes 🔴 Live Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=agcq6M-DCgs)"
+End:
+
+Object: 35.0585 -97.8260 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE - MILLIONS UNDER TORNADO WARNINGS — Midwest Tornado Threat + Live Chasers | GMWeather 🔴 [Live](https://www.youtube.com/watch?v=0Vou1_ny9Bw)"
+End:
+
+Object: 35.9924 -97.5172 20
   Icon: 1
   Text: 0,1,1,"🔴LIVE: Strong Tornado Threat in Eastern Iowa (Enhanced Risk) 🔴 [Live](https://www.youtube.com/watch?v=7PRbw60vHtA)"
 End:
 
-Object: 35.6954 -97.3272 20
+Object: 35.6961 -97.6575 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: TORNADO OUTBREAK POSSIBLE 🔴 [Live](https://www.youtube.com/watch?v=ulfN256n6So)"
 End:
 
-Object: 35.1418 -97.2185 20
+Object: 35.7844 -97.7477 20
   Icon: 1
   Text: 0,1,1,"🔴  Storm Chasing Live Today| Tornado Live Intercept  Minnnestoa 13 April 2026 | Ryan Hall Y All Live 🔴 [Live](https://www.youtube.com/watch?v=pY2etMTicZY)"
 End:
 
-Object: 35.8723 -97.2391 20
-  Icon: 1
-  Text: 0,1,1,"LIVE Storm Chasers - Tracking Tornadic Supercells In Iowa/Wisconsin/Illinois 🔴 [Live](https://www.youtube.com/watch?v=u1YU6-K_Edc)"
-End:
-
-Object: 35.4614 -97.3882 20
-  Icon: 1
-  Text: 0,1,1,"Southern Plains Enhanced Severe Threat, Tornadoes Possible (April 14, 2026) 🔴 [Live](https://www.youtube.com/watch?v=DhZn61fn598)"
-End:
-
-Object: 35.8209 -97.2967 20
-  Icon: 1
-  Text: 0,1,1,"🔴SIGNIFICANT SEVERE THREAT | LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=Oe5VK5bgnhQ)"
-End:
-
-Object: 35.2896 -97.2322 20
-  Icon: 1
-  Text: 0,1,1,"🔴LIVE - Tornado &amp; Severe Weather Coverage April 14, 2026 🔴 [Live](https://www.youtube.com/watch?v=EGM30DukCG4)"
-End:
-
-Object: 35.2104 -97.6175 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE - Confirmed Tornado On The Ground In WI - Tracking Destructive Storms With YallBot 🔴 [Live](https://www.youtube.com/watch?v=rqHW2HhgGQ0)"
-End:
-
-Object: 35.9639 -97.8857 20
-  Icon: 1
-  Text: 0,1,1,"BIGGER Tornado Risk Today - Chasers on the Ground 🔴 [Live](https://www.youtube.com/watch?v=eUXYQvcRKkg)"
-End:
-
-Object: 35.5620 -97.2628 20
-  Icon: 1
-  Text: 0,1,1,"LIVE STORM CHASING (April 14, 2026) 🔴 [Live](https://www.youtube.com/watch?v=W7pNKClIk1E)"
-End:
-
-Object: 35.3311 -97.6679 20
+Object: 35.7968 -97.4395 20
   Icon: 1
   Text: 0,1,1,"Strong Tornado Threat In The Midwest! - Live Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=qXdUvuu3lHA)"
 End:
 
-Object: 35.2548 -97.3965 20
+Object: 35.1102 -97.5993 20
+  Icon: 1
+  Text: 0,1,1,"Southern Plains Enhanced Severe Threat, Tornadoes Possible (April 14, 2026) 🔴 [Live](https://www.youtube.com/watch?v=DhZn61fn598)"
+End:
+
+Object: 35.6567 -97.1778 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE NOW: Multi State Tornado Threat | Storm Chasers On Location 🔴 [Live](https://www.youtube.com/watch?v=xytG3JClQ2Y)"
 End:
 
-Object: 35.7324 -97.6390 20
+Object: 35.2707 -97.8279 20
+  Icon: 1
+  Text: 0,1,1,"🔴SIGNIFICANT SEVERE THREAT | LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=Oe5VK5bgnhQ)"
+End:
+
+Object: 35.0776 -97.5658 20
+  Icon: 1
+  Text: 0,1,1,"LIVE Storm Chasers - Tracking Tornadic Supercells In Iowa/Wisconsin/Illinois 🔴 [Live](https://www.youtube.com/watch?v=u1YU6-K_Edc)"
+End:
+
+Object: 35.0231 -97.9366 20
+  Icon: 1
+  Text: 0,1,1,"🔴LIVE - Tornado &amp; Severe Weather Coverage April 14, 2026 🔴 [Live](https://www.youtube.com/watch?v=EGM30DukCG4)"
+End:
+
+Object: 35.9939 -97.6439 20
   Icon: 1
   Text: 0,1,1,"LIVE STORM CHASING - (CHANCE FOR STRONG TORNADOES) 🔴 [Live](https://www.youtube.com/watch?v=bhcwpeyuJQ4)"
 End:
 
-Object: 35.8436 -97.6993 20
+Object: 35.1363 -97.5906 20
+  Icon: 1
+  Text: 0,1,1,"BIGGER Tornado Risk Today - Chasers on the Ground 🔴 [Live](https://www.youtube.com/watch?v=eUXYQvcRKkg)"
+End:
+
+Object: 35.4123 -97.8802 20
+  Icon: 1
+  Text: 0,1,1,"🔴Storm Chasers Live🔴PA Severe Weather! 🔴 [Live](https://www.youtube.com/watch?v=3jmyaCPubnk)"
+End:
+
+Object: 35.7401 -97.9337 20
+  Icon: 1
+  Text: 0,1,1,"OHIO 4/14/26 Severe Weather Event Live Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=7VzG97SCVZ8)"
+End:
+
+Object: 35.7255 -97.5516 20
   Icon: 1
   Text: 0,1,1,"🔴 Midwest Tornado Outbreak | Day 3 - LIVE Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=HOJs4JFxtZ0)"
 End:
