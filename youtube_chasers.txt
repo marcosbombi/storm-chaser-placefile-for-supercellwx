@@ -1,129 +1,129 @@
-# Generated: 2026-04-24T21:27:23.152696Z
+# Generated: 2026-04-24T22:10:56.773269Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.4444 -97.7981 20
+Object: 35.1951 -97.7424 20
   Icon: 1
-  Text: 0,1,1,"🔴 BREAKING TORNADO WARNING IN OKLAHOMA - Large Tornadoes With LIVE Storm Chasers... 🔴 [Live](https://www.youtube.com/watch?v=QSKk1COXgW8)"
+  Text: 0,1,1,"🔴 BREAKING TORNADO ON THE GROUND - Large Tornadoes With LIVE Storm Chasers... 🔴 [Live](https://www.youtube.com/watch?v=QSKk1COXgW8)"
 End:
 
-Object: 35.1839 -97.9031 20
+Object: 35.9497 -97.1947 20
   Icon: 1
-  Text: 0,1,1,"🔴 BREAKING - TORNADO WATCH!!  STORM CHASING - OKLAHOMA - LIVE 🔴 [Live](https://www.youtube.com/watch?v=-fjQB1zxtMk)"
+  Text: 0,1,1,"🟥Live Storm Chaser - Hunting tornadoes in OK/AR 🔴 [Live](https://www.youtube.com/watch?v=2AO9GBJBkV0)"
 End:
 
-Object: 35.4507 -97.2955 20
-  Icon: 1
-  Text: 0,1,1,"🔴LIVE | Storm Chasing Kansas/Oklahoma #tornado #severeweather #kansas #oklahoma 🔴 [Live](https://www.youtube.com/watch?v=5neiEjim6jU)"
-End:
-
-Object: 35.4165 -97.6457 20
-  Icon: 1
-  Text: 0,1,1,"🔴NOW: 2 Tornado Warnings In Oklahoma With LIVE Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=zC40O4fdVAU)"
-End:
-
-Object: 35.3896 -97.8324 20
-  Icon: 1
-  Text: 0,1,1,"LIVE Tornado Threat Increasing in Oklahoma &amp; Texas | Dangerous Supercell Storms | Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=zCPjnsdvagc)"
-End:
-
-Object: 35.5106 -97.9870 20
-  Icon: 1
-  Text: 0,1,1,"Live Storm Chasers | Live View Tornado Warned Supercell NOW  (Atoka, OK) 🔴 [Live](https://www.youtube.com/watch?v=6F2xcYCb1kQ)"
-End:
-
-Object: 35.4631 -97.1687 20
+Object: 35.8599 -97.5254 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE - TORNADO RISK COVERAGE - Storm Chasers On The Ground... 🔴 [Live](https://www.youtube.com/watch?v=9-ZsQU9TOnk)"
 End:
 
-Object: 35.6113 -97.9774 20
+Object: 35.4133 -97.9704 20
   Icon: 1
-  Text: 0,1,1,"ARLATEX TORNADO THREAT: LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=P1IY80Doo9s)"
+  Text: 0,1,1,"🔴 BREAKING - TORNADO WATCH!!  STORM CHASING - OKLAHOMA - LIVE 🔴 [Live](https://www.youtube.com/watch?v=-fjQB1zxtMk)"
 End:
 
-Object: 35.1428 -97.4859 20
+Object: 35.0149 -97.0189 20
   Icon: 1
-  Text: 0,1,1,"🔴  Storm Chasers Live |  Tornado Intercept  On Ground |  Max Velocity  Storm Live 🔴 [Live](https://www.youtube.com/watch?v=-284UGzo6so)"
+  Text: 0,1,1,"🔴LIVE | Storm Chasing Kansas/Oklahoma #tornado #severeweather #kansas #oklahoma 🔴 [Live](https://www.youtube.com/watch?v=5neiEjim6jU)"
 End:
 
-Object: 35.2604 -97.5312 20
+Object: 35.6461 -97.9979 20
   Icon: 1
-  Text: 0,1,1,"🔴LIVE: Strong Tornadoes Possible – Oklahoma (Enhanced Risk) 🔴 [Live](https://www.youtube.com/watch?v=RwpYMvV8zR4)"
+  Text: 0,1,1,"🔴NOW: Tornado Threat Coverage With LIVE Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=zC40O4fdVAU)"
 End:
 
-Object: 35.8050 -97.8159 20
+Object: 35.0777 -97.7486 20
   Icon: 1
   Text: 0,1,1,"🔴 Southern Plains Severe Weather - LIVE Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=sY5Lfg7qe08)"
 End:
 
-Object: 35.0036 -97.2438 20
+Object: 35.6474 -97.9375 20
+  Icon: 1
+  Text: 0,1,1,"LIVE Tornado Threat Increasing in Oklahoma &amp; Texas | Dangerous Supercell Storms | Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=zCPjnsdvagc)"
+End:
+
+Object: 35.7576 -97.2473 20
+  Icon: 1
+  Text: 0,1,1,"Live Storm Chasers | Live View Tornado Warned Supercell NOW  (Atoka, OK) 🔴 [Live](https://www.youtube.com/watch?v=6F2xcYCb1kQ)"
+End:
+
+Object: 35.1157 -97.0720 20
+  Icon: 1
+  Text: 0,1,1,"ARLATEX TORNADO THREAT: LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=P1IY80Doo9s)"
+End:
+
+Object: 35.1019 -97.3549 20
   Icon: 1
   Text: 0,1,1,"LIVE TORNADO CHASE: Oklahoma - 24 April, 2026 🔴 [Live](https://www.youtube.com/watch?v=BIOWsnoRGAo)"
 End:
 
-Object: 35.9604 -97.8439 20
+Object: 35.5461 -97.9146 20
   Icon: 1
-  Text: 0,1,1,"LIVE STORM CHASER - STRONG Tornado Threat in Oklahoma 🔴 [Live](https://www.youtube.com/watch?v=WJVtmyN8QRY)"
+  Text: 0,1,1,"🔴  Storm Chasers Live |  Tornado Intercept  On Ground |  Max Velocity  Storm Live 🔴 [Live](https://www.youtube.com/watch?v=-284UGzo6so)"
 End:
 
-Object: 35.4841 -97.6296 20
+Object: 35.3011 -97.9544 20
   Icon: 1
-  Text: 0,1,1,"Oklahoma Tornado Warning Friday | April 24, 2026 🔴 [Live](https://www.youtube.com/watch?v=ZI6EG-QScMc)"
+  Text: 0,1,1,"🔴LIVE: Strong Tornadoes Possible – Oklahoma (Enhanced Risk) 🔴 [Live](https://www.youtube.com/watch?v=RwpYMvV8zR4)"
 End:
 
-Object: 35.5219 -97.6768 20
+Object: 35.0671 -97.7749 20
   Icon: 1
-  Text: 0,1,1,"🔴 LIVE - Tornado Warnings In Indianapolis &amp; Oklahoma - 24/7 Weather Alerts &amp; Cameras With YallBot 🔴 [Live](https://www.youtube.com/watch?v=rqHW2HhgGQ0)"
+  Text: 0,1,1,"🔴 LIVE - Tornado Warnings In Indiana &amp; Oklahoma - 24/7 Weather Alerts With YallBot 🔴 [Live](https://www.youtube.com/watch?v=rqHW2HhgGQ0)"
 End:
 
-Object: 35.7317 -97.8360 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE: TORNADO WARNING COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=95QWbWrygRs)"
-End:
-
-Object: 35.7402 -97.8156 20
+Object: 35.8772 -97.4669 20
   Icon: 1
   Text: 0,1,1,"LIVE - Central Oklahoma Severe Weather 🔴 [Live](https://www.youtube.com/watch?v=IMl8TSO8OOk)"
 End:
 
-Object: 35.9038 -97.7793 20
+Object: 35.2586 -97.5117 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Severe Weather Coverage - Live Weather Cameras, Storm Chasers, And Tornado Warnings... 🔴 [Live](https://www.youtube.com/watch?v=sgJ14rQRUgQ)"
 End:
 
-Object: 35.2369 -97.0228 20
+Object: 35.2688 -97.7140 20
+  Icon: 1
+  Text: 0,1,1,"LIVE STORM CHASER - STRONG Tornado Threat in Oklahoma 🔴 [Live](https://www.youtube.com/watch?v=WJVtmyN8QRY)"
+End:
+
+Object: 35.4577 -97.7748 20
+  Icon: 1
+  Text: 0,1,1,"LIVE UPDATE: Matt&#39;s tracking scattered strong storms 🔴 [Live](https://www.youtube.com/watch?v=FAJiPQ3SsH0)"
+End:
+
+Object: 35.5767 -97.8028 20
+  Icon: 1
+  Text: 0,1,1,"LIVE - Storm Chasing Southern Oklahoma 🔴 [Live](https://www.youtube.com/watch?v=RBR5aRxyy0o)"
+End:
+
+Object: 35.7379 -97.8157 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE: TORNADO WARNING COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=95QWbWrygRs)"
+End:
+
+Object: 35.5278 -97.6624 20
   Icon: 1
   Text: 0,1,1,"🚨 LIVE 24/7 SEVERE WEATHER STREAM | TORNADO THREAT NOW | ENHANCED RISK | MARCH 15, 2026 🔴 [Live](https://www.youtube.com/watch?v=H7uWKAzjYjU)"
 End:
 
-Object: 35.8262 -97.9422 20
+Object: 35.8345 -97.7564 20
   Icon: 1
   Text: 0,1,1,"🔴 Texas Weather Live 24/7 | Live Radar, Severe Alerts &amp; Texas Forecasts 🔴 [Live](https://www.youtube.com/watch?v=j3-UFQ9Gpjs)"
 End:
 
-Object: 35.4551 -97.3526 20
-  Icon: 1
-  Text: 0,1,1,"Big Hail and Tornadoes Possible in Oklahoma - Live Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=WOzozinn2u0)"
-End:
-
-Object: 35.4172 -97.2946 20
+Object: 35.4075 -97.1216 20
   Icon: 1
   Text: 0,1,1,"Live Texas Weather 24/7 | Real-Time Radar, Warnings &amp; Cameras 🔴 [Live](https://www.youtube.com/watch?v=mQN3kFqJki8)"
 End:
 
-Object: 35.4259 -97.0427 20
+Object: 35.2102 -97.8901 20
   Icon: 1
-  Text: 0,1,1,"Live Storm Chase - Oklahoma !storm !chase !social !helpthechase !radaromega 🔴 [Live](https://www.youtube.com/watch?v=TWvKQ5ygH50)"
+  Text: 0,1,1,"⛈ LIVE: Severe Weather Cams 24/7 — Tornado, Hurricane &amp; Storm Alerts USA 🔴 [Live](https://www.youtube.com/watch?v=8VuNR16KQ-s)"
 End:
 
-Object: 35.7479 -97.0425 20
+Object: 35.5857 -97.8317 20
   Icon: 1
-  Text: 0,1,1,"🔴 LIVE: Severe Weather Outbreak | AI-Powered Storm Tracking &amp; NWS Alerts 🔴 [Live](https://www.youtube.com/watch?v=WNhtwU4b_Fw)"
-End:
-
-Object: 35.3631 -97.6215 20
-  Icon: 1
-  Text: 0,1,1,"OKLAHOMA OUTFLOW BOUNDARY!  LIVE STORM CHASER! 🔴 [Live](https://www.youtube.com/watch?v=NPgWC_bcVwI)"
+  Text: 0,1,1,"LIVE Severe Weather Coverage | Storm Chaser On The Ground 🔴 [Live](https://www.youtube.com/watch?v=Q3MK4uTSQLs)"
 End:
