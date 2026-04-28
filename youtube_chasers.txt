@@ -1,129 +1,129 @@
-# Generated: 2026-04-28T17:24:46.266659Z
+# Generated: 2026-04-28T19:07:22.394209Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.0180 -97.7623 20
+Object: 35.6620 -97.1074 20
   Icon: 1
-  Text: 0,1,1,"🔴 LIVE: TORNADO WATCH COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=psAqep_FKSo)"
+  Text: 0,1,1,"🔴 BREAKING TORNADO WARNING IN TEXAS - Large Tornadoes Possible With LIVE Storm Chasers... 🔴 [Live](https://www.youtube.com/watch?v=rIWj0hem3LQ)"
 End:
 
-Object: 35.8295 -97.4607 20
+Object: 35.0631 -97.3485 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE: Texas Severe Storm Coverage | Giant Hail &amp; Tornado Risk 🔴 [Live](https://www.youtube.com/watch?v=5ksvt6w6UsI)"
+End:
+
+Object: 35.1986 -97.2474 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE Texas Weather Roundup: North Texas Severe Storms 🔴 [Live](https://www.youtube.com/watch?v=jAPInnRF37E)"
+End:
+
+Object: 35.1758 -97.5520 20
   Icon: 1
   Text: 0,1,1,"🔴LIVE: Enhanced Risk – Tornado &amp; Dangerous Supercells in Arkansas 🔴 [Live](https://www.youtube.com/watch?v=dr7deoQA_50)"
 End:
 
-Object: 35.7295 -97.0348 20
+Object: 35.7001 -97.5179 20
   Icon: 1
-  Text: 0,1,1,"🔴  Storm Chasers Live | Severe Storm Continue Tornado Outbreak Possible Today | Max Velocity Storm 🔴 [Live](https://www.youtube.com/watch?v=5xF79bdxYrk)"
+  Text: 0,1,1,"🔴 LIVE - Destructive Hail &amp; Severe Storms Hitting MO &amp; TX - 24/7 Weather Alerts With YallBot 🔴 [Live](https://www.youtube.com/watch?v=rqHW2HhgGQ0)"
 End:
 
-Object: 35.5722 -97.0408 20
+Object: 35.3574 -97.4900 20
   Icon: 1
-  Text: 0,1,1,"🔴LIVE | Storm Chasing Tornado threat Arkansas #tornado #arkansas 🔴 [Live](https://www.youtube.com/watch?v=UFgpcwoDdsQ)"
+  Text: 0,1,1,"LIVE Tornado &amp; GIANT Hail Threat in Texas | Dangerous Supercells | Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=yWvLltsm2Wo)"
 End:
 
-Object: 35.7212 -97.2288 20
+Object: 35.1741 -97.1930 20
   Icon: 1
-  Text: 0,1,1,"🔴 LIVE - Destructive Storms &amp; Baseball Hail Hitting MO &amp; AR - 24/7 Weather Alerts With YallBot 🔴 [Live](https://www.youtube.com/watch?v=rqHW2HhgGQ0)"
+  Text: 0,1,1,"🔴 LIVE: TORNADO WATCH COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=psAqep_FKSo)"
 End:
 
-Object: 35.7734 -97.1883 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE Severe Weather Coverage - Live Storm Chasers And Tornado Warnings... 🔴 [Live](https://www.youtube.com/watch?v=sgJ14rQRUgQ)"
-End:
-
-Object: 35.3444 -97.4909 20
+Object: 35.6149 -97.5651 20
   Icon: 1
   Text: 0,1,1,"JLR© INVESTIGATES! is live! 🔴 [Live](https://www.youtube.com/watch?v=6P-p4w7hPbE)"
 End:
 
-Object: 35.3988 -97.3111 20
+Object: 35.3994 -97.5432 20
   Icon: 1
-  Text: 0,1,1,"🔴LIVE NOW: Destructive Severe Thunderstorm Warnings Active in AR &amp; MO | Live Radar Coverage 🔴 [Live](https://www.youtube.com/watch?v=5KkmVqY_FJ4)"
+  Text: 0,1,1,"LIVE STORM CHASING | OKLAHOMA | SEVERE WEATHER 🔴 [Live](https://www.youtube.com/watch?v=vBbnMokkSRM)"
 End:
 
-Object: 35.8191 -97.3486 20
+Object: 35.6988 -97.7374 20
   Icon: 1
-  Text: 0,1,1,"🔴 Texas Weather Live 24/7 | Live Radar, Severe Alerts &amp; Texas Forecasts 🔴 [Live](https://www.youtube.com/watch?v=j3-UFQ9Gpjs)"
+  Text: 0,1,1,"🔴 LIVE Severe Weather Coverage - Live Storm Chasers And Tornado Warnings... 🔴 [Live](https://www.youtube.com/watch?v=sgJ14rQRUgQ)"
 End:
 
-Object: 35.7606 -97.8385 20
+Object: 35.7342 -97.8362 20
   Icon: 1
-  Text: 0,1,1,"Live Texas Weather 24/7 | Real-Time Radar, Warnings &amp; Cameras 🔴 [Live](https://www.youtube.com/watch?v=mQN3kFqJki8)"
+  Text: 0,1,1,"🔴  Storm Chasers Live | Severe Storm Continue Tornado Outbreak Possible Today | Max Velocity Storm 🔴 [Live](https://www.youtube.com/watch?v=5xF79bdxYrk)"
 End:
 
-Object: 35.6953 -97.4284 20
+Object: 35.3360 -97.3127 20
+  Icon: 1
+  Text: 0,1,1,"🔴LIVE | Storm Chasing Tornado threat Arkansas #tornado #arkansas 🔴 [Live](https://www.youtube.com/watch?v=UFgpcwoDdsQ)"
+End:
+
+Object: 35.9974 -97.1813 20
   Icon: 1
   Text: 0,1,1,"🔴LIVE Tornado Coverage | Dangerous Setup Across Missouri Into Illinois 🔴 [Live](https://www.youtube.com/watch?v=D3v5IAj2Tzg)"
 End:
 
-Object: 35.6905 -97.3706 20
+Object: 35.9913 -97.7824 20
   Icon: 1
-  Text: 0,1,1,"Alabama Weather Network Live Channel 🔴 [Live](https://www.youtube.com/watch?v=AHKTKRC9K28)"
+  Text: 0,1,1,"🔴LIVE NOW: Tornado Warning in Texas | Live Radar Coverage 🔴 [Live](https://www.youtube.com/watch?v=5KkmVqY_FJ4)"
 End:
 
-Object: 35.4370 -97.8841 20
+Object: 35.2289 -97.8552 20
   Icon: 1
-  Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
+  Text: 0,1,1,"Live Texas Weather 24/7 | Real-Time Radar, Warnings &amp; Cameras 🔴 [Live](https://www.youtube.com/watch?v=mQN3kFqJki8)"
 End:
 
-Object: 35.8593 -97.8496 20
+Object: 35.4269 -97.0492 20
   Icon: 1
-  Text: 0,1,1,"LIVE WISH WEATHER RAW: 24/7 Radar &amp; Unscripted Weather Chats | Storm Track 8 | Indiana 🔴 [Live](https://www.youtube.com/watch?v=G65gqf7wRnY)"
+  Text: 0,1,1,"🔴Storm Chasers Live🔴Giant Hail and Texas Tornado Threat! 🔴 [Live](https://www.youtube.com/watch?v=3qBJQVYzOzc)"
 End:
 
-Object: 35.7966 -97.9936 20
+Object: 35.7832 -97.4854 20
+  Icon: 1
+  Text: 0,1,1,"🔴 Texas Weather Live 24/7 | Live Radar, Severe Alerts &amp; Texas Forecasts 🔴 [Live](https://www.youtube.com/watch?v=j3-UFQ9Gpjs)"
+End:
+
+Object: 35.8060 -97.7761 20
+  Icon: 1
+  Text: 0,1,1,"Live Storm Chasers - Tornado &amp; Hail Threat - North Texas 🔴 [Live](https://www.youtube.com/watch?v=6bxVdW6ZGWY)"
+End:
+
+Object: 35.4375 -97.9807 20
   Icon: 1
   Text: 0,1,1,"⛈ LIVE: Severe Weather Cams 24/7 — Tornado, Hurricane &amp; Storm Alerts USA 🔴 [Live](https://www.youtube.com/watch?v=8VuNR16KQ-s)"
 End:
 
-Object: 35.0354 -97.7592 20
-  Icon: 1
-  Text: 0,1,1,"🚨 LIVE 24/7 SEVERE WEATHER STREAM | TORNADO THREAT NOW | MODERATE RISK 🔴 [Live](https://www.youtube.com/watch?v=nmksTtU26Yk)"
-End:
-
-Object: 35.6992 -97.9915 20
+Object: 35.8900 -97.7378 20
   Icon: 1
   Text: 0,1,1,"Tornadoes, Hurricanes &amp; Earth’s Most EXTREME Disasters | Mega Disaster S1 🔴 [Live](https://www.youtube.com/watch?v=r0GLimENLjw)"
 End:
 
-Object: 35.0175 -97.7205 20
+Object: 35.1888 -97.1302 20
   Icon: 1
-  Text: 0,1,1,"LIVE UPDATE on storm chances the remainder of Tuesday 🔴 [Live](https://www.youtube.com/watch?v=VZxBPI6KndU)"
+  Text: 0,1,1,"🚨 LIVE 24/7 SEVERE WEATHER STREAM | TORNADO THREAT NOW | MODERATE RISK 🔴 [Live](https://www.youtube.com/watch?v=nmksTtU26Yk)"
 End:
 
-Object: 35.2462 -97.7697 20
+Object: 35.0597 -97.0038 20
+  Icon: 1
+  Text: 0,1,1,"🔴 April 28 Moderate Risk for TX! Large hail likely! 🔴 [Live](https://www.youtube.com/watch?v=q3GqZbdFHa4)"
+End:
+
+Object: 35.0394 -97.5445 20
+  Icon: 1
+  Text: 0,1,1,"Alabama Weather Network Live Channel 🔴 [Live](https://www.youtube.com/watch?v=AHKTKRC9K28)"
+End:
+
+Object: 35.1871 -97.0335 20
+  Icon: 1
+  Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
+End:
+
+Object: 35.4569 -97.9674 20
   Icon: 1
   Text: 0,1,1,"🔴 Terrible Storm Wipha in Beach - Heavy Rainstorm &amp; Powerful Thunder Sound, Very Strong Howling Wind 🔴 [Live](https://www.youtube.com/watch?v=IV3Fnoaljfs)"
-End:
-
-Object: 35.9474 -97.9341 20
-  Icon: 1
-  Text: 0,1,1,"🔴 24/7 LIVE: Epic Natural Disasters: Hurricanes, Tornadoes &amp; Killer Storms | Beyond Catastrophes 🔴 [Live](https://www.youtube.com/watch?v=dLELuPx1Vg4)"
-End:
-
-Object: 35.1143 -97.0087 20
-  Icon: 1
-  Text: 0,1,1,"DFW Weather LIVE 24/7: North Texas Forecast &amp; Updates [Official Stream] | Saturday Night 🔴 [Live](https://www.youtube.com/watch?v=TuT6gwZr-Nc)"
-End:
-
-Object: 35.1615 -97.1594 20
-  Icon: 1
-  Text: 0,1,1,"5NEWS Weather Impact 24/7 LIVE Weather 🔴 [Live](https://www.youtube.com/watch?v=9nT0V32jVjk)"
-End:
-
-Object: 35.1769 -97.6227 20
-  Icon: 1
-  Text: 0,1,1,"Dodge City Tornado Outbreak — Real Storm Chase Dashcam (Full Chase) 🔴 [Live](https://www.youtube.com/watch?v=PERCj60KrFc)"
-End:
-
-Object: 35.4722 -97.5551 20
-  Icon: 1
-  Text: 0,1,1,"Eliminate Insomnia vs Stress To Fall Asleep Fast With Terrible Hurricane And Powerful Thunder Sounds 🔴 [Live](https://www.youtube.com/watch?v=5awsvTeNMQQ)"
-End:
-
-Object: 35.2803 -97.4102 20
-  Icon: 1
-  Text: 0,1,1,"🛑🌪️BREAKING-TED &amp; SHIBBY TORNADO THREAT-LIVE-MISSOURI-IOWA-ILLINOIS-STORMCHASING-TWISTER-SUPERCELL 🔴 [Live](https://www.youtube.com/watch?v=mG2HIFwtx8c)"
 End:
