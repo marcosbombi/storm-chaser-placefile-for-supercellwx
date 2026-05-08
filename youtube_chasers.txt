@@ -1,129 +1,129 @@
-# Generated: 2026-05-08T22:14:23.472914Z
+# Generated: 2026-05-08T23:13:46.045050Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.8181 -97.4110 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE Tornado Chase | Oklahoma | May 8, 2026 🔴 [Live](https://www.youtube.com/watch?v=WQ_tvTkVN-g)"
-End:
-
-Object: 35.6892 -97.7677 20
+Object: 35.7710 -97.6140 20
   Icon: 1
   Text: 0,1,1,"LIVE Supercell Potential in Oklahoma | Tornado Risk? | Birthday Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=30CX0wVUPQo)"
 End:
 
-Object: 35.2724 -97.8460 20
+Object: 35.7730 -97.2014 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE Tornado Chase | Oklahoma | May 8, 2026 🔴 [Live](https://www.youtube.com/watch?v=WQ_tvTkVN-g)"
+End:
+
+Object: 35.9528 -97.6808 20
+  Icon: 1
+  Text: 0,1,1,"🔴 BREAKING SEVERE WEATHER COVERAGE - Giant Hail &amp; Tornadoes Possible With LIVE Storm Chasers... 🔴 [Live](https://www.youtube.com/watch?v=ELcFve0zV-Y)"
+End:
+
+Object: 35.0943 -97.2794 20
   Icon: 1
   Text: 0,1,1,"Live Storm Chase | Oklahoma Severe Weather Risk 🔴 [Live](https://www.youtube.com/watch?v=2nOt1gOJdBQ)"
 End:
 
-Object: 35.9395 -97.0530 20
+Object: 35.6301 -97.4151 20
   Icon: 1
   Text: 0,1,1,"🔴  Storm Chasers Live | Severe Thunderstorm Live Chasing | Ryan Hall Y All Live | Max Velocity Storm 🔴 [Live](https://www.youtube.com/watch?v=XKj2wQRwfF8)"
 End:
 
-Object: 35.5964 -97.6249 20
+Object: 35.9160 -97.3397 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=LREAztFefFo)"
 End:
 
-Object: 35.2831 -97.9932 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE - Destructive Storms &amp; Baseball Hail In OK - 24/7 National Weather Alerts With YallBot #NTL 🔴 [Live](https://www.youtube.com/watch?v=rqHW2HhgGQ0)"
-End:
-
-Object: 35.0370 -97.5450 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE Severe Weather Coverage - Live Storm Chasers And Tornado Warnings... 🔴 [Live](https://www.youtube.com/watch?v=sgJ14rQRUgQ)"
-End:
-
-Object: 35.9605 -97.4714 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE - KY / TN ONLY - 24/7 Weather With YallBot... #KYTN 🔴 [Live](https://www.youtube.com/watch?v=xEzwS0RYUEs)"
-End:
-
-Object: 35.3433 -97.6298 20
+Object: 35.2623 -97.3261 20
   Icon: 1
   Text: 0,1,1,"LIVE TORNADO CHASE: 8 May, 2026 🔴 [Live](https://www.youtube.com/watch?v=9830cUNWWyE)"
 End:
 
-Object: 35.6901 -97.4177 20
+Object: 35.2693 -97.9883 20
   Icon: 1
-  Text: 0,1,1,"🔴Storm Chasers LIVE🔴Drivin&#39; N&#39; Vibin&#39; back to PA! 🔴 [Live](https://www.youtube.com/watch?v=m-e_gPSDCgw)"
+  Text: 0,1,1,"🔴 LIVE - Destructive Storms &amp; Baseball Hail In OK - 24/7 National Weather Alerts With YallBot #NTL 🔴 [Live](https://www.youtube.com/watch?v=rqHW2HhgGQ0)"
 End:
 
-Object: 35.2974 -97.0274 20
+Object: 35.4243 -97.4861 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE - KY / TN ONLY - 24/7 Weather With YallBot... #KYTN 🔴 [Live](https://www.youtube.com/watch?v=xEzwS0RYUEs)"
+End:
+
+Object: 35.2400 -97.9041 20
   Icon: 1
   Text: 0,1,1,"SNEAKY OKLAHOMA TORNADO THREAT - (LIVE STORM CHASING) 🔴 [Live](https://www.youtube.com/watch?v=FERxRqdeHD8)"
 End:
 
-Object: 35.3824 -97.6751 20
+Object: 35.3515 -97.6861 20
   Icon: 1
-  Text: 0,1,1,"Live Texas Weather 24/7 | Real-Time Radar, Warnings &amp; Cameras 🔴 [Live](https://www.youtube.com/watch?v=mQN3kFqJki8)"
+  Text: 0,1,1,"🔴 LIVE Severe Weather Coverage - Live Storm Chasers And Tornado Warnings... 🔴 [Live](https://www.youtube.com/watch?v=sgJ14rQRUgQ)"
 End:
 
-Object: 35.8575 -97.8986 20
+Object: 35.3420 -97.2349 20
+  Icon: 1
+  Text: 0,1,1,"🔴Storm Chasers LIVE🔴Drivin&#39; N&#39; Vibin&#39; back to PA! 🔴 [Live](https://www.youtube.com/watch?v=m-e_gPSDCgw)"
+End:
+
+Object: 35.4867 -97.2436 20
+  Icon: 1
+  Text: 0,1,1,"🔴LIVE NOW: Destructive Severe Thunderstorm Warning in Oklahoma | Live Radar Coverage 🔴 [Live](https://www.youtube.com/watch?v=5KkmVqY_FJ4)"
+End:
+
+Object: 35.5715 -97.3855 20
   Icon: 1
   Text: 0,1,1,"Live Storm Chase - Oklahoma - Slight Risk !! !storm !chase !social !helpthechase !radaromega 🔴 [Live](https://www.youtube.com/watch?v=m6IjBDrRgS4)"
 End:
 
-Object: 35.5287 -97.0705 20
+Object: 35.2965 -97.5891 20
+  Icon: 1
+  Text: 0,1,1,"Live Texas Weather 24/7 | Real-Time Radar, Warnings &amp; Cameras 🔴 [Live](https://www.youtube.com/watch?v=mQN3kFqJki8)"
+End:
+
+Object: 35.5180 -97.5830 20
   Icon: 1
   Text: 0,1,1,"Storm Chaser Zack Jones Live Stream - Tornado Warning St. Louis 🔴 [Live](https://www.youtube.com/watch?v=xHutg_GbBQk)"
 End:
 
-Object: 35.8987 -97.7027 20
+Object: 35.7188 -97.2958 20
+  Icon: 1
+  Text: 0,1,1,"Michigan Severe Weather Briefing - May 8th, 2026 🔴 [Live](https://www.youtube.com/watch?v=Dq3RzGRgUi4)"
+End:
+
+Object: 35.4349 -97.4433 20
   Icon: 1
   Text: 0,1,1,"🔴 Texas Weather Live 24/7 | Live Radar, Severe Alerts &amp; Texas Forecasts 🔴 [Live](https://www.youtube.com/watch?v=j3-UFQ9Gpjs)"
 End:
 
-Object: 35.3693 -97.5790 20
+Object: 35.8559 -97.4726 20
   Icon: 1
   Text: 0,1,1,"Alabama Weather Network Live Channel 🔴 [Live](https://www.youtube.com/watch?v=AHKTKRC9K28)"
 End:
 
-Object: 35.4079 -97.7546 20
-  Icon: 1
-  Text: 0,1,1,"Tornadoes, Hurricanes &amp; Earth’s Most EXTREME Disasters | Mega Disaster S1 🔴 [Live](https://www.youtube.com/watch?v=r0GLimENLjw)"
-End:
-
-Object: 35.6157 -97.1830 20
-  Icon: 1
-  Text: 0,1,1,"🔴LIVE NOW: Flash Flood Warning in Louisiana | Live US Weather Alerts &amp; Radar 🔴 [Live](https://www.youtube.com/watch?v=5KkmVqY_FJ4)"
-End:
-
-Object: 35.4947 -97.4387 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE: Strong storms possible 🔴 [Live](https://www.youtube.com/watch?v=tncJLPag00M)"
-End:
-
-Object: 35.6132 -97.6407 20
-  Icon: 1
-  Text: 0,1,1,"⛈ LIVE: Severe Weather Cams 24/7 — Tornado, Hurricane &amp; Storm Alerts USA 🔴 [Live](https://www.youtube.com/watch?v=8VuNR16KQ-s)"
-End:
-
-Object: 35.8495 -97.9388 20
+Object: 35.8038 -97.3318 20
   Icon: 1
   Text: 0,1,1,"SOUTHEAST MOVERS TODAY! 🔴 [Live](https://www.youtube.com/watch?v=kn-Tk0Wl8uE)"
 End:
 
-Object: 35.0674 -97.6909 20
+Object: 35.4696 -97.6973 20
+  Icon: 1
+  Text: 0,1,1,"⛈ LIVE: Severe Weather Cams 24/7 — Tornado, Hurricane &amp; Storm Alerts USA 🔴 [Live](https://www.youtube.com/watch?v=8VuNR16KQ-s)"
+End:
+
+Object: 35.7022 -97.4456 20
+  Icon: 1
+  Text: 0,1,1,"LIVE | Northwest Oklahoma Severe Risk 🔴 [Live](https://www.youtube.com/watch?v=uJftMqv2LbA)"
+End:
+
+Object: 35.9107 -97.3739 20
   Icon: 1
   Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
 
-Object: 35.8218 -97.1555 20
-  Icon: 1
-  Text: 0,1,1,"🔴 24/7 LIVE: Epic Natural Disasters: Hurricanes, Tornadoes &amp; Killer Storms | Beyond Catastrophes 🔴 [Live](https://www.youtube.com/watch?v=dLELuPx1Vg4)"
-End:
-
-Object: 35.0297 -97.6607 20
-  Icon: 1
-  Text: 0,1,1,"LIVE | Northwest Oklahoma Severe Risk 🔴 [Live](https://www.youtube.com/watch?v=c6tnyCU_b5w)"
-End:
-
-Object: 35.4247 -97.5234 20
+Object: 35.9304 -97.2763 20
   Icon: 1
   Text: 0,1,1,"Tornadoes, Supercells &amp; Extreme Weather — Real Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=cYIE2Lgn0BY)"
+End:
+
+Object: 35.5781 -97.9935 20
+  Icon: 1
+  Text: 0,1,1,"Tornadoes, Hurricanes &amp; Earth’s Most EXTREME Disasters | Mega Disaster S1 🔴 [Live](https://www.youtube.com/watch?v=r0GLimENLjw)"
 End:
