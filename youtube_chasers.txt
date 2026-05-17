@@ -1,129 +1,129 @@
-# Generated: 2026-05-16T23:30:23.180298Z
+# Generated: 2026-05-17T01:29:09.783351Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.7440 -97.9427 20
+Object: 35.1199 -97.3888 20
   Icon: 1
   Text: 0,1,1,"Tornadoes, Supercells &amp; Extreme Weather — Real Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=4tIkD05ZOQY)"
 End:
 
-Object: 35.1523 -97.7714 20
+Object: 35.5726 -97.5805 20
   Icon: 1
-  Text: 0,1,1,"🔴 BREAKING TORNADO ON THE GROUND - Strong Tornadoes Possible With LIVE Storm Chasers... 🔴 [Live](https://www.youtube.com/watch?v=A-2FxS3VIJU)"
+  Text: 0,1,1,"🔴 BREAKING TORNADO THREAT COVERAGE - Strong Tornadoes Possible With LIVE Storm Chasers... 🔴 [Live](https://www.youtube.com/watch?v=A-2FxS3VIJU)"
 End:
 
-Object: 35.6199 -97.8972 20
+Object: 35.9231 -97.6611 20
   Icon: 1
-  Text: 0,1,1,"BIG DAY #1 - Tornado Chasers on the Ground 🔴 [Live](https://www.youtube.com/watch?v=3ai_bhnixcs)"
+  Text: 0,1,1,"🔴NOW: Tornado Warning In Nebraska With LIVE Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=sDqcLriiJVE)"
 End:
 
-Object: 35.1912 -97.2303 20
-  Icon: 1
-  Text: 0,1,1,"Dodge City Tornado Outbreak — Real Storm Chase Dashcam (Full Chase) 🔴 [Live](https://www.youtube.com/watch?v=ct0JIouoD8A)"
-End:
-
-Object: 35.4411 -97.7834 20
+Object: 35.0367 -97.1737 20
   Icon: 1
   Text: 0,1,1,"LIVE Severe Weather Radar | Storm Chaser Tracker - May 16, 2026 - Nebraska | Kansas Tornado Chase 🔴 [Live](https://www.youtube.com/watch?v=aHFtqs1JVek)"
 End:
 
-Object: 35.3487 -97.1596 20
+Object: 35.8442 -97.2869 20
   Icon: 1
-  Text: 0,1,1,"LIVE Storm Chaser - Tornado Threat - Nebraska 🔴 [Live](https://www.youtube.com/watch?v=wgjN5hUEnYc)"
+  Text: 0,1,1,"BIG DAY #1 - Tornado Chasers on the Ground 🔴 [Live](https://www.youtube.com/watch?v=3ai_bhnixcs)"
 End:
 
-Object: 35.3300 -97.0945 20
+Object: 35.1399 -97.4333 20
   Icon: 1
-  Text: 0,1,1,"🔴NOW: Tornado Warning For Iowa With LIVE Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=sDqcLriiJVE)"
+  Text: 0,1,1,"Dodge City Tornado Outbreak — Real Storm Chase Dashcam (Full Chase) 🔴 [Live](https://www.youtube.com/watch?v=ct0JIouoD8A)"
 End:
 
-Object: 35.0750 -97.1581 20
+Object: 35.1664 -97.2688 20
   Icon: 1
   Text: 0,1,1,"🔴LIVE Storm Chasing - Tornado Threat - Iowa, Missouri, Kansas, &amp; Nebraska 🔴 [Live](https://www.youtube.com/watch?v=Iln6PKimms4)"
 End:
 
-Object: 35.3492 -97.2044 20
+Object: 35.5004 -97.7613 20
   Icon: 1
-  Text: 0,1,1,"LIVE Tornado Threat Increasing in Iowa &amp; Missouri | Dangerous Supercell Potential | Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=dz29qkkpPww)"
+  Text: 0,1,1,"LIVE TORNADO CHASE: 16 May, 2026 🔴 [Live](https://www.youtube.com/watch?v=iGJX6CN9pbc)"
 End:
 
-Object: 35.0270 -97.2403 20
-  Icon: 1
-  Text: 0,1,1,"NE/IA STRONG TORNADO THREAT: LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=2dcoxMCYovs)"
-End:
-
-Object: 35.6091 -97.8515 20
-  Icon: 1
-  Text: 0,1,1,"LIVE STORM CHASER - Severe Weather Outbreak Possible 🔴 [Live](https://www.youtube.com/watch?v=zvlXxJI2aEQ)"
-End:
-
-Object: 35.7051 -97.8818 20
-  Icon: 1
-  Text: 0,1,1,"🔴Storm Chasers LIVE🔴Tornados possible in the Plains! 🔴 [Live](https://www.youtube.com/watch?v=tqWuvRdrqLU)"
-End:
-
-Object: 35.2078 -97.9856 20
+Object: 35.2956 -97.0198 20
   Icon: 1
   Text: 0,1,1,"LIVE STORM CHASE: Enhanced Risk! Day 2 of multi-day severe storm period 🔴 [Live](https://www.youtube.com/watch?v=TZwKdze9MFc)"
 End:
 
-Object: 35.9629 -97.1874 20
+Object: 35.7384 -97.7879 20
+  Icon: 1
+  Text: 0,1,1,"LIVE Storm Chaser - Tornado Threat - Nebraska 🔴 [Live](https://www.youtube.com/watch?v=wgjN5hUEnYc)"
+End:
+
+Object: 35.5854 -97.2979 20
+  Icon: 1
+  Text: 0,1,1,"LIVE Tornado Threat Increasing in Iowa &amp; Missouri | Dangerous Supercell Potential | Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=dz29qkkpPww)"
+End:
+
+Object: 35.0001 -97.9790 20
+  Icon: 1
+  Text: 0,1,1,"NE/IA STRONG TORNADO THREAT: LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=2dcoxMCYovs)"
+End:
+
+Object: 35.0121 -97.5048 20
+  Icon: 1
+  Text: 0,1,1,"🔴Storm Chasers LIVE🔴Tornados possible in the Plains! 🔴 [Live](https://www.youtube.com/watch?v=tqWuvRdrqLU)"
+End:
+
+Object: 35.7982 -97.6679 20
+  Icon: 1
+  Text: 0,1,1,"Getting up INTO a Crazy Hail Storm (Linneus, MO) | Live Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=peC8_TWdO30)"
+End:
+
+Object: 35.7447 -97.4562 20
+  Icon: 1
+  Text: 0,1,1,"LIVE STORM CHASER - Severe Weather Outbreak Possible 🔴 [Live](https://www.youtube.com/watch?v=zvlXxJI2aEQ)"
+End:
+
+Object: 35.4812 -97.2951 20
   Icon: 1
   Text: 0,1,1,"🔴LIVE: Dangerous Supercells &amp; Strong Tornado Threat in Iowa 🔴 [Live](https://www.youtube.com/watch?v=AoirqOybvns)"
 End:
 
-Object: 35.3531 -97.3931 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE: Severe Weather Chase | Live Drone &amp; Field Coverage 🔴 [Live](https://www.youtube.com/watch?v=lsqtNSwWmHk)"
-End:
-
-Object: 35.7706 -97.3154 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE STORM CHASER | Missouri / Iowa Tornado Threat! 🔴 [Live](https://www.youtube.com/watch?v=_DA71jd__Wo)"
-End:
-
-Object: 35.0283 -97.3295 20
-  Icon: 1
-  Text: 0,1,1,"Live View Of CRAZY SUPERCELL Trenton, MO | TORNADO THREAT INCREASING 🔴 [Live](https://www.youtube.com/watch?v=peC8_TWdO30)"
-End:
-
-Object: 35.8156 -97.0466 20
+Object: 35.1868 -97.8333 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE - TORNADO COVERAGE - Storm Chasers On The Ground - Live Weather Channel... 🔴 [Live](https://www.youtube.com/watch?v=ZCY7qD-TRxI)"
 End:
 
-Object: 35.8562 -97.9270 20
+Object: 35.2686 -97.2970 20
   Icon: 1
-  Text: 0,1,1,"LIVE STORM CHASER - Active Severe Weather Stretch Underway! 🔴 [Live](https://www.youtube.com/watch?v=q0tHm8EFT7A)"
+  Text: 0,1,1,"🔴 LIVE: Severe Weather Chase | Live Drone &amp; Field Coverage 🔴 [Live](https://www.youtube.com/watch?v=lsqtNSwWmHk)"
 End:
 
-Object: 35.1316 -97.4922 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE Severe Weather Coverage - Live Storm Chasers And Tornado Warnings... 🔴 [Live](https://www.youtube.com/watch?v=sgJ14rQRUgQ)"
-End:
-
-Object: 35.4028 -97.8949 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE - Tornado Warning In Southwest Iowa - 24/7 National Weather Alerts With YallBot #NTL 🔴 [Live](https://www.youtube.com/watch?v=rqHW2HhgGQ0)"
-End:
-
-Object: 35.7916 -97.2781 20
+Object: 35.0231 -97.6616 20
   Icon: 1
   Text: 0,1,1,"🔴LIVE | Tornado Threat Western Kansas/Colorado #tornado #hail 🔴 [Live](https://www.youtube.com/watch?v=Cs8S3oPqIe8)"
 End:
 
-Object: 35.8408 -97.6615 20
+Object: 35.0842 -97.5468 20
+  Icon: 1
+  Text: 0,1,1,"LIVE STORM CHASER - Active Severe Weather Stretch Underway! 🔴 [Live](https://www.youtube.com/watch?v=q0tHm8EFT7A)"
+End:
+
+Object: 35.3499 -97.4148 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE STORM CHASER | Missouri / Iowa Tornado Threat! 🔴 [Live](https://www.youtube.com/watch?v=_DA71jd__Wo)"
+End:
+
+Object: 35.7123 -97.0761 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=BS2_osdQ3qo)"
 End:
 
-Object: 35.1205 -97.5490 20
+Object: 35.1261 -97.7834 20
   Icon: 1
-  Text: 0,1,1,"High Plains Storm Chase at the Colorado, Kansas and Nebraska Borders 5/16/2026 🔴 [Live](https://www.youtube.com/watch?v=ohSS97Gws2k)"
+  Text: 0,1,1,"Tornadoes Possible - (LIVE STORM CHASING) 🔴 [Live](https://www.youtube.com/watch?v=jJAFRkMzzes)"
 End:
 
-Object: 35.4944 -97.0967 20
+Object: 35.2595 -97.5983 20
   Icon: 1
-  Text: 0,1,1,"Live Storm Chase - Missouri/Iowa  |  !storm !chase !social !helpthechase !radaromega 🔴 [Live](https://www.youtube.com/watch?v=LmPWxQNy6Mo)"
+  Text: 0,1,1,"Storm Chasing with Jen - Iowa/Missouri 5/16/2026 #iawx #mowx  #severeweather 🔴 [Live](https://www.youtube.com/watch?v=07eQOSJ8cfg)"
+End:
+
+Object: 35.1710 -97.9833 20
+  Icon: 1
+  Text: 0,1,1,"Enhanced Risk in Kansas and Nebraska - LIVE Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=Gj8CG_pIvsA)"
 End:
