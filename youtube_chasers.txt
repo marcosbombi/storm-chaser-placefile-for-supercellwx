@@ -1,129 +1,129 @@
-# Generated: 2026-05-17T23:37:50.515688Z
+# Generated: 2026-05-18T01:34:25.495519Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.5622 -97.9500 20
+Object: 35.9817 -97.6763 20
   Icon: 1
-  Text: 0,1,1,"🔴 BREAKING TORNADO THREAT COVERAGE - Strong Tornadoes Possible With LIVE Storm Chasers... 🔴 [Live](https://www.youtube.com/watch?v=FI_Tu2zsGIs)"
+  Text: 0,1,1,"🔴 LIVE - TORNADO ON THE GROUND - With Live Storm Chasers... 🔴 [Live](https://www.youtube.com/watch?v=sYE4C5RqTF4)"
 End:
 
-Object: 35.8470 -97.0938 20
+Object: 35.4806 -97.3479 20
   Icon: 1
   Text: 0,1,1,"Tornadoes, Supercells &amp; Extreme Weather — Real Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=1LtBICExmg8)"
 End:
 
-Object: 35.4521 -97.2877 20
+Object: 35.0899 -97.5996 20
   Icon: 1
-  Text: 0,1,1,"🔴 LIVE - TORNADO COVERAGE - With Storm Chasers On The Ground... 🔴 [Live](https://www.youtube.com/watch?v=sYE4C5RqTF4)"
+  Text: 0,1,1,"🔴 TORNADO ON THE GROUND - Strong Tornadoes Possible With LIVE Storm Chasers... 🔴 [Live](https://www.youtube.com/watch?v=FI_Tu2zsGIs)"
 End:
 
-Object: 35.8612 -97.2382 20
+Object: 35.5543 -97.2758 20
   Icon: 1
   Text: 0,1,1,"Dodge City Tornado Outbreak — Real Storm Chase Dashcam (Full Chase) 🔴 [Live](https://www.youtube.com/watch?v=MMUA7IU5veE)"
 End:
 
-Object: 35.4145 -97.3882 20
-  Icon: 1
-  Text: 0,1,1,"HEADS UP! - Tornado Chasers on the Hunt 🔴 [Live](https://www.youtube.com/watch?v=8_CQbk9zrjw)"
-End:
-
-Object: 35.4284 -97.4108 20
-  Icon: 1
-  Text: 0,1,1,"LIVE TORNADO CHASE: 17 May, 2026 🔴 [Live](https://www.youtube.com/watch?v=6F6yg853RjU)"
-End:
-
-Object: 35.2264 -97.8837 20
+Object: 35.4943 -97.4585 20
   Icon: 1
   Text: 0,1,1,"LIVE Tornado Outbreak Potential in Nebraska | Dangerous Supercell Storms | Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=pQAZTPPD948)"
 End:
 
-Object: 35.9637 -97.5657 20
+Object: 35.9490 -97.3465 20
   Icon: 1
   Text: 0,1,1,"LIVE STORM CHASE: Tornado Risk Ramps Up Today and Tomorrow 🔴 [Live](https://www.youtube.com/watch?v=t9i_Aqydxko)"
 End:
 
-Object: 35.2249 -97.3997 20
+Object: 35.0934 -97.8706 20
   Icon: 1
-  Text: 0,1,1,"🔴NOW: TORNADO WARNING IN NEBRASKA, MINNESOTA, and COLORADO With LIVE Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=qp8H7F1bmhM)"
+  Text: 0,1,1,"LIVE TORNADO CHASE: 17 May, 2026 🔴 [Live](https://www.youtube.com/watch?v=6F6yg853RjU)"
 End:
 
-Object: 35.2660 -97.9280 20
+Object: 35.4704 -97.9095 20
   Icon: 1
-  Text: 0,1,1,"LIVE Storm Chaser - Strong Tornado Threat - Nebraska/Iowa/South Dakota Chasing Tornado Warned Storms 🔴 [Live](https://www.youtube.com/watch?v=ys-xSxTXSDM)"
+  Text: 0,1,1,"🔴NOW: 7 TORNADO WARNINGS IN KANSAS, NEBRASKA, AND IOWA With LIVE Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=qp8H7F1bmhM)"
 End:
 
-Object: 35.5306 -97.3955 20
+Object: 35.9744 -97.5298 20
   Icon: 1
   Text: 0,1,1,"🔴LIVE Storm Chasing - Tornado Outbreak - Nebraska &amp; Iowa 🔴 [Live](https://www.youtube.com/watch?v=55CCUdxq244)"
 End:
 
-Object: 35.1074 -97.9059 20
-  Icon: 1
-  Text: 0,1,1,"Michigan Severe Weather Coverage - May 17th, 2026 🔴 [Live](https://www.youtube.com/watch?v=J_HCmO9QhlY)"
-End:
-
-Object: 35.4705 -97.0580 20
-  Icon: 1
-  Text: 0,1,1,"🔴Storm Chasers LIVE🔴High Tornado Threat in the Plains! 🔴 [Live](https://www.youtube.com/watch?v=RSahb2hjvsg)"
-End:
-
-Object: 35.3457 -97.8090 20
-  Icon: 1
-  Text: 0,1,1,"Live Storm Chase - Nebraska - 15% Hatched Tornado Risk  |  !storm !social !helpthechase !radaromega 🔴 [Live](https://www.youtube.com/watch?v=NUZsntocxJM)"
-End:
-
-Object: 35.7707 -97.6339 20
+Object: 35.9610 -97.6704 20
   Icon: 1
   Text: 0,1,1,"🔴LIVE - MAJOR TORNADO &amp; SEVERE WEATHER COVERAGE  May 17, 2026 🔴 [Live](https://www.youtube.com/watch?v=qsYwUcaw1rw)"
 End:
 
-Object: 35.0230 -97.8968 20
+Object: 35.9820 -97.5109 20
+  Icon: 1
+  Text: 0,1,1,"Live Storm Chase - Nebraska - 15% Hatched Tornado Risk  |  !storm !social !helpthechase !radaromega 🔴 [Live](https://www.youtube.com/watch?v=NUZsntocxJM)"
+End:
+
+Object: 35.1729 -97.6648 20
+  Icon: 1
+  Text: 0,1,1,"🔴Storm Chasers LIVE🔴High Tornado Threat in the Plains! 🔴 [Live](https://www.youtube.com/watch?v=RSahb2hjvsg)"
+End:
+
+Object: 35.4265 -97.9487 20
   Icon: 1
   Text: 0,1,1,"🔴  Tornado Warn Storm Live Chasing | Storm Chasers Live | Ryan Hall Y All Live | Max Velocity Storm 🔴 [Live](https://www.youtube.com/watch?v=KzkS31bvvm0)"
 End:
 
-Object: 35.9436 -97.0310 20
-  Icon: 1
-  Text: 0,1,1,"🔴LIVE: Strong Tornado Threat in Nebraska Today 🔴 [Live](https://www.youtube.com/watch?v=iAkKAbRLq_I)"
-End:
-
-Object: 35.6358 -97.5129 20
+Object: 35.5598 -97.8597 20
   Icon: 1
   Text: 0,1,1,"🔴ALL HAZARDS POSSIBLE | LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=0E7OBRhyw5E)"
 End:
 
-Object: 35.4326 -97.3568 20
-  Icon: 1
-  Text: 0,1,1,"🔴 Great Plains Severe Weather | DAY 2 - LIVE Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=BbBbtaRKL38)"
-End:
-
-Object: 35.1696 -97.4035 20
-  Icon: 1
-  Text: 0,1,1,"STRONG TORNADOES- (LIVE STORM CHASING) 🔴 [Live](https://www.youtube.com/watch?v=8cPrZhwMJUo)"
-End:
-
-Object: 35.9939 -97.8358 20
-  Icon: 1
-  Text: 0,1,1,"Oklahoma Storm Chase 5/17/2026 🔴 [Live](https://www.youtube.com/watch?v=4DGIay8aVoo)"
-End:
-
-Object: 35.3511 -97.2603 20
-  Icon: 1
-  Text: 0,1,1,"Live Storm Chaser -Tornado Outbreak Possible 🔴 [Live](https://www.youtube.com/watch?v=WRUTba57p50)"
-End:
-
-Object: 35.1438 -97.4542 20
+Object: 35.9271 -97.1933 20
   Icon: 1
   Text: 0,1,1,"Tornado Outbreak? Nebraska - Live Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=jayh0lEV4xY)"
 End:
 
-Object: 35.1926 -97.8016 20
+Object: 35.1296 -97.1260 20
   Icon: 1
-  Text: 0,1,1,"LIVE STORM CHASER - Big Risk For Strong Tornadoes Today!! 🔴 [Live](https://www.youtube.com/watch?v=9weqRp43Ml0)"
+  Text: 0,1,1,"🔴LIVE: Strong Tornado Threat in Nebraska Today 🔴 [Live](https://www.youtube.com/watch?v=iAkKAbRLq_I)"
 End:
 
-Object: 35.5286 -97.6267 20
+Object: 35.8177 -97.0172 20
   Icon: 1
-  Text: 0,1,1,"LIVE: Strong Tornado Threat In Central Nebraska 🔴 [Live](https://www.youtube.com/watch?v=UpdS3TlKJi0)"
+  Text: 0,1,1,"🔴 Great Plains Severe Weather | DAY 2 - LIVE Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=BbBbtaRKL38)"
+End:
+
+Object: 35.3026 -97.0443 20
+  Icon: 1
+  Text: 0,1,1,"LIVE: Tornado Threat for Nebraska | Severe Weather Coverage 🔴 [Live](https://www.youtube.com/watch?v=20CBHPAPj2M)"
+End:
+
+Object: 35.9791 -97.3843 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE: Hebron NE, Prior Active Tornado Emergency | On Location Storm Coverage 🔴 [Live](https://www.youtube.com/watch?v=MUi76_EmQQc)"
+End:
+
+Object: 35.1609 -97.0341 20
+  Icon: 1
+  Text: 0,1,1,"🔴LIVE NOW: Tornado Warnings Active in IA, NE, KS | 5 in Effect | Live Radar Coverage 🔴 [Live](https://www.youtube.com/watch?v=5KkmVqY_FJ4)"
+End:
+
+Object: 35.8675 -97.1865 20
+  Icon: 1
+  Text: 0,1,1,"Live Storm Chaser -Tornado Outbreak Possible 🔴 [Live](https://www.youtube.com/watch?v=WRUTba57p50)"
+End:
+
+Object: 35.1766 -97.2063 20
+  Icon: 1
+  Text: 0,1,1,"TORNADO OUTBREAK POSSIBLE IN NEBRASKA: LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=W_F9NI_FAAc)"
+End:
+
+Object: 35.7638 -97.7591 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=BS2_osdQ3qo)"
+End:
+
+Object: 35.6333 -97.1424 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE - Tornado On The Ground In Iowa - 24/7 National Weather Alerts With YallBot #NTL 🔴 [Live](https://www.youtube.com/watch?v=rqHW2HhgGQ0)"
+End:
+
+Object: 35.9307 -97.8208 20
+  Icon: 1
+  Text: 0,1,1,"LIVE 15 PERCENT TORNADO CHANCE NEBRASKA SOUTH DAKOTA .#LIVE 🔴 [Live](https://www.youtube.com/watch?v=igTSC25FiX4)"
 End:
