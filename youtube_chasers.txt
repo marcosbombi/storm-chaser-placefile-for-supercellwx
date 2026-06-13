@@ -1,129 +1,129 @@
-# Generated: 2026-06-13T21:18:50.002849Z
+# Generated: 2026-06-13T22:33:18.430060Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.4652 -97.4951 20
+Object: 35.7724 -97.8705 20
+  Icon: 1
+  Text: 0,1,1,"🔴 BREAKING TORNADO WARNING IN KANSAS - Large Tornadoes Possible With LIVE Storm Chasers... 🔴 [Live](https://www.youtube.com/watch?v=qYg6iyFjo9s)"
+End:
+
+Object: 35.4717 -97.3955 20
   Icon: 1
   Text: 0,1,1,"Tornadoes, Supercells &amp; Extreme Weather — Real Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=ZZpjYJ2-fxc)"
 End:
 
-Object: 35.7821 -97.1844 20
-  Icon: 1
-  Text: 0,1,1,"Dodge City Tornado Outbreak — Real Storm Chase Dashcam (Full Chase) 🔴 [Live](https://www.youtube.com/watch?v=DHtK_25w88k)"
-End:
-
-Object: 35.8727 -97.5144 20
+Object: 35.7051 -97.5409 20
   Icon: 1
   Text: 0,1,1,"LIVE Tornado Threat Increasing in Kansas &amp; Missouri | Dangerous Supercell Potential | Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=s0dXA_lQk4o)"
 End:
 
-Object: 35.1695 -97.9963 20
+Object: 35.6375 -97.9813 20
+  Icon: 1
+  Text: 0,1,1,"Dodge City Tornado Outbreak — Real Storm Chase Dashcam (Full Chase) 🔴 [Live](https://www.youtube.com/watch?v=DHtK_25w88k)"
+End:
+
+Object: 35.5601 -97.2293 20
   Icon: 1
   Text: 0,1,1,"🔴LIVE | Severe Weather threat with Tornadoes Kansas City #kansas #missouri #tornado 🔴 [Live](https://www.youtube.com/watch?v=rsSkiYMZLEQ)"
 End:
 
-Object: 35.0148 -97.4013 20
-  Icon: 1
-  Text: 0,1,1,"LIVE Storm Chase - Large Hail, Damaging Winds &amp; Isolated Tornadoes | Kansas &amp; Missouri 🔴 [Live](https://www.youtube.com/watch?v=iElkB5_L5u8)"
-End:
-
-Object: 35.5698 -97.6601 20
+Object: 35.0376 -97.7778 20
   Icon: 1
   Text: 0,1,1,"TORNADOES AND SIGNIFICANT WIND IN KANSAS/MISSOURI: LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=vV1IgLme7Cg)"
 End:
 
-Object: 35.4998 -97.1620 20
+Object: 35.1353 -97.2707 20
   Icon: 1
-  Text: 0,1,1,"LIVE Storm Chaser - Enhanced Tornado Threat - Nebraska/Kansas - 6/13/26 🔴 [Live](https://www.youtube.com/watch?v=Nnwo4HgWAR4)"
+  Text: 0,1,1,"LIVE Storm Chase - Large Hail, Damaging Winds &amp; Isolated Tornadoes | Kansas &amp; Missouri 🔴 [Live](https://www.youtube.com/watch?v=iElkB5_L5u8)"
 End:
 
-Object: 35.5835 -97.2774 20
+Object: 35.4844 -97.9675 20
   Icon: 1
-  Text: 0,1,1,"New Mexico Severe Weather Threat - (June 13, 2026) 🔴 [Live](https://www.youtube.com/watch?v=2bvW2jziBQc)"
+  Text: 0,1,1,"SNEAKY Tornado Day - Storm Chasers On The Ground 🔴 [Live](https://www.youtube.com/watch?v=8eK9gavsdpw)"
 End:
 
-Object: 35.7840 -97.1978 20
+Object: 35.0811 -97.5095 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: Supercells &amp; Tornado Potential in Kansas/Missouri 🔴 [Live](https://www.youtube.com/watch?v=eN6TVBOGKSk)"
 End:
 
-Object: 35.9253 -97.6079 20
+Object: 35.1669 -97.0004 20
   Icon: 1
-  Text: 0,1,1,"🔴 LIVE - Severe Storms Hitting KS, MO &amp; AR - 24/7 National Weather Alerts With YallBot #NTL 🔴 [Live](https://www.youtube.com/watch?v=rqHW2HhgGQ0)"
+  Text: 0,1,1,"🔴  Tornado Intercepted | Storm Chasers Live | Ryan Hall Y All Live | Max Velocity Storm 🔴 [Live](https://www.youtube.com/watch?v=CNze_JPXwVo)"
 End:
 
-Object: 35.5753 -97.8609 20
+Object: 35.1452 -97.4872 20
   Icon: 1
-  Text: 0,1,1,"🔴LIVE | Storm Chasers Live| | Ryan Hall Y All 🔴 [Live](https://www.youtube.com/watch?v=Zlc9S5RkMlI)"
+  Text: 0,1,1,"New Mexico Severe Weather Threat - (June 13, 2026) 🔴 [Live](https://www.youtube.com/watch?v=2bvW2jziBQc)"
 End:
 
-Object: 35.5881 -97.4403 20
+Object: 35.2176 -97.5715 20
+  Icon: 1
+  Text: 0,1,1,"KANSAS CITY TORNADO THREAT - Live Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=NlnvOaFLO80)"
+End:
+
+Object: 35.4812 -97.8498 20
+  Icon: 1
+  Text: 0,1,1,"LIVE Storm Chaser - Enhanced Tornado Threat - Nebraska/Kansas - 6/13/26 🔴 [Live](https://www.youtube.com/watch?v=bZNdTVvy0iE)"
+End:
+
+Object: 35.6077 -97.8313 20
   Icon: 1
   Text: 0,1,1,"LIVE STORM CHASER: CHASING NORTH ARKANSAS 🔴 [Live](https://www.youtube.com/watch?v=WL6GAAqEyMc)"
 End:
 
-Object: 35.2604 -97.3297 20
+Object: 35.5248 -97.6958 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE - Tornado Warning In Kansas - 24/7 National Weather Alerts With YallBot #NTL 🔴 [Live](https://www.youtube.com/watch?v=rqHW2HhgGQ0)"
+End:
+
+Object: 35.3635 -97.0710 20
+  Icon: 1
+  Text: 0,1,1,"🔴LIVE | Storm Chasers Live| | Ryan Hall Y All 🔴 [Live](https://www.youtube.com/watch?v=Zlc9S5RkMlI)"
+End:
+
+Object: 35.2441 -97.7357 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE Severe Weather Coverage - Live Storm Chasers And Tornado Warnings... 🔴 [Live](https://www.youtube.com/watch?v=sgJ14rQRUgQ)"
 End:
 
-Object: 35.3668 -97.5091 20
+Object: 35.8152 -97.3389 20
+  Icon: 1
+  Text: 0,1,1,"Storm Chasers Live - Kansas Severe Weather Coverage 🔴 [Live](https://www.youtube.com/watch?v=k7Ae_6kte-Y)"
+End:
+
+Object: 35.1244 -97.7926 20
   Icon: 1
   Text: 0,1,1,"🔴 LIVE: SEVERE WEATHER COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=F3WgqFKeh64)"
 End:
 
-Object: 35.2022 -97.4514 20
+Object: 35.6052 -97.3385 20
   Icon: 1
-  Text: 0,1,1,"🔴 LIVE - 24/7 Weather For Kentucky And Tennessee With YallBot... #KYTN 🔴 [Live](https://www.youtube.com/watch?v=OQpgz8u7YCA)"
+  Text: 0,1,1,"LIVE TORNADO CHASE: 13 June, 2026 🔴 [Live](https://www.youtube.com/watch?v=CwxCpqsh4uw)"
 End:
 
-Object: 35.9574 -97.6174 20
+Object: 35.8341 -97.8505 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE - TORNADO WARNING IN KANSAS - STORM CHASERS IN THE FIELD 🔴 [Live](https://www.youtube.com/watch?v=i1JO3GTfLKk)"
+End:
+
+Object: 35.6447 -97.0378 20
   Icon: 1
   Text: 0,1,1,"Birthday Weekend Nader?? - LIVE Storm Chase - Kansas - 5% Tornado Risk - !RadarOmega !helpthechase 🔴 [Live](https://www.youtube.com/watch?v=RH4Bz6cNvks)"
 End:
 
-Object: 35.7568 -97.3771 20
+Object: 35.4687 -97.3153 20
   Icon: 1
-  Text: 0,1,1,"🔴 Texas Weather Live 24/7 | Live Radar, Severe Alerts &amp; Texas Forecasts 🔴 [Live](https://www.youtube.com/watch?v=j3-UFQ9Gpjs)"
+  Text: 0,1,1,"🔴 LIVE - 24/7 Weather For Kentucky And Tennessee With YallBot... #KYTN 🔴 [Live](https://www.youtube.com/watch?v=OQpgz8u7YCA)"
 End:
 
-Object: 35.2621 -97.3538 20
+Object: 35.4133 -97.8161 20
   Icon: 1
-  Text: 0,1,1,"SEVERE WEATHER RAMPING UP | LATE NIGHT CHASE | LIVE STORM CHASING 🔴 [Live](https://www.youtube.com/watch?v=wIPzgToD074)"
+  Text: 0,1,1,"🔴LIVE CHASE - Damaging Wind &amp; Tornado Threat in NE Oklahoma - June 13, 2026 🔴 [Live](https://www.youtube.com/watch?v=jOjXPtQtC1s)"
 End:
 
-Object: 35.4642 -97.4266 20
+Object: 35.5686 -97.6003 20
   Icon: 1
   Text: 0,1,1,"LIVE STORM CHASER: Severe Weather Coverage For Kansas 🔴 [Live](https://www.youtube.com/watch?v=VBmttFCOyjU)"
-End:
-
-Object: 35.9316 -97.5563 20
-  Icon: 1
-  Text: 0,1,1,"Tornadoes, Hurricanes &amp; Earth’s Most EXTREME Disasters | Mega Disaster S1 🔴 [Live](https://www.youtube.com/watch?v=r0GLimENLjw)"
-End:
-
-Object: 35.7556 -97.1057 20
-  Icon: 1
-  Text: 0,1,1,"Kansas &amp; Missouri Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=AG4Bnf1eGms)"
-End:
-
-Object: 35.4639 -97.6355 20
-  Icon: 1
-  Text: 0,1,1,"⛈ LIVE: Severe Weather Cams 24/7 — Tornado, Hurricane &amp; Storm Alerts USA 🔴 [Live](https://www.youtube.com/watch?v=8VuNR16KQ-s)"
-End:
-
-Object: 35.6408 -97.6507 20
-  Icon: 1
-  Text: 0,1,1,"🔴Central Plains SEVERE THREAT | LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=XBbfu3U52hE)"
-End:
-
-Object: 35.8420 -97.9522 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE Storm Chasing | KANSAS  Trying to avoid the deployment armada. 🔴 [Live](https://www.youtube.com/watch?v=zFgb1JmIGoE)"
-End:
-
-Object: 35.0238 -97.0318 20
-  Icon: 1
-  Text: 0,1,1,"Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts 🔴 [Live](https://www.youtube.com/watch?v=wt6SIE7BXS8)"
 End:
