@@ -1,129 +1,129 @@
-# Generated: 2026-06-17T19:31:59.580411Z
+# Generated: 2026-06-17T21:32:48.215011Z
 Title: YouTube Storm Chaser Live Streams
 Refresh: 300
 Color: 255 0 0
 
-Object: 35.2339 -97.3351 20
+Object: 35.2662 -97.8534 20
+  Icon: 1
+  Text: 0,1,1,"🔴 BREAKING TORNADO ON THE GROUND IN ILLINOIS - Large Tornadoes Likely With LIVE Storm Chasers... 🔴 [Live](https://www.youtube.com/watch?v=UjGguTjCMQ0)"
+End:
+
+Object: 35.6724 -97.5057 20
   Icon: 1
   Text: 0,1,1,"Tornadoes, Supercells &amp; Extreme Weather — Real Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=u09z2F9YwKU)"
 End:
 
-Object: 35.9142 -97.1700 20
+Object: 35.1447 -97.8690 20
+  Icon: 1
+  Text: 0,1,1,"MASSIVE Tornado Threat - Live Storm Chasers 🔴 [Live](https://www.youtube.com/watch?v=urv7Vws_vww)"
+End:
+
+Object: 35.8286 -97.2679 20
   Icon: 1
   Text: 0,1,1,"LIVE Tornado Outbreak Potential in Illinois &amp; Indiana | Dangerous Supercell | Storm Chasing 🔴 [Live](https://www.youtube.com/watch?v=AYZs7xidOYo)"
 End:
 
-Object: 35.6270 -97.9582 20
-  Icon: 1
-  Text: 0,1,1,"Dodge City Tornado Outbreak — Real Storm Chase Dashcam (Full Chase) 🔴 [Live](https://www.youtube.com/watch?v=0RFoWvLP0E0)"
-End:
-
-Object: 35.7336 -97.3191 20
+Object: 35.5180 -97.1482 20
   Icon: 1
   Text: 0,1,1,"LIVE: Severe Weather / Tornado Coverage With Storm Chasers - Midwest June 17 🔴 [Live](https://www.youtube.com/watch?v=IzrTYq4zUs0)"
 End:
 
-Object: 35.7223 -97.6802 20
+Object: 35.4365 -97.4613 20
+  Icon: 1
+  Text: 0,1,1,"Dodge City Tornado Outbreak — Real Storm Chase Dashcam (Full Chase) 🔴 [Live](https://www.youtube.com/watch?v=0RFoWvLP0E0)"
+End:
+
+Object: 35.0145 -97.5145 20
   Icon: 1
   Text: 0,1,1,"LIVE STORM CHASE: Tornado Outbreak Threatens Illinois &amp; Indiana 🔴 [Live](https://www.youtube.com/watch?v=OjcQADK6mOo)"
 End:
 
-Object: 35.4534 -97.0550 20
-  Icon: 1
-  Text: 0,1,1,"🔴LIVE: Dangerous Tornado Threat Across IL, IN &amp; OH | Long-Tracked Supercells Possible 🔴 [Live](https://www.youtube.com/watch?v=AYgsXJVScHs)"
-End:
-
-Object: 35.9874 -97.2777 20
+Object: 35.7148 -97.3158 20
   Icon: 1
   Text: 0,1,1,"SIGNIFICANT TORNADO OUTBREAK IN ILLINOIS: LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=2NjdmbUa-T0)"
 End:
 
-Object: 35.6759 -97.4345 20
+Object: 35.7763 -97.2516 20
   Icon: 1
   Text: 0,1,1,"LIVE Storm Chase - Tornado Outbreak Likely | Illinois &amp; Indiana 🔴 [Live](https://www.youtube.com/watch?v=Fd5rLf7hQ1Q)"
 End:
 
-Object: 35.4340 -97.9428 20
+Object: 35.8980 -97.0127 20
   Icon: 1
-  Text: 0,1,1,"🔴LIVE | Storm Chasers Live| | Ryan Hall Y All 🔴 [Live](https://www.youtube.com/watch?v=7C7DrwPy5wU)"
+  Text: 0,1,1,"🔴LIVE: Dangerous Tornado Threat Across IL, IN &amp; OH | Long-Tracked Supercells Possible 🔴 [Live](https://www.youtube.com/watch?v=AYgsXJVScHs)"
 End:
 
-Object: 35.2619 -97.6732 20
+Object: 35.6243 -97.3580 20
   Icon: 1
-  Text: 0,1,1,"ILLINOIS TORNADO THREAT - Live Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=QAgJ_8y154k)"
+  Text: 0,1,1,"🔴 LIVE - TORNADO ON THE GROUND IN ALABAMA - STORM CHASERS ON IT 🔴 [Live](https://www.youtube.com/watch?v=60vJuzlaC2g)"
 End:
 
-Object: 35.8590 -97.5788 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE - Tornado Watches In IL &amp; MO - 24/7 National Weather Alerts With YallBot #NTL 🔴 [Live](https://www.youtube.com/watch?v=rqHW2HhgGQ0)"
-End:
-
-Object: 35.9594 -97.5658 20
-  Icon: 1
-  Text: 0,1,1,"🔴LIVE | IL/IN Tornado Outbreak Coverage | Storm Chaser + Meteorologist 🔴 [Live](https://www.youtube.com/watch?v=cT0oOwCVIk4)"
-End:
-
-Object: 35.4440 -97.2830 20
-  Icon: 1
-  Text: 0,1,1,"Major Tornado Outbreak for Illinois &amp; Indiana: Intense Tornadoes?! Live Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=NlenGserdRs)"
-End:
-
-Object: 35.2949 -97.1370 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE: TORNADO WATCH COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=8gOs3cZbEMU)"
-End:
-
-Object: 35.1278 -97.2850 20
-  Icon: 1
-  Text: 0,1,1,"🔴MIDWEST | TORNADO OUTBREAK POSSIBLE | LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=kEO5lwh94Cw)"
-End:
-
-Object: 35.8582 -97.1926 20
-  Icon: 1
-  Text: 0,1,1,"🔴 LIVE Severe Weather Coverage - Live Storm Chasers And Tornado Warnings... 🔴 [Live](https://www.youtube.com/watch?v=sgJ14rQRUgQ)"
-End:
-
-Object: 35.5834 -97.5185 20
-  Icon: 1
-  Text: 0,1,1,"LIVE STORM CHASE: Tornado Outbreak Threatens Illinois &amp; Indiana 🔴 [Live](https://www.youtube.com/watch?v=_Jb62A_pyi4)"
-End:
-
-Object: 35.7629 -97.9356 20
-  Icon: 1
-  Text: 0,1,1,"🔴  Tornado Intercepted | Storm Chasers Live | Ryan Hall Y All Live | Max Velocity Storm 🔴 [Live](https://www.youtube.com/watch?v=CNze_JPXwVo)"
-End:
-
-Object: 35.5598 -97.0213 20
-  Icon: 1
-  Text: 0,1,1,"LIVE Storm Chaser - Tracking Supercells With Strong Tornado Potential - IL/IN/OH 🔴 [Live](https://www.youtube.com/watch?v=2v9dhgwY-NI)"
-End:
-
-Object: 35.2873 -97.0142 20
-  Icon: 1
-  Text: 0,1,1,"🔴LIVE STORM CHASER🔴 Significant Tornado Risk in Illinois! 🔴 [Live](https://www.youtube.com/watch?v=p5ws8QaZpFI)"
-End:
-
-Object: 35.3742 -97.8531 20
+Object: 35.7857 -97.5101 20
   Icon: 1
   Text: 0,1,1,"🔴LIVE STORM CHASER🔴 Significant Tornado Risk in Illinois! 🔴 [Live](https://www.youtube.com/watch?v=hJjOFYuxlCM)"
 End:
 
-Object: 35.8953 -97.2769 20
+Object: 35.5922 -97.5528 20
   Icon: 1
-  Text: 0,1,1,"HUGE TORNADO RISK! Storm Chasing! 🔴 [Live](https://www.youtube.com/watch?v=v8vN9Q-_I80)"
+  Text: 0,1,1,"LIVE STORM CHASER: Tornado And Severe Weather Outbreak In Illinois 🔴 [Live](https://www.youtube.com/watch?v=qcTxm_uTHOA)"
 End:
 
-Object: 35.7208 -97.5924 20
+Object: 35.8219 -97.3095 20
   Icon: 1
-  Text: 0,1,1,"🔴 LIVE - 24/7 Weather For Kentucky And Tennessee With YallBot... #KYTN 🔴 [Live](https://www.youtube.com/watch?v=OQpgz8u7YCA)"
+  Text: 0,1,1,"🔴LIVE | IL/IN Tornado Outbreak Coverage | Storm Chaser + Meteorologist 🔴 [Live](https://www.youtube.com/watch?v=cT0oOwCVIk4)"
 End:
 
-Object: 35.3909 -97.5781 20
+Object: 35.4582 -97.1425 20
   Icon: 1
-  Text: 0,1,1,"LIVE Storm Chaser - Tornado Threat Live Chase in IA/IL 6/17 🔴 [Live](https://www.youtube.com/watch?v=fO5P8zm9QG4)"
+  Text: 0,1,1,"🔴 LIVE - Tornado Warnings In IL &amp; AL - 24/7 National Weather Alerts With YallBot #NTL 🔴 [Live](https://www.youtube.com/watch?v=rqHW2HhgGQ0)"
 End:
 
-Object: 35.2999 -97.9599 20
+Object: 35.8411 -97.0653 20
   Icon: 1
-  Text: 0,1,1,"LIVE Storm Chase - Illinois - 15% Elevated Hatched Tornado Risk - !RadarOmega !helpthechase !socials 🔴 [Live](https://www.youtube.com/watch?v=tO5mrhTg1ys)"
+  Text: 0,1,1,"🔴LIVE | Storm Chasers Live| | Ryan Hall Y All 🔴 [Live](https://www.youtube.com/watch?v=7C7DrwPy5wU)"
+End:
+
+Object: 35.3197 -97.9955 20
+  Icon: 1
+  Text: 0,1,1,"ILLINOIS TORNADO THREAT - Live Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=QAgJ_8y154k)"
+End:
+
+Object: 35.9521 -97.2114 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE: TORNADO WATCH COVERAGE 🔴 [Live](https://www.youtube.com/watch?v=8gOs3cZbEMU)"
+End:
+
+Object: 35.0443 -97.1052 20
+  Icon: 1
+  Text: 0,1,1,"🔴LIVE Storm Chasing - Extremely Dangerous Tornado Outbreak - Indiana &amp; Illinois 🔴 [Live](https://www.youtube.com/watch?v=TGpmS5l3Nf4)"
+End:
+
+Object: 35.6773 -97.8145 20
+  Icon: 1
+  Text: 0,1,1,"🔴LIVE STORM CHASER🔴 Significant Tornado Risk in Illinois! 🔴 [Live](https://www.youtube.com/watch?v=p5ws8QaZpFI)"
+End:
+
+Object: 35.6881 -97.9858 20
+  Icon: 1
+  Text: 0,1,1,"🔴MIDWEST | TORNADO OUTBREAK POSSIBLE | LIVE STORM CHASER 🔴 [Live](https://www.youtube.com/watch?v=kEO5lwh94Cw)"
+End:
+
+Object: 35.7080 -97.1232 20
+  Icon: 1
+  Text: 0,1,1,"🔴 Midwest Tornado OUTBREAK | 3RD TIME - LIVE Storm Chaser 🔴 [Live](https://www.youtube.com/watch?v=ORzeWFerZ2Q)"
+End:
+
+Object: 35.4049 -97.1258 20
+  Icon: 1
+  Text: 0,1,1,"LIVE STORM CHASE: Tornado Outbreak Threatens Illinois &amp; Indiana 🔴 [Live](https://www.youtube.com/watch?v=_Jb62A_pyi4)"
+End:
+
+Object: 35.9871 -97.3159 20
+  Icon: 1
+  Text: 0,1,1,"🔴GladiatorWX LIVE Storm Chasing - TORNADO OUTBREAK 🔴 6/17/2026 🔴 [Live](https://www.youtube.com/watch?v=vEOUMSZn234)"
+End:
+
+Object: 35.7677 -97.3721 20
+  Icon: 1
+  Text: 0,1,1,"🔴 LIVE Severe Weather Coverage - Live Storm Chasers And Tornado Warnings... 🔴 [Live](https://www.youtube.com/watch?v=sgJ14rQRUgQ)"
 End:
